@@ -1,3 +1,4 @@
+soal|jawaban benar,jawaban salah,jawaban salah, jawaban salah
 Siapa nama ayah Fadil Jaidi yang sering muncul di konten|Pak Muh,Mak Muh,Bang Muh,Kak Muh
 Nama panggilan ayah Fadil Jaidi adalah|Pak Muh,Pak Fadil,Pak Adil,Pak Yislam
 Fadil Jaidi dikenal sebagai seorang|Content creator,Petani,Dokter,Guru
