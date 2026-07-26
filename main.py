@@ -1,12 +1,13 @@
 # Practice app 3: Ujian Siswa v1.0
 from colorama import Fore, Style
 
-from functions import ambil_soal, proses_soal
+from functions import ambil_soal, proses_soal, ambil_tingkat
 
 
 def main():
     try:
-        soal = ambil_soal()
+        tingkat_kelas = ambil_tingkat()
+        soal = ambil_soal(tingkat_kelas)
         proses_soal(soal)
     except KeyboardInterrupt:
         print(f"\n{Fore.RED}Program dihentikan oleh pengguna!{Style.RESET_ALL}")
