@@ -1,0 +1,53 @@
+1 + 1 =|2,1,3,4
+5 + 3 =|8,7,9,6
+10 + 7 =|17,16,18,15
+12 + 15 =|27,25,28,30
+20 + 25 =|45,40,50,35
+35 + 14 =|49,48,50,51
+60 + 30 =|90,80,100,70
+75 + 25 =|100,90,110,95
+125 + 50 =|175,150,200,125
+200 + 300 =|500,400,600,550
+10 - 3 =|7,6,8,9
+15 - 8 =|7,5,6,9
+25 - 10 =|15,10,20,5
+40 - 15 =|25,20,30,35
+50 - 25 =|25,30,20,15
+75 - 30 =|45,40,50,55
+100 - 45 =|55,50,60,65
+150 - 75 =|75,70,80,85
+300 - 100 =|200,100,250,150
+500 - 250 =|250,200,300,350
+2 x 3 =|6,5,8,9
+4 x 5 =|20,15,25,30
+6 x 7 =|42,36,48,40
+8 x 5 =|40,35,45,50
+9 x 4 =|36,32,40,45
+10 x 10 =|100,90,110,120
+12 x 3 =|36,30,40,35
+15 x 2 =|30,25,35,40
+20 x 5 =|100,80,120,90
+25 x 4 =|100,90,110,120
+12 : 2 =|6,5,4,8
+20 : 4 =|5,4,6,8
+30 : 5 =|6,5,10,8
+40 : 8 =|5,4,6,10
+50 : 10 =|5,4,10,15
+60 : 6 =|10,8,12,15
+72 : 8 =|9,8,10,12
+100 : 5 =|20,15,25,10
+120 : 10 =|12,10,15,20
+200 : 20 =|10,5,15,20
+1 jam =|60 menit,30 menit,100 menit,120 menit
+1 meter =|100 cm,10 cm,50 cm,1000 cm
+1 kilogram =|1000 gram,100 gram,500 gram,2000 gram
+1 hari =|24 jam,12 jam,48 jam,60 jam
+1 minggu =|7 hari,5 hari,10 hari,14 hari
+Bangun dengan 3 sisi disebut|segitiga,persegi,lingkaran,persegi panjang
+Bangun dengan 4 sisi sama panjang disebut|persegi,segitiga,lingkaran,oval
+Bentuk roda adalah|lingkaran,segitiga,persegi,kubus
+Angka setelah 99 adalah|100,98,101,90
+Nilai tempat angka 5 pada 52 adalah|puluhan,satuan,ratusan,ribuan
+Bilangan terbesar dari 12, 25, 18 adalah|25,12,18,20
+Setengah dari 10 adalah|5,2,10,8
+Sepertiga dari 9 adalah|3,2,6,9

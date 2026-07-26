@@ -1,0 +1,53 @@
+1 + 2 =|3,2,4,5
+3 + 4 =|7,6,8,9
+5 + 6 =|11,10,12,13
+8 + 7 =|15,14,16,17
+10 + 5 =|15,12,18,20
+12 + 8 =|20,18,22,25
+15 + 10 =|25,20,30,35
+20 + 15 =|35,30,40,45
+25 + 25 =|50,45,55,60
+30 + 40 =|70,60,80,90
+10 - 3 =|7,6,8,9
+15 - 5 =|10,5,15,20
+20 - 8 =|12,10,14,16
+25 - 10 =|15,20,10,5
+30 - 15 =|15,10,20,25
+40 - 20 =|20,15,25,30
+50 - 25 =|25,20,30,35
+60 - 30 =|30,20,40,50
+80 - 40 =|40,30,50,60
+100 - 50 =|50,40,60,70
+2 x 3 =|6,5,7,8
+2 x 5 =|10,8,12,15
+3 x 4 =|12,10,14,16
+4 x 5 =|20,15,25,30
+5 x 5 =|25,20,30,35
+6 x 2 =|12,10,14,16
+7 x 2 =|14,12,16,18
+8 x 2 =|16,14,18,20
+9 x 2 =|18,16,20,22
+10 x 2 =|20,15,25,30
+6 : 2 =|3,2,4,5
+10 : 2 =|5,4,6,8
+12 : 3 =|4,3,5,6
+15 : 3 =|5,4,6,8
+20 : 4 =|5,4,8,10
+25 : 5 =|5,4,10,15
+30 : 5 =|6,5,10,15
+40 : 5 =|8,6,10,12
+50 : 10 =|5,4,10,15
+60 : 10 =|6,5,8,12
+Angka setelah 49 adalah|50,48,51,40
+Angka sebelum 100 adalah|99,98,101,90
+Bilangan terbesar dari 5, 8, 3 adalah|8,5,3,6
+Bilangan terkecil dari 10, 4, 7 adalah|4,10,7,5
+Nilai tempat angka 3 pada 35 adalah|satuan,puluhan,ratusan,ribuan
+Nilai tempat angka 5 pada 52 adalah|puluhan,satuan,ratusan,ribuan
+1 minggu =|7 hari,5 hari,10 hari,14 hari
+1 hari =|24 jam,12 jam,48 jam,10 jam
+1 meter =|100 cm,10 cm,50 cm,1000 cm
+Bentuk bola adalah|bulat,persegi,segitiga,panjang
+Bangun yang memiliki 4 sisi sama panjang adalah|persegi,lingkaran,segitiga,oval
+Setengah dari 8 adalah|4,2,6,8
+Sepertiga dari 6 adalah|2,3,4,6
