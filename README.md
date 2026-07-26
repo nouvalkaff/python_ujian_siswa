@@ -1,4 +1,4 @@
-# 📝 Ujian Siswa v1.0
+# 📝 Ujian Siswa v1.1
 
 Aplikasi berbasis Command Line (CLI) yang dibuat menggunakan Python untuk membantu siswa berlatih mengerjakan soal pilihan ganda. Soal dan pilihan jawaban akan diacak secara otomatis, kemudian sistem akan menghitung nilai akhir berdasarkan jawaban yang benar.
 
