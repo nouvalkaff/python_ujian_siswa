@@ -6,7 +6,7 @@ JUMLAH_SOAL = 10
 
 
 def ambil_soal() -> list[str]:
-    with open("bank_soal_fadil_jaidi.txt", "r") as file:
+    with open("bank_soal_sd_1.txt", "r") as file:
         list = []
         for soal in file:
             list.append(soal.strip())

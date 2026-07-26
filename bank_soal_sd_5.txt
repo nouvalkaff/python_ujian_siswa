@@ -1,0 +1,104 @@
+soal|jawaban benar,jawaban salah,jawaban salah, jawaban salah
+2456 + 3789 =|6245,6235,6255,6246
+8000 - 3567 =|4433,4423,4443,4432
+325 × 24 =|7800,7700,7900,7750
+864 ÷ 24 =|36,34,38,35
+2,5 + 3,75 =|6,25,6,15,6,5,5,25
+8,4 - 2,75 =|5,65,5,75,5,55,5,45
+25% dari 200 adalah|50,40,25,75
+10% dari 350 adalah|35,30,25,40
+3/4 + 1/8 =|7/8,5/8,3/8,1
+2 1/2 + 1 1/2 =|4,3,5,4 1/2
+FPB dari 24 dan 36 adalah|12,6,18,24
+KPK dari 15 dan 20 adalah|60,40,30,120
+Skala 1 : 100 berarti|1 cm mewakili 100 cm,1 cm mewakili 10 cm,100 cm mewakili 1 cm,10 cm mewakili 100 cm
+Volume balok =|panjang × lebar × tinggi,sisi × sisi × sisi,panjang × lebar,2 × (p+l)
+Luas segitiga =|1/2 × alas × tinggi,alas × tinggi,sisi × sisi,2 × alas
+Kalimat utama merupakan|gagasan pokok paragraf,judul cerita,penutup bacaan,contoh kalimat
+Sinonim kata "abadi" adalah|kekal,sementara,sebentar,baru
+Antonim kata "modern" adalah|tradisional,maju,baru,canggih
+Kalimat yang efektif adalah|Siswa belajar dengan tekun setiap hari.,Siswa tekun belajar dengan setiap hari.,Dengan hari siswa belajar tekun setiap.,Belajar siswa hari setiap tekun.
+Kata berimbuhan pada kalimat "Ibu memasakkan adik nasi." adalah|memasakkan,nasi,adik,ibu
+Makna denotatif adalah|makna sebenarnya,makna kiasan,makna ganda,makna tersembunyi
+Paragraf persuasi bertujuan|mengajak pembaca,menceritakan pengalaman,menjelaskan proses,menghibur pembaca
+Fotosintesis menghasilkan|oksigen dan makanan,karbon dioksida,uap air,energi listrik
+Hubungan antara makhluk hidup dan lingkungannya disebut|ekosistem,habitat,adaptasi,evolusi
+Contoh simbiosis mutualisme adalah|lebah dan bunga,kucing dan tikus,benalu dan mangga,singa dan zebra
+Rantai makanan selalu dimulai dari|produsen,konsumen,pengurai,predator
+Planet yang memiliki cincin paling jelas adalah|Saturnus,Jupiter,Mars,Venus
+Gerhana matahari terjadi ketika|bulan menutupi matahari,bumi menutupi bulan,matahari menutupi bulan,bintang menutupi bumi
+Negara anggota ASEAN yang ibu kotanya Bangkok adalah|Thailand,Vietnam,Laos,Kamboja
+ASEAN didirikan pada tahun|1967,1945,1955,1970
+Ibukota Filipina adalah|Manila,Hanoi,Bangkok,Kuala Lumpur
+Kegiatan mengirim barang ke luar negeri disebut|ekspor,impor,produksi,distribusi
+Pelaku ekonomi yang menghasilkan barang disebut|produsen,konsumen,distributor,pedagang
+Bunyi sila kelima Pancasila adalah|Keadilan sosial bagi seluruh rakyat Indonesia,Persatuan Indonesia,Kemanusiaan yang adil dan beradab,Kerakyatan yang dipimpin oleh hikmat kebijaksanaan
+UUD 1945 pertama kali disahkan pada tanggal|18 Agustus 1945,17 Agustus 1945,1 Juni 1945,28 Oktober 1928
+Musyawarah harus mengutamakan|kepentingan bersama,kepentingan pribadi,emosi,kelompok sendiri
+Hak warga negara dijamin dalam|UUD 1945,Kitab Sutasoma,Sumpah Pemuda,Piagam Jakarta
+Perangkat keras komputer disebut|hardware,software,brainware,firmware
+Sistem operasi pada komputer adalah|Windows,Microsoft Word,Google Chrome,Paint
+Perangkat lunak antivirus berfungsi untuk|melindungi komputer dari virus,menghapus file,mempercepat internet,mencetak dokumen
+Cloud storage digunakan untuk|menyimpan data secara online,mengetik dokumen,mencetak foto,menggambar
+CPU merupakan singkatan dari|Central Processing Unit,Computer Processing Utility,Central Program Unit,Computer Program Utility
+The opposite of "expensive" is|cheap,rich,large,small
+"Yesterday" means|kemarin,besok,hari ini,lusa
+The capital city of Indonesia is|Jakarta,Bandung,Surabaya,Medan
+There are seven days in a|week,month,year,hour
+We drink water because we are|thirsty,hungry,tired,angry
+A library is a place to|read books,buy clothes,play football,cook food
+The past tense of "go" is|went,goed,goes,going
+An elephant is a|mammal,bird,fish,reptile
+Rata-rata dari 6, 8, 10, dan 12 adalah|9,8,10,11
+Volume kubus dengan sisi 6 cm adalah|216 cm³,36 cm³,108 cm³,144 cm³
+Luas lingkaran dengan jari-jari 7 cm (π = 22/7) adalah|154 cm²,144 cm²,164 cm²,147 cm²
+Keliling lingkaran dengan jari-jari 7 cm (π = 22/7) adalah|44 cm,42 cm,48 cm,49 cm
+15% dari 400 adalah|60,40,50,80
+0,75 sama dengan pecahan|3/4,2/3,1/2,4/5
+3,25 × 10 =|32,5,3,25,325,30,25
+4800 ÷ 100 =|48,4,8,480,40
+Jika harga sebuah buku Rp20.000 dan membeli 3 buku, maka total harganya|Rp60.000,Rp50.000,Rp70.000,Rp80.000
+Jarak pada peta 5 cm dengan skala 1 : 200.000 adalah|10 km,5 km,20 km,1 km
+Paragraf eksposisi bertujuan|memberikan informasi,menghibur,mengajak,menceritakan pengalaman
+Kata baku yang benar adalah|aktivitas,aktifitas,aktipitas,aktivittas
+Antonim kata "kompleks" adalah|sederhana,rumit,sulit,besar
+Sinonim kata "akurat" adalah|tepat,buruk,lambat,asal
+Kalimat yang menggunakan kata hubung sebab adalah|Saya membawa payung karena hujan.,Saya belajar lalu tidur.,Andi dan Budi bermain.,Kami pergi tetapi hujan.
+Kesimpulan bacaan harus berdasarkan|isi bacaan,judul,gambar,kalimat pertama
+Contoh energi terbarukan adalah|energi surya,minyak bumi,batu bara,gas alam
+Organ tubuh yang menyaring darah adalah|ginjal,jantung,paru-paru,lambung
+Fungsi sel darah merah adalah|mengangkut oksigen,melawan kuman,membekukan darah,mencerna makanan
+Lapisan atmosfer tempat terjadinya cuaca adalah|troposfer,stratosfer,mesosfer,termosfer
+Adaptasi bebek memiliki kaki berselaput agar|pandai berenang,mudah memanjat,pandai berlari,cepat terbang
+Contoh pencemaran udara disebabkan oleh|asap kendaraan,air hujan,angin,sejuknya udara
+Indonesia memiliki iklim|tropis,subtropis,gurun,kutub
+Kegiatan mengolah bahan mentah menjadi barang jadi disebut|produksi,distribusi,konsumsi,impor
+Mata uang Thailand adalah|Baht,Ringgit,Rupiah,Dollar
+Ibukota Vietnam adalah|Hanoi,Ho Chi Minh City,Manila,Vientiane
+Kerja sama negara-negara Asia Tenggara dilakukan melalui|ASEAN,PBB,NATO,OPEC
+Contoh keragaman budaya Indonesia adalah|tarian daerah,jenis planet,benua,samudra
+Bhinneka Tunggal Ika memiliki arti|berbeda-beda tetapi tetap satu jua,bersatu kita teguh,adil dan makmur,gotong royong
+Hak asasi manusia harus|dihormati,dilanggar,dibatasi tanpa alasan,diabaikan
+Sikap yang sesuai sila kelima adalah|bersikap adil,memilih teman,berbohong,egois
+Pemilu dilaksanakan secara|langsung, umum, bebas, rahasia, jujur, dan adil,tertutup,ditunjuk,paksa
+Perangkat untuk menghubungkan komputer ke jaringan adalah|router,printer,scanner,speaker
+Aplikasi spreadsheet yang umum digunakan adalah|Microsoft Excel,Microsoft Word,Paint,Notepad
+Ekstensi file Microsoft Excel adalah|.xlsx,.docx,.pptx,.pdf
+Phishing bertujuan untuk|mencuri data pribadi,mempercepat internet,membersihkan virus,menghapus cache
+Backup data berarti|membuat salinan data,menghapus data,mengirim email,mencetak dokumen
+Kita sebaiknya mengunduh aplikasi dari|sumber resmi,website sembarang,email asing,pesan tidak dikenal
+The opposite of "early" is|late,fast,high,young
+"How are you?" berarti|Apa kabar?,Siapa namamu?,Di mana rumahmu?,Berapa umurmu?
+The plural form of "child" is|children,childs,childes,child
+The sun rises in the|east,west,north,south
+She ___ to school every day.|goes,go,going,went
+They ___ football yesterday.|played,play,plays,playing
+Indonesia proclaimed its independence in|1945,1944,1946,1950
+Ketua BPUPKI adalah|Dr. Radjiman Wedyodiningrat,Soekarno,Mohammad Hatta,Ahmad Soebardjo
+PPKI merupakan singkatan dari|Panitia Persiapan Kemerdekaan Indonesia,Panitia Pembela Kemerdekaan Indonesia,Persatuan Persiapan Kemerdekaan Indonesia,Panitia Perjuangan Kemerdekaan Indonesia
+Piagam Jakarta disusun oleh|Panitia Sembilan,BPUPKI,PPKI,DPR
+Mohammad Hatta dikenal sebagai|Wakil Presiden pertama Indonesia,Bapak Pendidikan Nasional,Bapak Koperasi,Panglima Besar
+Hari Lahir Pancasila diperingati setiap|1 Juni,17 Agustus,10 November,28 Oktober
+Lagu "Hari Merdeka" diciptakan oleh|H. Mutahar,W.R. Supratman,Ismail Marzuki,Cornel Simanjuntak
+Benteng Fort Rotterdam berada di|Makassar,Jakarta,Semarang,Surabaya
+Candi Borobudur terletak di|Magelang,Yogyakarta,Surabaya,Malang

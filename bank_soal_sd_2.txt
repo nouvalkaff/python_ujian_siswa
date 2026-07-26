@@ -1,54 +1,97 @@
 soal|jawaban benar,jawaban salah,jawaban salah, jawaban salah
-1 + 2 =|3,2,4,5
-3 + 4 =|7,6,8,9
-5 + 6 =|11,10,12,13
-8 + 7 =|15,14,16,17
-10 + 5 =|15,12,18,20
-12 + 8 =|20,18,22,25
-15 + 10 =|25,20,30,35
-20 + 15 =|35,30,40,45
-25 + 25 =|50,45,55,60
-30 + 40 =|70,60,80,90
-10 - 3 =|7,6,8,9
-15 - 5 =|10,5,15,20
-20 - 8 =|12,10,14,16
-25 - 10 =|15,20,10,5
-30 - 15 =|15,10,20,25
-40 - 20 =|20,15,25,30
-50 - 25 =|25,20,30,35
-60 - 30 =|30,20,40,50
-80 - 40 =|40,30,50,60
-100 - 50 =|50,40,60,70
-2 x 3 =|6,5,7,8
-2 x 5 =|10,8,12,15
-3 x 4 =|12,10,14,16
-4 x 5 =|20,15,25,30
-5 x 5 =|25,20,30,35
-6 x 2 =|12,10,14,16
-7 x 2 =|14,12,16,18
-8 x 2 =|16,14,18,20
-9 x 2 =|18,16,20,22
-10 x 2 =|20,15,25,30
-6 : 2 =|3,2,4,5
-10 : 2 =|5,4,6,8
-12 : 3 =|4,3,5,6
-15 : 3 =|5,4,6,8
-20 : 4 =|5,4,8,10
-25 : 5 =|5,4,10,15
-30 : 5 =|6,5,10,15
-40 : 5 =|8,6,10,12
-50 : 10 =|5,4,10,15
-60 : 10 =|6,5,8,12
-Angka setelah 49 adalah|50,48,51,40
-Angka sebelum 100 adalah|99,98,101,90
-Bilangan terbesar dari 5, 8, 3 adalah|8,5,3,6
-Bilangan terkecil dari 10, 4, 7 adalah|4,10,7,5
-Nilai tempat angka 3 pada 35 adalah|satuan,puluhan,ratusan,ribuan
-Nilai tempat angka 5 pada 52 adalah|puluhan,satuan,ratusan,ribuan
-1 minggu =|7 hari,5 hari,10 hari,14 hari
-1 hari =|24 jam,12 jam,48 jam,10 jam
-1 meter =|100 cm,10 cm,50 cm,1000 cm
-Bentuk bola adalah|bulat,persegi,segitiga,panjang
-Bangun yang memiliki 4 sisi sama panjang adalah|persegi,lingkaran,segitiga,oval
-Setengah dari 8 adalah|4,2,6,8
-Sepertiga dari 6 adalah|2,3,4,6
+12 + 15 =|27,26,28,25
+24 + 13 =|37,36,38,35
+35 + 14 =|49,48,50,47
+42 + 16 =|58,57,59,56
+27 + 21 =|48,47,49,46
+56 - 24 =|32,31,33,34
+48 - 15 =|33,32,34,35
+73 - 21 =|52,51,53,54
+64 - 32 =|32,31,33,34
+50 - 18 =|32,31,33,30
+2 × 5 =|10,8,12,15
+3 × 4 =|12,10,14,16
+5 × 6 =|30,25,35,36
+10 × 4 =|40,30,50,44
+4 × 7 =|28,24,26,30
+12 ÷ 3 =|4,3,5,6
+20 ÷ 5 =|4,5,6,3
+18 ÷ 2 =|9,8,10,7
+16 ÷ 4 =|4,3,5,6
+30 ÷ 6 =|5,4,6,7
+Bilangan yang lebih besar dari 56 adalah|57,55,54,53
+Angka puluhan pada bilangan 48 adalah|4,8,48,0
+Bangun datar yang memiliki 4 sisi sama panjang adalah|persegi,segitiga,lingkaran,oval
+Bangun datar yang tidak memiliki sudut adalah|lingkaran,persegi,segitiga,persegi panjang
+Satu minggu terdiri dari|7 hari,5 hari,6 hari,8 hari
+Lawan kata "rajin" adalah|malas,cepat,tinggi,bersih
+Sinonim kata "pandai" adalah|pintar,malas,tinggi,lapar
+Kalimat yang benar adalah|Ibu memasak di dapur.,Dapur memasak ibu.,Memasak ibu dapur.,Di ibu memasak dapur.
+Tanda baca yang digunakan di akhir kalimat tanya adalah|?,!,,.
+Huruf kapital digunakan pada awal|nama orang,nama hewan,warna,buah
+Kata yang termasuk nama hewan adalah|kelinci,meja,buku,pensil
+Antonim kata "bersih" adalah|kotor,rapi,harum,indah
+Kata "berlari" menunjukkan kegiatan|bergerak,warna,benda,tempat
+Kalimat "Adik minum susu." memiliki jumlah kata|3,2,4,5
+Buah yang memiliki banyak biji kecil di luar kulitnya adalah|stroberi,apel,pisang,jeruk
+Manusia bernapas menggunakan|paru-paru,hidung,telinga,mata
+Tumbuhan membuat makanan dengan bantuan|matahari,bulan,api,angin
+Air yang dipanaskan akan berubah menjadi|uap,es,batu,minyak
+Hewan yang berkembang biak dengan bertelur adalah|ayam,kucing,sapi,kelinci
+Pelangi biasanya muncul setelah|hujan,gempa,malam,kemarau
+Profesi yang mengajar di sekolah adalah|guru,dokter,petani,sopir
+Tempat membeli obat adalah|apotek,pasar,sekolah,terminal
+Jika matahari terbit, arahnya dari|timur,barat,utara,selatan
+Kita harus menghormati|orang tua,mainan,tembok,jalan
+Sila pertama Pancasila berbunyi|Ketuhanan Yang Maha Esa,Kemanusiaan yang Adil dan Beradab,Persatuan Indonesia,Keadilan Sosial
+Lambang sila kedua adalah|rantai,bintang,pohon beringin,padi dan kapas
+Mouse komputer digunakan untuk|menggerakkan kursor,mencetak,mengetik,merekam suara
+Keyboard digunakan untuk|mengetik,menggambar,mencuci,mendengar
+Monitor berfungsi untuk|menampilkan gambar,menghidupkan komputer,mencetak,menyimpan data
+Apple dalam bahasa Indonesia adalah|apel,pisang,mangga,jeruk
+Banana berarti|pisang,apel,anggur,pepaya
+Cat berarti|kucing,anjing,burung,ikan
+Bird berarti|burung,kucing,sapi,ayam
+Red berarti|merah,biru,hijau,kuning
+Green berarti|hijau,merah,biru,hitam
+Three berarti|tiga,dua,empat,lima
+Eight berarti|delapan,enam,tujuh,sembilan
+Good night berarti|selamat malam,selamat pagi,sampai jumpa,terima kasih
+Thank you berarti|terima kasih,maaf,tolong,hai
+Presiden pertama Indonesia adalah|Soekarno,Soeharto,Habibie,Jokowi
+Bendera Indonesia berwarna|merah putih,biru putih,hijau putih,kuning merah
+Indonesia merdeka pada tanggal|17 Agustus 1945,21 April 1945,10 November 1945,1 Juni 1945
+Ibu Fatmawati dikenal sebagai|penjahit bendera pusaka,guru,pelukis,dokter
+Monumen Nasional berada di|Jakarta,Bandung,Semarang,Surabaya
+45 + 24 =|69,68,70,71
+38 + 27 =|65,64,66,67
+54 + 15 =|69,68,70,71
+72 - 26 =|46,45,47,48
+91 - 34 =|57,56,58,59
+9 × 5 =|45,40,50,35
+8 × 4 =|32,28,36,30
+7 × 3 =|21,18,24,20
+24 ÷ 4 =|6,5,7,8
+35 ÷ 5 =|7,5,6,8
+Bilangan ganjil adalah|37,40,52,64
+Bilangan genap adalah|48,35,57,61
+Nilai satuan pada angka 73 adalah|3,7,73,0
+Bangun datar yang memiliki tiga sisi adalah|segitiga,persegi,lingkaran,oval
+Jam memiliki|60 menit,30 menit,100 menit,24 menit
+Sinonim kata "senang" adalah|gembira,sedih,malas,marah
+Antonim kata "cepat" adalah|lambat,tinggi,pendek,besar
+Kalimat yang menggunakan huruf kapital dengan benar adalah|Budi pergi ke sekolah.,budi pergi ke sekolah.,budi Pergi ke sekolah.,Budi pergi Ke sekolah.
+Tanda baca di akhir kalimat perintah adalah|.,?,,,:
+Kata yang termasuk kata kerja adalah|menulis,meja,buku,sekolah
+Benda cair yang kita minum adalah|air,batu,kayu,kapas
+Hewan pemakan rumput disebut|herbivora,karnivora,omnivora,serangga
+Akar tumbuhan berfungsi untuk|menyerap air,menghasilkan bunga,melihat,mendengar
+Siang hari terasa lebih terang karena|matahari,bulan,bintang,lampu
+Angin adalah udara yang|bergerak,diam,membeku,mengeras
+Profesi yang memadamkan kebakaran adalah|pemadam kebakaran,guru,dokter,nelayan
+Tempat kita belajar adalah|sekolah,pasar,terminal,sawah
+Jika lampu lalu lintas berwarna merah, kita harus|berhenti,berjalan,berlari,belok
+Kita harus menjaga kebersihan|lingkungan,jalan orang lain,mainan teman tanpa izin,sampah
+Sila ketiga Pancasila berbunyi|Persatuan Indonesia,Ketuhanan Yang Maha Esa,Kemanusiaan yang Adil dan Beradab,Keadilan Sosial
+Perangkat untuk mencetak dokumen adalah|printer,monitor,mouse,keyboard
+Internet dapat digunakan untuk|belajar,membuang sampah,tidur,berenang

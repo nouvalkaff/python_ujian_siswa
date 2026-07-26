@@ -1,0 +1,99 @@
+soal|jawaban benar,jawaban salah,jawaban salah, jawaban salah
+3456 + 2789 =|6245,6235,6255,6246
+8000 - 4567 =|3433,3423,3443,3432
+245 × 36 =|8820,8720,8920,8860
+960 ÷ 24 =|40,38,42,36
+12,5 + 7,85 =|20,35,20,25,19,35,21,35
+15,8 - 6,45 =|9,35,9,25,9,45,8,35
+35% dari 400 adalah|140,120,150,160
+12% dari 250 adalah|30,25,20,35
+3/4 + 2/8 =|1,7/8,3/4,5/8
+5/6 - 1/3 =|1/2,2/3,1/3,5/6
+2 1/4 + 1 3/4 =|4,3 1/2,5,4 1/2
+FPB dari 36 dan 54 adalah|18,12,9,6
+KPK dari 18 dan 24 adalah|72,48,36,96
+Skala 1 : 250.000 berarti 4 cm pada peta sama dengan|10 km,4 km,25 km,1 km
+Volume balok berukuran 12 cm × 8 cm × 5 cm adalah|480 cm³,400 cm³,520 cm³,460 cm³
+Luas lingkaran dengan jari-jari 14 cm (π = 22/7) adalah|616 cm²,308 cm²,628 cm²,600 cm²
+Rata-rata dari 60, 70, 80, 90, dan 100 adalah|80,75,85,90
+Median dari 2, 5, 7, 8, 10 adalah|7,5,8,10
+Modus dari 3, 5, 5, 6, 7 adalah|5,6,7,3
+Sudut penuh besarnya|360 derajat,180 derajat,90 derajat,270 derajat
+Ide pokok paragraf disebut juga|gagasan utama,judul,kesimpulan,pesan
+Kalimat efektif adalah|Siswa belajar dengan disiplin setiap hari.,Belajar siswa setiap hari dengan disiplin.,Dengan disiplin setiap belajar siswa hari.,Hari setiap siswa disiplin belajar dengan.
+Sinonim kata "objektif" adalah|netral,berpihak,emosional,berlebihan
+Antonim kata "optimis" adalah|pesimis,percaya diri,semangat,yakin
+Imbuhan pada kata "memperbaiki" adalah|memper- -i,me- -i,per- -i,mem- -kan
+Paragraf argumentasi bertujuan|meyakinkan pembaca,menceritakan pengalaman,menghibur pembaca,memberi petunjuk
+Makna konotatif adalah|makna kiasan,makna sebenarnya,makna kamus,makna harfiah
+Kalimat langsung ditandai dengan|tanda petik,tanda koma,tanda hubung,titik koma
+Organ tubuh yang menghasilkan insulin adalah|pankreas,jantung,ginjal,hati
+Bagian darah yang berfungsi melawan kuman adalah|sel darah putih,sel darah merah,trombosit,plasma
+Perubahan energi pada kipas angin adalah|listrik menjadi gerak,gerak menjadi listrik,panas menjadi listrik,cahaya menjadi panas
+Planet yang dijuluki Planet Merah adalah|Mars,Venus,Saturnus,Merkurius
+Lapisan ozon terdapat di|stratosfer,troposfer,mesosfer,termosfer
+Contoh energi alternatif adalah|energi surya,batu bara,minyak bumi,solar
+Hubungan saling menguntungkan disebut|mutualisme,parasitisme,komensalisme,predasi
+Ibukota Laos adalah|Vientiane,Hanoi,Bangkok,Phnom Penh
+Organisasi ASEAN didirikan di|Bangkok,Jakarta,Manila,Hanoi
+Kegiatan membeli barang dari luar negeri disebut|impor,ekspor,produksi,distribusi
+Pelaku ekonomi yang memakai barang disebut|konsumen,produsen,distributor,eksportir
+Bentuk negara Indonesia adalah|Negara Kesatuan Republik Indonesia,Kerajaan,Serikat,Monarki
+UUD 1945 terdiri atas|Pembukaan dan Batang Tubuh,Pembukaan saja,Batang Tubuh saja,Penjelasan saja
+Hak anak di sekolah adalah|mendapat pendidikan,merusak fasilitas,melanggar tata tertib,membolos
+Kewajiban warga negara adalah|menaati hukum,melanggar aturan,menghindari pajak,merusak lingkungan
+CPU merupakan singkatan dari|Central Processing Unit,Central Program Unit,Computer Processing Utility,Computer Program Unit
+Perangkat lunak pengolah presentasi adalah|Microsoft PowerPoint,Microsoft Excel,Microsoft Word,Paint
+Firewall berfungsi untuk|melindungi jaringan,mencetak dokumen,mempercepat keyboard,menyalakan monitor
+Password yang kuat sebaiknya terdiri dari|huruf, angka, dan simbol,nama sendiri,12345678,tanggal lahir
+Ctrl + Shift + Esc digunakan untuk membuka|Task Manager,File Explorer,Command Prompt,Recycle Bin
+Seorang pedagang membeli 20 buku dengan harga Rp15.000 per buku. Total harga pembelian adalah|Rp300.000,Rp250.000,Rp350.000,Rp200.000
+Harga sebuah tas Rp120.000 mendapat diskon 25%. Harga setelah diskon adalah|Rp90.000,Rp95.000,Rp100.000,Rp80.000
+Jarak sebenarnya 15 km digambar pada peta menjadi 3 cm. Skalanya adalah|1 : 500.000,1 : 50.000,1 : 150.000,1 : 5.000
+0,125 sama dengan pecahan|1/8,1/4,1/2,3/8
+75% sama dengan pecahan|3/4,2/3,1/2,4/5
+3,6 × 100 =|360,36,3600,3,6
+7/8 + 1/8 =|1,7/8,6/8,9/8
+5/6 + 1/3 =|7/6,1,5/6,2/3
+2,4 ÷ 0,6 =|4,3,5,6
+Keliling persegi dengan sisi 18 cm adalah|72 cm,36 cm,54 cm,64 cm
+Simpulan bacaan harus sesuai dengan|isi bacaan,judul saja,gambar saja,kalimat pertama
+Kalimat yang menggunakan kata baku adalah|Risiko itu harus dipertimbangkan.,Resiko itu harus dipertimbangkan.,Resikko itu harus dipertimbangkan.,Ressiko itu harus dipertimbangkan.
+Antonim kata "maksimal" adalah|minimal,optimal,besar,penuh
+Sinonim kata "solusi" adalah|penyelesaian,masalah,pertanyaan,jawaban
+Paragraf deskripsi bertujuan|menggambarkan objek,memberikan petunjuk,meyakinkan pembaca,menceritakan sejarah
+Kata "bertanggung jawab" menunjukkan sikap|positif,negatif,malas,egois
+Fungsi paru-paru adalah|pertukaran oksigen dan karbon dioksida,memompa darah,mencerna makanan,menyaring darah
+Tulang yang melindungi otak adalah|tulang tengkorak,tulang rusuk,tulang paha,tulang belakang
+Gerhana bulan terjadi ketika|bumi berada di antara matahari dan bulan,bulan berada di antara matahari dan bumi,matahari berada di antara bumi dan bulan,awan menutupi bulan
+Gaya yang menyebabkan benda tetap di permukaan bumi adalah|gravitasi,gesek,otot,magnet
+Contoh konduktor panas adalah|besi,kayu,karet,plastik
+Sumber energi yang tidak dapat diperbarui adalah|minyak bumi,angin,matahari,air
+Ibukota Kamboja adalah|Phnom Penh,Hanoi,Bangkok,Vientiane
+Contoh kegiatan distribusi adalah|mengirim barang ke toko,membuat roti,membeli makanan,menanam padi
+Indonesia berada di antara Benua Asia dan|Australia,Afrika,Eropa,Amerika
+Mata uang Singapura adalah|Dollar Singapura,Ringgit,Baht,Rupiah
+Semboyan negara Indonesia adalah|Bhinneka Tunggal Ika,Tut Wuri Handayani,Merdeka atau Mati,Ing Ngarsa Sung Tuladha
+Pemilihan ketua kelas sebaiknya dilakukan secara|musyawarah atau demokratis,paksa,acak,diam-diam
+Lembaga yang membuat undang-undang adalah|DPR,MPR,MA,BPK
+Norma yang mengatur kehidupan berbangsa adalah|norma hukum,norma mode,norma permainan,norma cuaca
+Browser yang sering digunakan untuk internet adalah|Google Chrome,Microsoft Word,Paint,Calculator
+Ekstensi file PDF adalah|.pdf,.docx,.xlsx,.pptx
+Data di internet harus dijaga agar tidak terjadi|kebocoran data,kecepatan internet,listrik padam,cetak dokumen
+Spam adalah|pesan yang tidak diinginkan,file musik,dokumen penting,program antivirus
+Artificial Intelligence disingkat|AI,IT,CPU,RAM
+The opposite of "difficult" is|easy,hard,high,long
+My mother ___ delicious food every day.|cooks,cook,cooking,cooked
+They ___ to Bali last holiday.|went,go,goes,going
+There are ___ months in a year.|twelve,ten,eleven,thirteen
+The largest planet in our solar system is|Jupiter,Mars,Earth,Venus
+"Don't run in the classroom." berarti|Jangan berlari di dalam kelas.,Berlarilah di dalam kelas.,Masuklah ke dalam kelas.,Bersihkan ruang kelas.
+Indonesia declared independence on|17 August 1945,18 August 1945,1 June 1945,10 November 1945
+Tokoh yang mengetik naskah Proklamasi adalah|Sayuti Melik,Soekarno,Mohammad Hatta,Ahmad Soebardjo
+Peristiwa Rengasdengklok terjadi sebelum|Proklamasi Kemerdekaan,Sumpah Pemuda,Konferensi Asia Afrika,Reformasi
+BPUPKI dibentuk pada tahun|1945,1944,1946,1947
+Ketua PPKI adalah|Soekarno,Mohammad Hatta,Dr. Radjiman Wedyodiningrat,Ahmad Soebardjo
+Bendera Merah Putih pertama kali dikibarkan saat|Proklamasi Kemerdekaan,Sumpah Pemuda,Pembentukan BPUPKI,Konferensi Meja Bundar
+Jenderal Sudirman dikenal sebagai|Panglima Besar TNI,Bapak Pendidikan Nasional,Bapak Koperasi,Wakil Presiden pertama
+Hari Pendidikan Nasional diperingati setiap|2 Mei,21 April,17 Agustus,10 November
+Konferensi Asia Afrika diselenggarakan di|Bandung,Jakarta,Yogyakarta,Surabaya
