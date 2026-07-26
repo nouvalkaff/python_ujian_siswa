@@ -120,7 +120,6 @@ c. 4
 d. 7
 
 Jawabanmu: b
-
 Jawaban benar.
 ```
 
@@ -152,8 +151,8 @@ Contoh penggunaan:
 - IPA
 - IPS
 - Pengetahuan Umum
-- Soal latihan sekolah
-- Soal ujian perusahaan
+- Soal sejarah Indonesia
+- Soal informasi teknologi
 
 ---
 
