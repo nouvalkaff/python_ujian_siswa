@@ -1,6 +1,6 @@
-# 📝 Ujian Siswa v1.1
+# 📝 Ujian Siswa v2.0
 
-Aplikasi berbasis Command Line (CLI) yang dibuat menggunakan Python untuk membantu siswa SD (kelas 1–6) berlatih mengerjakan soal pilihan ganda. Soal dan pilihan jawaban akan diacak secara otomatis, kemudian sistem akan menghitung nilai akhir berdasarkan jawaban yang benar.
+Aplikasi latihan soal pilihan ganda untuk siswa SD (kelas 1–6), tersedia dalam dua versi: **CLI** (Command Line) dan **Web** (Streamlit). Soal dan pilihan jawaban diacak otomatis, sistem menghitung nilai akhir beserta pesan motivasi.
 
 ---
 
@@ -11,9 +11,11 @@ Aplikasi berbasis Command Line (CLI) yang dibuat menggunakan Python untuk memban
 - 🔀 Mengacak urutan pilihan jawaban
 - ✅ Penilaian otomatis
 - 📊 Menghitung nilai akhir beserta pesan motivasi
+- 🔒 Jawaban terkunci setelah disubmit (versi web)
 - 📁 Bank soal mudah ditambahkan atau diubah
-- 🖥️ Ringan dan berjalan melalui Command Line (CLI)
-- 🐳 Mendukung menjalankan aplikasi via Docker
+- 🖥️ Versi CLI — ringan, jalan lewat terminal
+- 🌐 Versi Web — tampilan interaktif via browser (Streamlit)
+- 🐳 Mendukung deployment via Docker (kedua versi)
 
 ---
 
@@ -21,61 +23,86 @@ Aplikasi berbasis Command Line (CLI) yang dibuat menggunakan Python untuk memban
 
 ```text
 .
-├── main.py
-├── functions.py
-├── bank_soal_sd_1.txt
-├── bank_soal_sd_2.txt
-├── bank_soal_sd_3.txt
-├── bank_soal_sd_4.txt
-├── bank_soal_sd_5.txt
-├── bank_soal_sd_6.txt
-├── requirements.txt
-├── Dockerfile
+├── main.py                  # Entry point versi CLI
+├── functions.py             # Logic versi CLI
+├── streamlit_app.py         # Entry point versi Web
+├── functions_app.py         # Logic versi Web
+├── assets/
+│   ├── bank_soal_sd_1.txt
+│   ├── bank_soal_sd_2.txt
+│   ├── bank_soal_sd_3.txt
+│   ├── bank_soal_sd_4.txt
+│   ├── bank_soal_sd_5.txt
+│   └── bank_soal_sd_6.txt
+├── requirements.txt         # Dependency versi CLI
+├── requirements_app.txt     # Dependency versi Web
+├── Dockerfile                # Docker image versi CLI
+├── Dockerfile_app            # Docker image versi Web
+├── .gitignore
+├── .dockerignore
 └── README.md
 ```
+
+> Versi CLI dan Web sengaja dipisah filenya (termasuk `functions.py` vs `functions_app.py`) supaya masing-masing bisa dikembangkan/dikustomisasi independen tanpa saling mempengaruhi.
 
 ---
 
 ## 📦 Persyaratan
 
-Pastikan telah menginstal:
-
 - Python 3.10 atau lebih baru
-- Library `colorama`
-
-Install library menggunakan perintah berikut:
-
-```bash
-pip install -r requirements.txt
-```
+- Untuk versi CLI: library `colorama`
+- Untuk versi Web: library `streamlit`
 
 ---
 
-## 🚀 Cara Menjalankan
+## 🚀 Cara Menjalankan — Versi CLI
 
-### Menjalankan Secara Lokal
-
-Jalankan aplikasi menggunakan perintah berikut:
+### Lokal
 
 ```bash
+pip install -r requirements.txt
 python main.py
 ```
 
-Setelah aplikasi berjalan, pilih tingkat kelas (1–6) sesuai bank soal yang tersedia. Setiap sesi terdiri atas 10 soal pilihan ganda yang diacak secara otomatis.
+Pilih tingkat kelas (1–6), lalu kerjakan 10 soal pilihan ganda yang diacak otomatis.
 
-### Menjalankan dengan Docker
-
-Build image:
+### Docker
 
 ```bash
-docker build -t ujian-siswa .
-```
-
-Jalankan container (mode interaktif diperlukan karena aplikasi berbasis input CLI):
-
-```bash
+docker build -t ujian-siswa -f Dockerfile .
 docker run -it --rm ujian-siswa
 ```
+
+Mode interaktif (`-it`) diperlukan karena aplikasi berbasis input terminal.
+
+---
+
+## 🌐 Cara Menjalankan — Versi Web
+
+### Lokal
+
+```bash
+pip install -r requirements_app.txt
+streamlit run streamlit_app.py
+```
+
+Browser otomatis terbuka ke `http://localhost:8501`.
+
+### Docker
+
+```bash
+docker build -t ujian-siswa-web -f Dockerfile_app .
+docker run -p 8501:8501 --rm ujian-siswa-web
+```
+
+Akses lewat `http://localhost:8501`.
+
+### Deploy ke Streamlit Community Cloud
+
+1. Push repository ke GitHub
+2. Buka [share.streamlit.io](https://share.streamlit.io), login dengan akun GitHub
+3. Klik **New app** → pilih repo, branch `main`, main file `streamlit_app.py`
+4. Klik **Deploy**
 
 ---
 
@@ -93,73 +120,23 @@ Contoh:
 2 + 3 =|5,4,6,7
 ```
 
-> **Catatan:**
-> Jawaban pertama akan dianggap sebagai jawaban yang benar. Saat aplikasi dijalankan, seluruh pilihan jawaban akan diacak secara otomatis. Nama file bank soal mengikuti pola `bank_soal_sd_<tingkat>.txt`, di mana `<tingkat>` adalah angka 1 sampai 6.
-
----
-
-## 💻 Contoh Penggunaan
-
-```text
-Pilih soal untuk siswa SD kelas:
-1. Kelas 1
-2. Kelas 2
-3. Kelas 3
-4. Kelas 4
-5. Kelas 5
-6. Kelas 6
-
-Masukkan tingkat kelas: 1
-Siap! Kamu akan mengerjakan soal kelas 1
-
-1. Soal: 2 + 3 = ?
-Pilihan Ganda:
-a. 6
-b. 5
-c. 4
-d. 7
-
-Jawabanmu: b
-
-Jawaban benar.
-```
-
-Hasil akhir:
-
-```text
-Jumlah jawaban benar : 9/10
-Nilai akhir kamu : 90
-Keren banget! Kamu pintar sekali! 🌟
-```
+> **Catatan:** Jawaban pertama dianggap sebagai jawaban benar. Seluruh pilihan jawaban diacak otomatis saat aplikasi berjalan. Nama file bank soal mengikuti pola `bank_soal_sd_<tingkat>.txt` di dalam folder `assets/`, di mana `<tingkat>` adalah angka 1–6.
 
 ---
 
 ## ⚙️ Kustomisasi
 
-Aplikasi dapat dengan mudah disesuaikan sesuai kebutuhan, seperti:
-
-- Menambah bank soal baru untuk tingkat kelas lain
-- Mengubah isi pertanyaan
-- Mengganti pilihan jawaban
-- Mengatur jumlah soal yang ditampilkan (`JUMLAH_SOAL` pada `functions.py`)
-- Membuat soal untuk berbagai mata pelajaran atau topik
-
-Contoh penggunaan:
-
-- Matematika
-- Bahasa Indonesia
-- Bahasa Inggris
-- IPA
-- IPS
-- Pengetahuan Umum
-- Soal latihan sekolah
-- Soal ujian perusahaan
+- Menambah bank soal baru untuk tingkat kelas lain (taruh di `assets/`)
+- Mengubah isi pertanyaan atau pilihan jawaban
+- Mengatur jumlah soal per sesi (`JUMLAH_SOAL` di `functions.py` / `functions_app.py`)
+- Membuat soal untuk mata pelajaran atau topik lain (Matematika, Bahasa Indonesia, Bahasa Inggris, IPA, IPS, dsb.)
 
 ---
 
 ## 🛠️ Dibuat Menggunakan
 
 - Python
+- Streamlit
 - Colorama
 - Docker
 
@@ -169,6 +146,6 @@ Contoh penggunaan:
 
 **Mohamad Nouval Abdel A**
 
-Proyek ini dikembangkan sebagai media pembelajaran dan latihan pemrograman Python, dengan fokus pada pembuatan aplikasi Command Line (CLI) yang sederhana, mudah dipahami, dan mudah dikembangkan.
+Proyek ini dikembangkan sebagai media pembelajaran dan latihan pemrograman Python, dari aplikasi Command Line (CLI) sederhana hingga versi Web interaktif menggunakan Streamlit.
 
 Terima kasih telah berkunjung. Semoga bermanfaat!

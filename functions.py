@@ -29,7 +29,7 @@ def ambil_tingkat() -> str:
 
 
 def ambil_soal(tingkat: str) -> list[str]:
-    with open(f"bank_soal_sd_{tingkat}.txt", "r") as file:
+    with open(f"./assets/bank_soal_sd_{tingkat}.txt", "r") as file:
         list = []
         for soal in file:
             list.append(soal.strip())
