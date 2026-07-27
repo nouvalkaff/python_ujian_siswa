@@ -120,16 +120,73 @@ Contoh:
 2 + 3 =|5,4,6,7
 ```
 
-> **Catatan:** Jawaban pertama dianggap sebagai jawaban benar. Seluruh pilihan jawaban diacak otomatis saat aplikasi berjalan. Nama file bank soal mengikuti pola `bank_soal_sd_<tingkat>.txt` di dalam folder `assets/`, di mana `<tingkat>` adalah angka 1–6.
+> **Catatan:**
+> Jawaban pertama akan dianggap sebagai jawaban yang benar. Saat aplikasi dijalankan, seluruh pilihan jawaban akan diacak secara otomatis. Nama file bank soal mengikuti pola `bank_soal_sd_<tingkat>.txt`, di mana `<tingkat>` adalah angka 1 sampai 6.
+
+---
+
+## 💻 Contoh Penggunaan
+
+```text
+Pilih soal untuk siswa SD kelas:
+1. Kelas 1
+2. Kelas 2
+3. Kelas 3
+4. Kelas 4
+5. Kelas 5
+6. Kelas 6
+
+Masukkan tingkat kelas: 1
+Siap! Kamu akan mengerjakan soal kelas 1
+
+1. Soal: 2 + 3 = ?
+Pilihan Ganda:
+a. 6
+b. 5
+c. 4
+d. 7
+
+Jawabanmu: b
+Jawaban benar.
+```
+
+Hasil akhir:
+
+```text
+Jumlah jawaban benar : 9/10
+Nilai akhir kamu : 90
+Keren banget! Kamu pintar sekali! 🌟
+```
 
 ---
 
 ## ⚙️ Kustomisasi
 
+<<<<<<< HEAD
 - Menambah bank soal baru untuk tingkat kelas lain (taruh di `assets/`)
 - Mengubah isi pertanyaan atau pilihan jawaban
 - Mengatur jumlah soal per sesi (`JUMLAH_SOAL` di `functions.py` / `functions_app.py`)
 - Membuat soal untuk mata pelajaran atau topik lain (Matematika, Bahasa Indonesia, Bahasa Inggris, IPA, IPS, dsb.)
+=======
+Aplikasi dapat dengan mudah disesuaikan sesuai kebutuhan, seperti:
+
+- Menambah bank soal baru untuk tingkat kelas lain
+- Mengubah isi pertanyaan
+- Mengganti pilihan jawaban
+- Mengatur jumlah soal yang ditampilkan (`JUMLAH_SOAL` pada `functions.py`)
+- Membuat soal untuk berbagai mata pelajaran atau topik
+
+Contoh penggunaan:
+
+- Matematika
+- Bahasa Indonesia
+- Bahasa Inggris
+- IPA
+- IPS
+- Pengetahuan Umum
+- Soal sejarah Indonesia
+- Soal informasi teknologi
+>>>>>>> e02bdda8bb289fc876eca46e5bdb076f5e928fc0
 
 ---
 
