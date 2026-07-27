@@ -103,7 +103,7 @@ def proses_soal(raw_soal: list[str]):
         print(f"{i+1}. Soal: {soal[0]} ?")
         print("Pilihan Ganda:")
 
-        kumpulan_jawaban = soal[1].split(",")
+        kumpulan_jawaban = soal[1].split("#")
         jawaban_benar = kumpulan_jawaban[0]
 
         soal_dict = tampilkan_soal(kumpulan_jawaban)

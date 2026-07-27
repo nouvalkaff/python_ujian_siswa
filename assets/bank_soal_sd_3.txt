@@ -1,100 +1,100 @@
-soal|jawaban benar,jawaban salah,jawaban salah, jawaban salah
-125 + 36 =|161,151,162,171
-243 + 57 =|300,290,310,301
-187 + 94 =|281,271,291,280
-356 + 129 =|485,475,495,486
-432 + 168 =|600,590,610,601
-245 - 123 =|122,121,123,124
-500 - 275 =|225,215,235,220
-731 - 128 =|603,593,613,602
-648 - 246 =|402,401,403,404
-900 - 375 =|525,515,535,530
-8 × 7 =|56,54,58,64
-9 × 8 =|72,70,74,64
-12 × 4 =|48,44,52,46
-6 × 11 =|66,60,72,68
-7 × 12 =|84,82,86,88
-72 ÷ 8 =|9,8,10,7
-81 ÷ 9 =|9,8,7,10
-48 ÷ 6 =|8,6,7,9
-96 ÷ 12 =|8,6,9,10
-63 ÷ 7 =|9,8,7,10
-Nilai tempat ratusan pada bilangan 482 adalah|4,8,2,482
-Bilangan terbesar adalah|987,978,897,879
-1 meter sama dengan|100 cm,10 cm,1000 cm,1 cm
-Bangun datar yang memiliki 4 sudut siku-siku adalah|persegi panjang,segitiga,lingkaran,trapesium
-Keliling persegi dihitung dengan|4 × sisi,sisi × sisi,2 × sisi,sisi + 2
-Sinonim kata "indah" adalah|cantik,jelek,buruk,gelap
-Antonim kata "hemat" adalah|boros,rajin,pintar,baik
-Kalimat yang menggunakan tanda tanya adalah|Siapa nama gurumu?,Saya pergi ke sekolah.,Belajar itu penting.,Ayo bermain.
-Awalan pada kata "bermain" adalah|ber,main,bermain,mai
-Akhiran pada kata "makanan" adalah|an,kan,ma,maka
-Ide pokok adalah|gagasan utama,gambar,judul,bab
-Kata baku yang benar adalah|apotek,apotik,apotekk,apothik
-Tumbuhan hijau membuat makanan melalui|fotosintesis,bernapas,berjalan,berkembang biak
-Hewan yang mengalami metamorfosis sempurna adalah|kupu-kupu,kucing,sapi,ayam
-Organ tubuh yang memompa darah adalah|jantung,paru-paru,hati,lambung
-Planet tempat manusia tinggal adalah|Bumi,Mars,Yupiter,Venus
-Air menguap karena terkena|panas,dingin,angin,batu
-Sumber energi terbesar di bumi adalah|matahari,bulan,bintang,listrik
-Profesi yang menjaga keamanan adalah|polisi,guru,dokter,petani
-Kegiatan jual beli dilakukan di|pasar,sekolah,sawah,rumah sakit
-Gunung, sungai, dan danau termasuk|kenampakan alam,kenampakan buatan,alat transportasi,bangunan
-Indonesia memiliki semboyan|Bhinneka Tunggal Ika,Tut Wuri Handayani,Merdeka atau Mati,Sekali Merdeka
-Hak anak di sekolah adalah|mendapat pendidikan,membuang sampah sembarangan,melanggar aturan,datang terlambat
-Kewajiban siswa adalah|belajar dengan rajin,merusak fasilitas,berkelahi,membolos
-Lambang sila ketiga Pancasila adalah|pohon beringin,rantai,bintang,kepala banteng
-CPU merupakan|otak komputer,layar komputer,alat cetak,pengeras suara
-File dapat disimpan di|hard disk,keyboard,mouse,monitor
-Ikon tempat menghapus file adalah|Recycle Bin,Paint,Word,Calculator
-Ctrl + C digunakan untuk|menyalin,memotong,menempel,mencetak
-Internet dapat dimanfaatkan untuk|mencari informasi,merusak komputer,membuat virus,menghapus data
-One hundred berarti|seratus,sepuluh,seribu,sembilan puluh
-Monday berarti|Senin,Minggu,Selasa,Rabu
-Teacher berarti|guru,dokter,petani,polisi
-Hospital berarti|rumah sakit,sekolah,pasar,terminal
-Beautiful berarti|indah,buruk,tinggi,cepat
-Hungry berarti|lapar,haus,senang,marah
-Twelve berarti|dua belas,dua puluh,sepuluh,sebelas
-What is your name? berarti|Siapa namamu?,Di mana rumahmu?,Berapa umurmu?,Apa hobimu?
-Thank you very much berarti|Terima kasih banyak,Selamat pagi,Sampai jumpa,Tolong saya
-Good afternoon berarti|Selamat siang,Selamat pagi,Selamat malam,Selamat tidur
-Proklamasi Kemerdekaan Indonesia dibacakan pada tahun|1945,1944,1946,1950
-Naskah Proklamasi dibacakan oleh|Soekarno,Mohammad Hatta,Ki Hajar Dewantara,Jenderal Sudirman
-Hari Pahlawan diperingati setiap tanggal|10 November,17 Agustus,21 April,1 Juni
-RA Kartini lahir di|Jepara,Bandung,Surabaya,Medan
-Ki Hajar Dewantara dikenal sebagai|Bapak Pendidikan Nasional,Bapak Proklamator,Bapak Koperasi,Bapak Pramuka
-1/2 sama dengan|0,5,2,0,2,5
-1/4 dari 20 adalah|5,4,6,8
-3/5 dari 25 adalah|15,10,20,12
-Pecahan yang nilainya paling besar adalah|3/4,1/2,1/4,2/5
-2 jam sama dengan|120 menit,60 menit,90 menit,180 menit
-Pukul 07.00 disebut|jam tujuh pagi,jam tujuh malam,jam lima pagi,jam sembilan pagi
-1 kilogram sama dengan|1000 gram,100 gram,10000 gram,10 gram
-Alat untuk mengukur panjang adalah|penggaris,timbangan,termometer,jam
-Hasil dari 325 + 175 adalah|500,490,510,505
-Hasil dari 750 - 225 adalah|525,515,535,530
-15 × 6 =|90,80,95,96
-144 ÷ 12 =|12,10,11,14
-Bilangan prima yang paling kecil adalah|2,1,3,5
-Sudut siku-siku besarnya|90 derajat,45 derajat,180 derajat,60 derajat
-Segitiga memiliki jumlah sisi|3,2,4,5
-Gagasan utama biasanya terdapat pada|kalimat utama,judul,gambar,penutup
-Paragraf yang baik terdiri atas beberapa|kalimat,huruf,angka,gambar
-Lawan kata "kuat" adalah|lemah,besar,tinggi,cepat
-Kata "bersepeda" memiliki awalan|ber,sepeda,be,da
-Kata yang termasuk kata sifat adalah|rajin,sekolah,berlari,buku
-Tanda koma digunakan untuk|memisahkan beberapa unsur,mengakhiri kalimat,mengawali dialog,mengganti titik
-Hewan yang bernapas dengan insang adalah|ikan,ayam,kucing,sapi
-Contoh benda padat adalah|batu,air,minyak,uap
-Gaya yang menyebabkan benda jatuh adalah|gaya gravitasi,gaya magnet,gaya listrik,gaya pegas
-Contoh sumber daya alam yang dapat diperbarui adalah|air,hutan besi,minyak bumi,batubara
-Pekerjaan yang menghasilkan padi adalah|petani,nelayan,dokter,guru
-Kegiatan ekonomi yang menjual barang disebut|perdagangan,pertanian,peternakan,perikanan
-Indonesia terdiri atas banyak|pulau,gunung,benua,planet
-Contoh alat transportasi laut adalah|kapal,kereta api,pesawat,sepeda
-Musyawarah dilakukan untuk mencapai|mufakat,pertengkaran,perlombaan,hukuman
-Sikap yang sesuai sila kedua Pancasila adalah|menolong teman,mengejek teman,berkelahi,berbohong
-Perangkat untuk memasukkan suara ke komputer adalah|mikrofon,monitor,printer,scanner
-Scanner digunakan untuk|memindai dokumen,mencetak dokumen,memutar musik,mengetik
-Kita tidak boleh membagikan password kepada|orang lain,guru,orang tua,sendiri
+soal|jawaban benar#jawaban salah#jawaban salah#jawaban salah
+125 + 36 =|161#151#162#171
+243 + 57 =|300#290#310#301
+187 + 94 =|281#271#291#280
+356 + 129 =|485#475#495#486
+432 + 168 =|600#590#610#601
+245 - 123 =|122#121#123#124
+500 - 275 =|225#215#235#220
+731 - 128 =|603#593#613#602
+648 - 246 =|402#401#403#404
+900 - 375 =|525#515#535#530
+8 × 7 =|56#54#58#64
+9 × 8 =|72#70#74#64
+12 × 4 =|48#44#52#46
+6 × 11 =|66#60#72#68
+7 × 12 =|84#82#86#88
+72 ÷ 8 =|9#8#10#7
+81 ÷ 9 =|9#8#7#10
+48 ÷ 6 =|8#6#7#9
+96 ÷ 12 =|8#6#9#10
+63 ÷ 7 =|9#8#7#10
+Nilai tempat ratusan pada bilangan 482 adalah|4#8#2#482
+Bilangan terbesar adalah|987#978#897#879
+1 meter sama dengan|100 cm#10 cm#1000 cm#1 cm
+Bangun datar yang memiliki 4 sudut siku-siku adalah|persegi panjang#segitiga#lingkaran#trapesium
+Keliling persegi dihitung dengan|4 × sisi#sisi × sisi#2 × sisi#sisi + 2
+Sinonim kata "indah" adalah|cantik#jelek#buruk#gelap
+Antonim kata "hemat" adalah|boros#rajin#pintar#baik
+Kalimat yang menggunakan tanda tanya adalah|Siapa nama gurumu?#Saya pergi ke sekolah.#Belajar itu penting.#Ayo bermain.
+Awalan pada kata "bermain" adalah|ber#main#bermain#mai
+Akhiran pada kata "makanan" adalah|an#kan#ma#maka
+Ide pokok adalah|gagasan utama#gambar#judul#bab
+Kata baku yang benar adalah|apotek#apotik#apotekk#apothik
+Tumbuhan hijau membuat makanan melalui|fotosintesis#bernapas#berjalan#berkembang biak
+Hewan yang mengalami metamorfosis sempurna adalah|kupu-kupu#kucing#sapi#ayam
+Organ tubuh yang memompa darah adalah|jantung#paru-paru#hati#lambung
+Planet tempat manusia tinggal adalah|Bumi#Mars#Yupiter#Venus
+Air menguap karena terkena|panas#dingin#angin#batu
+Sumber energi terbesar di bumi adalah|matahari#bulan#bintang#listrik
+Profesi yang menjaga keamanan adalah|polisi#guru#dokter#petani
+Kegiatan jual beli dilakukan di|pasar#sekolah#sawah#rumah sakit
+Gunung, sungai, dan danau termasuk|kenampakan alam#kenampakan buatan#alat transportasi#bangunan
+Indonesia memiliki semboyan|Bhinneka Tunggal Ika#Tut Wuri Handayani#Merdeka atau Mati#Sekali Merdeka
+Hak anak di sekolah adalah|mendapat pendidikan#membuang sampah sembarangan#melanggar aturan#datang terlambat
+Kewajiban siswa adalah|belajar dengan rajin#merusak fasilitas#berkelahi#membolos
+Lambang sila ketiga Pancasila adalah|pohon beringin#rantai#bintang#kepala banteng
+CPU merupakan|otak komputer#layar komputer#alat cetak#pengeras suara
+File dapat disimpan di|hard disk#keyboard#mouse#monitor
+Ikon tempat menghapus file adalah|Recycle Bin#Paint#Word#Calculator
+Ctrl + C digunakan untuk|menyalin#memotong#menempel#mencetak
+Internet dapat dimanfaatkan untuk|mencari informasi#merusak komputer#membuat virus#menghapus data
+One hundred berarti|seratus#sepuluh#seribu#sembilan puluh
+Monday berarti|Senin#Minggu#Selasa#Rabu
+Teacher berarti|guru#dokter#petani#polisi
+Hospital berarti|rumah sakit#sekolah#pasar#terminal
+Beautiful berarti|indah#buruk#tinggi#cepat
+Hungry berarti|lapar#haus#senang#marah
+Twelve berarti|dua belas#dua puluh#sepuluh#sebelas
+What is your name? berarti|Siapa namamu?#Di mana rumahmu?#Berapa umurmu?#Apa hobimu?
+Thank you very much berarti|Terima kasih banyak#Selamat pagi#Sampai jumpa#Tolong saya
+Good afternoon berarti|Selamat siang#Selamat pagi#Selamat malam#Selamat tidur
+Proklamasi Kemerdekaan Indonesia dibacakan pada tahun|1945#1944#1946#1950
+Naskah Proklamasi dibacakan oleh|Soekarno#Mohammad Hatta#Ki Hajar Dewantara#Jenderal Sudirman
+Hari Pahlawan diperingati setiap tanggal|10 November#17 Agustus#21 April#1 Juni
+RA Kartini lahir di|Jepara#Bandung#Surabaya#Medan
+Ki Hajar Dewantara dikenal sebagai|Bapak Pendidikan Nasional#Bapak Proklamator#Bapak Koperasi#Bapak Pramuka
+1/2 sama dengan|0,5#2#0,2#5
+1/4 dari 20 adalah|5#4#6#8
+3/5 dari 25 adalah|15#10#20#12
+Pecahan yang nilainya paling besar adalah|3/4#1/2#1/4#2/5
+2 jam sama dengan|120 menit#60 menit#90 menit#180 menit
+Pukul 07.00 disebut|jam tujuh pagi#jam tujuh malam#jam lima pagi#jam sembilan pagi
+1 kilogram sama dengan|1000 gram#100 gram#10000 gram#10 gram
+Alat untuk mengukur panjang adalah|penggaris#timbangan#termometer#jam
+Hasil dari 325 + 175 adalah|500#490#510#505
+Hasil dari 750 - 225 adalah|525#515#535#530
+15 × 6 =|90#80#95#96
+144 ÷ 12 =|12#10#11#14
+Bilangan prima yang paling kecil adalah|2#1#3#5
+Sudut siku-siku besarnya|90 derajat#45 derajat#180 derajat#60 derajat
+Segitiga memiliki jumlah sisi|3#2#4#5
+Gagasan utama biasanya terdapat pada|kalimat utama#judul#gambar#penutup
+Paragraf yang baik terdiri atas beberapa|kalimat#huruf#angka#gambar
+Lawan kata "kuat" adalah|lemah#besar#tinggi#cepat
+Kata "bersepeda" memiliki awalan|ber#sepeda#be#da
+Kata yang termasuk kata sifat adalah|rajin#sekolah#berlari#buku
+Tanda koma digunakan untuk|memisahkan beberapa unsur#mengakhiri kalimat#mengawali dialog#mengganti titik
+Hewan yang bernapas dengan insang adalah|ikan#ayam#kucing#sapi
+Contoh benda padat adalah|batu#air#minyak#uap
+Gaya yang menyebabkan benda jatuh adalah|gaya gravitasi#gaya magnet#gaya listrik#gaya pegas
+Contoh sumber daya alam yang dapat diperbarui adalah|air#hutan besi#minyak bumi#batubara
+Pekerjaan yang menghasilkan padi adalah|petani#nelayan#dokter#guru
+Kegiatan ekonomi yang menjual barang disebut|perdagangan#pertanian#peternakan#perikanan
+Indonesia terdiri atas banyak|pulau#gunung#benua#planet
+Contoh alat transportasi laut adalah|kapal#kereta api#pesawat#sepeda
+Musyawarah dilakukan untuk mencapai|mufakat#pertengkaran#perlombaan#hukuman
+Sikap yang sesuai sila kedua Pancasila adalah|menolong teman#mengejek teman#berkelahi#berbohong
+Perangkat untuk memasukkan suara ke komputer adalah|mikrofon#monitor#printer#scanner
+Scanner digunakan untuk|memindai dokumen#mencetak dokumen#memutar musik#mengetik
+Kita tidak boleh membagikan password kepada|orang lain#guru#orang tua#sendiri

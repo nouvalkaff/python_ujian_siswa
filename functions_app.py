@@ -17,8 +17,7 @@ def parse_soal(baris: str) -> tuple[str, list[str], str]:
     """Pecah satu baris bank soal jadi (pertanyaan, daftar opsi, jawaban benar)."""
     soal = baris.split("|")
     pertanyaan = soal[0]
-    opsi = soal[1].split(",")
-    opsi = [x.capitalize() for x in opsi]
+    opsi = soal[1].split("#")
     jawaban_benar = opsi[0]
     return pertanyaan, opsi, jawaban_benar
 
