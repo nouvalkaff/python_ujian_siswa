@@ -29,6 +29,7 @@ def siapkan_sesi(tingkat: str):
                 "pertanyaan": pertanyaan,
                 "opsi": acak_opsi(opsi),  # functions.py
                 "jawaban_benar": jawaban_benar,
+                "jawaban_user": None,
             }
         )
 
@@ -45,6 +46,17 @@ def tampilkan_hasil_web(skor: int):
     st.subheader(f"Nilai akhir: {nilai}")
     st.write(f"Jawaban benar: {skor}/{JUMLAH_SOAL}")
     st.success(pesan)
+
+    st.divider()
+    st.subheader("Review Jawaban")
+    for i, soal in enumerate(st.session_state.soal_list):
+        benar = soal["jawaban_user"] == soal["jawaban_benar"]
+        ikon = "✅" if benar else "❌"
+        with st.expander(f"{ikon} Soal {i + 1}: {soal['pertanyaan']}"):
+            st.write(f"Jawabanmu: **{soal['jawaban_user']}**")
+            if not benar:
+                st.write(f"Jawaban benar: **{soal['jawaban_benar']}**")
+
     if st.button("Ulangi dari awal"):
         for k in ["soal_list", "index", "skor", "selesai", "sudah_jawab"]:
             st.session_state.pop(k, None)
@@ -82,6 +94,7 @@ else:
     if not st.session_state.sudah_jawab:
         if st.button("Jawab", disabled=pilihan is None):
             st.session_state.sudah_jawab = True
+            soal["jawaban_user"] = pilihan
             if pilihan == soal["jawaban_benar"]:
                 st.session_state.skor += 1
                 st.session_state.feedback = ("benar", None)
