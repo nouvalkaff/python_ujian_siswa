@@ -162,19 +162,10 @@ Keren banget! Kamu pintar sekali! 🌟
 
 ## ⚙️ Kustomisasi
 
-<<<<<<< HEAD
 - Menambah bank soal baru untuk tingkat kelas lain (taruh di `assets/`)
 - Mengubah isi pertanyaan atau pilihan jawaban
 - Mengatur jumlah soal per sesi (`JUMLAH_SOAL` di `functions.py` / `functions_app.py`)
 - Membuat soal untuk mata pelajaran atau topik lain (Matematika, Bahasa Indonesia, Bahasa Inggris, IPA, IPS, dsb.)
-=======
-Aplikasi dapat dengan mudah disesuaikan sesuai kebutuhan, seperti:
-
-- Menambah bank soal baru untuk tingkat kelas lain
-- Mengubah isi pertanyaan
-- Mengganti pilihan jawaban
-- Mengatur jumlah soal yang ditampilkan (`JUMLAH_SOAL` pada `functions.py`)
-- Membuat soal untuk berbagai mata pelajaran atau topik
 
 Contoh penggunaan:
 
