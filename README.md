@@ -186,7 +186,6 @@ Contoh penggunaan:
 - Pengetahuan Umum
 - Soal sejarah Indonesia
 - Soal informasi teknologi
->>>>>>> e02bdda8bb289fc876eca46e5bdb076f5e928fc0
 
 ---
 
