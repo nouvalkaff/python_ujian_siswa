@@ -1,32 +1,32 @@
-# 📝 Ujian Siswa v2.0
+# 📝 Student Exam v2.0
 
-Aplikasi latihan soal pilihan ganda untuk siswa SD (kelas 1–6), tersedia dalam dua versi: **CLI** (Command Line) dan **Web** (Streamlit). Soal dan pilihan jawaban diacak otomatis, sistem menghitung nilai akhir beserta pesan motivasi.
-
----
-
-## ✨ Fitur
-
-- 🎓 Pilihan tingkat kelas (1–6 SD)
-- 🎲 Mengacak urutan soal
-- 🔀 Mengacak urutan pilihan jawaban
-- ✅ Penilaian otomatis
-- 📊 Menghitung nilai akhir beserta pesan motivasi
-- 🔒 Jawaban terkunci setelah disubmit (versi web)
-- 📁 Bank soal mudah ditambahkan atau diubah
-- 🖥️ Versi CLI — ringan, jalan lewat terminal
-- 🌐 Versi Web — tampilan interaktif via browser (Streamlit)
-- 🐳 Mendukung deployment via Docker (kedua versi)
+Multiple-choice practice quiz app for elementary school students (grades 1–6), available in two versions: **CLI** (Command Line) and **Web** (Streamlit). Questions and answer choices shuffled automatically, system computes final score with a motivational message.
 
 ---
 
-## 📂 Struktur Proyek
+## ✨ Features
+
+- 🎓 Grade level selection (elementary grades 1–6)
+- 🎲 Randomized question order
+- 🔀 Randomized answer choice order
+- ✅ Automatic grading
+- 📊 Final score calculation with motivational message
+- 🔒 Answers locked after submit (web version)
+- 📁 Question bank easy to add or edit
+- 🖥️ CLI version — lightweight, runs in terminal
+- 🌐 Web version — interactive browser UI (Streamlit)
+- 🐳 Docker deployment support (both versions)
+
+---
+
+## 📂 Project Structure
 
 ```text
 .
-├── main.py                  # Entry point versi CLI
-├── functions.py             # Logic versi CLI
-├── streamlit_app.py         # Entry point versi Web
-├── functions_app.py         # Logic versi Web
+├── main.py                  # CLI version entry point
+├── functions.py             # CLI version logic
+├── streamlit_app.py         # Web version entry point
+├── functions_app.py         # Web version logic
 ├── assets/
 │   ├── bank_soal_sd_1.txt
 │   ├── bank_soal_sd_2.txt
@@ -34,37 +34,37 @@ Aplikasi latihan soal pilihan ganda untuk siswa SD (kelas 1–6), tersedia dalam
 │   ├── bank_soal_sd_4.txt
 │   ├── bank_soal_sd_5.txt
 │   └── bank_soal_sd_6.txt
-├── requirements.txt         # Dependency versi CLI
-├── requirements_app.txt     # Dependency versi Web
-├── Dockerfile                # Docker image versi CLI
-├── Dockerfile_app            # Docker image versi Web
+├── requirements.txt         # CLI version dependencies
+├── requirements_app.txt     # Web version dependencies
+├── Dockerfile                # CLI version Docker image
+├── Dockerfile_app            # Web version Docker image
 ├── .gitignore
 ├── .dockerignore
 └── README.md
 ```
 
-> Versi CLI dan Web sengaja dipisah filenya (termasuk `functions.py` vs `functions_app.py`) supaya masing-masing bisa dikembangkan/dikustomisasi independen tanpa saling mempengaruhi.
+> CLI and Web versions deliberately kept in separate files (including `functions.py` vs `functions_app.py`) so each can be developed/customized independently without affecting the other.
 
 ---
 
-## 📦 Persyaratan
+## 📦 Requirements
 
-- Python 3.10 atau lebih baru
-- Untuk versi CLI: library `colorama`
-- Untuk versi Web: library `streamlit`
+- Python 3.10 or newer
+- For CLI version: `colorama` library
+- For Web version: `streamlit` library
 
 ---
 
-## 🚀 Cara Menjalankan — Versi CLI
+## 🚀 How to Run — CLI Version
 
-### Lokal
+### Local
 
 ```bash
 pip install -r requirements.txt
 python main.py
 ```
 
-Pilih tingkat kelas (1–6), lalu kerjakan 10 soal pilihan ganda yang diacak otomatis.
+Pick a grade level (1–6), then answer 10 auto-shuffled multiple-choice questions.
 
 ### Docker
 
@@ -73,20 +73,20 @@ docker build -t ujian-siswa -f Dockerfile .
 docker run -it --rm ujian-siswa
 ```
 
-Mode interaktif (`-it`) diperlukan karena aplikasi berbasis input terminal.
+Interactive mode (`-it`) required — app relies on terminal input.
 
 ---
 
-## 🌐 Cara Menjalankan — Versi Web
+## 🌐 How to Run — Web Version
 
-### Lokal
+### Local
 
 ```bash
 pip install -r requirements_app.txt
 streamlit run streamlit_app.py
 ```
 
-Browser otomatis terbuka ke `http://localhost:8501`.
+Browser opens automatically to `http://localhost:8501`.
 
 ### Docker
 
@@ -95,37 +95,39 @@ docker build -t ujian-siswa-web -f Dockerfile_app .
 docker run -p 8501:8501 --rm ujian-siswa-web
 ```
 
-Akses lewat `http://localhost:8501`.
+Access via `http://localhost:8501`.
 
-### Deploy ke Streamlit Community Cloud
+### Deploy to Streamlit Community Cloud
 
-1. Push repository ke GitHub
-2. Buka [share.streamlit.io](https://share.streamlit.io), login dengan akun GitHub
-3. Klik **New app** → pilih repo, branch `main`, main file `streamlit_app.py`
-4. Klik **Deploy**
+1. Push repository to GitHub
+2. Open [share.streamlit.io](https://share.streamlit.io), log in with GitHub account
+3. Click **New app** → select repo, branch `main`, main file `streamlit_app.py`
+4. Click **Deploy**
 
 ---
 
-## 📝 Format Bank Soal
+## 📝 Question Bank Format
 
-Setiap soal ditulis dalam satu baris dengan format berikut:
+Each question is written on one line using this format:
 
 ```text
-Pertanyaan|Jawaban Benar,Jawaban Salah,Jawaban Salah,Jawaban Salah
+Question|Correct Answer,Wrong Answer,Wrong Answer,Wrong Answer
 ```
 
-Contoh:
+Example:
 
 ```text
 2 + 3 =|5,4,6,7
 ```
 
-> **Catatan:**
-> Jawaban pertama akan dianggap sebagai jawaban yang benar. Saat aplikasi dijalankan, seluruh pilihan jawaban akan diacak secara otomatis. Nama file bank soal mengikuti pola `bank_soal_sd_<tingkat>.txt`, di mana `<tingkat>` adalah angka 1 sampai 6.
+> **Note:**
+> The first answer is treated as the correct one. When the app runs, all answer choices get shuffled automatically. Question bank filenames follow the pattern `bank_soal_sd_<grade>.txt`, where `<grade>` is a number 1–6.
 
 ---
 
-## 💻 Contoh Penggunaan
+## 💻 Usage Example
+
+> Sample output below is in Indonesian — app's actual printed strings are Indonesian.
 
 ```text
 Pilih soal untuk siswa SD kelas:
@@ -150,7 +152,7 @@ Jawabanmu: b
 Jawaban benar.
 ```
 
-Hasil akhir:
+Final result:
 
 ```text
 Jumlah jawaban benar : 9/10
@@ -160,27 +162,27 @@ Keren banget! Kamu pintar sekali! 🌟
 
 ---
 
-## ⚙️ Kustomisasi
+## ⚙️ Customization
 
-- Menambah bank soal baru untuk tingkat kelas lain (taruh di `assets/`)
-- Mengubah isi pertanyaan atau pilihan jawaban
-- Mengatur jumlah soal per sesi (`JUMLAH_SOAL` di `functions.py` / `functions_app.py`)
-- Membuat soal untuk mata pelajaran atau topik lain (Matematika, Bahasa Indonesia, Bahasa Inggris, IPA, IPS, dsb.)
+- Add new question banks for other grade levels (place in `assets/`)
+- Edit question text or answer choices
+- Adjust number of questions per session (`JUMLAH_SOAL` in `functions.py` / `functions_app.py`)
+- Build questions for other subjects or topics (Math, Indonesian, English, Science, Social Studies, etc.)
 
-Contoh penggunaan:
+Usage examples:
 
-- Matematika
-- Bahasa Indonesia
-- Bahasa Inggris
-- IPA
-- IPS
-- Pengetahuan Umum
-- Soal sejarah Indonesia
-- Soal informasi teknologi
+- Math
+- Indonesian Language
+- English
+- Science
+- Social Studies
+- General Knowledge
+- Indonesian history questions
+- IT questions
 
 ---
 
-## 🛠️ Dibuat Menggunakan
+## 🛠️ Built With
 
 - Python
 - Streamlit
@@ -189,10 +191,10 @@ Contoh penggunaan:
 
 ---
 
-## 👨‍💻 Pengembang
+## 👨‍💻 Developer
 
 **Mohamad Nouval Abdel A**
 
-Proyek ini dikembangkan sebagai media pembelajaran dan latihan pemrograman Python, dari aplikasi Command Line (CLI) sederhana hingga versi Web interaktif menggunakan Streamlit.
+Built as a learning exercise and Python practice project, from a simple Command Line (CLI) app to an interactive Web version using Streamlit.
 
-Terima kasih telah berkunjung. Semoga bermanfaat!
+Thanks for visiting. Hope it helps!
