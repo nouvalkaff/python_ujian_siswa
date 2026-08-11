@@ -24,7 +24,7 @@ Multiple-choice practice quiz app for elementary school students (grades 1–6),
 ```text
 .
 ├── main.py                   # CLI version entry point
-├── main_app.py                # Web version entry point
+├── streamlit_app.py                # Web version entry point
 ├── config.py                  # Shared constants (JUMLAH_SOAL, TINGKAT_SD, DIR_PATH, PILIHAN_GANDA)
 ├── models/
 │   ├── soal.py                 # Soal (question) domain model — CLI version
@@ -92,7 +92,7 @@ Interactive mode (`-it`) required — app relies on terminal input.
 
 ```bash
 pip install -r requirements_app.txt
-streamlit run main_app.py
+streamlit run streamlit_app.py
 ```
 
 Browser opens automatically to `http://localhost:8501`. Same fewer-than-10 and empty-bank handling as the CLI version applies here too.
@@ -110,7 +110,7 @@ Access via `http://localhost:8501`.
 
 1. Push repository to GitHub
 2. Open [share.streamlit.io](https://share.streamlit.io), log in with GitHub account
-3. Click **New app** → select repo, branch `main`, main file `main_app.py`
+3. Click **New app** → select repo, branch `main`, main file `streamlit_app.py`
 4. Click **Deploy**
 
 ---
