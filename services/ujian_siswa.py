@@ -13,29 +13,30 @@ class UjianSiswa:
 
     def proses_soal(self):
         shuffle(self.soal_raw)
-        self.jumlah_benar = 0
 
-        for i in range(self.JUMLAH_SOAL):
-            soal_mentah = self.soal_raw[i].split("|")
+        jumlah_soal = min(self.JUMLAH_SOAL, len(self.soal_raw))
+        if jumlah_soal == 0:
+            print(
+                f"{Fore.RED}Bank soal kosong, tidak bisa memulai ujian.{Style.RESET_ALL}"
+            )
+            return
+        for i in range(jumlah_soal):
+            soal_jawaban = self.soal_raw[i].split("|")
+            soal_mentah = soal_jawaban[0]
+            kumpulan_jawaban = soal_jawaban[1].split("#")
 
-            print(f"{i+1}. Soal: {soal_mentah[0]} ?")
+            print(f"{i+1}. Soal: {soal_mentah} ?")
             print("Pilihan Ganda:")
 
-            kumpulan_jawaban = soal_mentah[1].split("#")
-            soal = Soal(soal_mentah[0], kumpulan_jawaban)
-
-            jawaban_benar = soal.jawaban_benar
-
-            soal_dict = soal.tampilkan_soal()
+            soal = Soal(soal_mentah, kumpulan_jawaban)
+            soal.tampilkan_soal()
             hasil_jawab = self._proses_jawab(soal)
+            self.jawaban_benar += 1 if hasil_jawab else 0
 
-            if hasil_jawab == True:
-                self.jumlah_benar += 1
+        self._tampilkan_hasil(self.jawaban_benar, jumlah_soal)
 
-        self._tampilkan_hasil(self.jumlah_benar)
-
-    def _tampilkan_hasil(self, jumlah_benar: int):
-        nilai = int((jumlah_benar / self.JUMLAH_SOAL) * 100)
+    def _tampilkan_hasil(self, jumlah_benar: int, jumlah_soal: int):
+        nilai = int((jumlah_benar / jumlah_soal) * 100)
 
         if nilai <= 50:
             warna = Fore.RED
@@ -57,7 +58,7 @@ class UjianSiswa:
             warna = Fore.LIGHTGREEN_EX
             pesan = "Luar biasa! Nilai sempurna, kamu juara! 🎉🏆"
 
-        print(f"\nJumlah jawaban benar : {jumlah_benar}/{self.JUMLAH_SOAL}")
+        print(f"\nJumlah jawaban benar : {jumlah_benar}/{jumlah_soal}")
         print(f"{warna}Nilai akhir kamu : {nilai}{Style.RESET_ALL}")
         print(f"{warna}{pesan}{Style.RESET_ALL}")
 
