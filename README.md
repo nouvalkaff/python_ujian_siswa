@@ -27,14 +27,15 @@ Multiple-choice practice quiz app for elementary school students (grades 1–6),
 ├── streamlit_app.py                # Web version entry point
 ├── config.py                  # Shared constants (JUMLAH_SOAL, TINGKAT_SD, DIR_PATH, PILIHAN_GANDA)
 ├── models/
-│   ├── soal.py                 # Soal (question) domain model — CLI version
+│   ├── soal_cli.py             # Soal (question) domain model — CLI version
 │   └── soal_app.py             # Soal (question) domain model — Web version
 ├── repositories/
-│   ├── bank_soal.py            # Loads question bank from disk — CLI version
+│   ├── bank_soal_cli.py        # Loads question bank from disk — CLI version
 │   └── bank_soal_app.py        # Loads question bank from disk — Web version
 ├── services/
-│   ├── ujian_siswa.py          # Exam session logic (scoring, flow) — CLI version
-│   └── ujian_siswa_app.py      # Exam session logic (scoring, flow) — Web version
+│   ├── ujian_siswa_cli.py      # Exam session logic (scoring, flow) — CLI version
+│   ├── ujian_siswa_app.py      # Exam session logic (scoring, flow) — Web version
+│   └── nilai.py                # Shared scoring/message logic (used by both CLI & Web)
 ├── assets/
 │   └── bank_soal/
 │       ├── bank_soal_sd_1.txt
