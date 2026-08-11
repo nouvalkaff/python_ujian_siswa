@@ -1,15 +1,15 @@
-# 📝 Student Exam v2.0
+# 📝 Student Exam v2.1
 
 A multiple-choice practice quiz application for elementary school students (grades 1–6), available in two versions: **CLI** (Command Line) and **Web** (Streamlit).
 
-The application supports **Bahasa Indonesia and English question banks**, automatically shuffles questions and answer choices, calculates the final score, and provides motivational feedback.
+The application provides randomized multiple-choice questions, automatic grading, score calculation, motivational feedback, and multilingual question banks in **Bahasa Indonesia and English**.
 
 ---
 
 ## ✨ Features
 
 - 🎓 Grade level selection for elementary grades 1–6
-- 🌐 **Language selection in CLI**
+- 🌐 **Multilingual question banks**
   - 🇮🇩 Bahasa Indonesia
   - 🇬🇧 English
 
@@ -19,12 +19,77 @@ The application supports **Bahasa Indonesia and English question banks**, automa
 - 📊 Automatic final score calculation
 - 💬 Motivational feedback based on the final score
 - 🔒 Answers are locked after submission in the Web version
-- 📁 Easy-to-edit question banks
+- 📁 Question banks are stored as editable `.txt` files
 - 🖥️ CLI version — lightweight and terminal-based
-- 🌐 Web version — interactive browser interface using Streamlit
+- 🌐 Web version — interactive browser UI using Streamlit
 - 🐳 Docker support for both CLI and Web versions
-- 🛡️ Handles empty question banks without crashing
 - 📉 Automatically adjusts the number of questions when fewer questions are available
+- 🛡️ Handles empty question banks without crashing
+
+---
+
+## 🆕 What's New in v2.1
+
+### Multilingual Question Banks
+
+Version **2.1** introduces English question banks alongside the existing Indonesian question banks.
+
+Question banks are now separated by language:
+
+```text
+assets/
+└── question_bank/
+    ├── idn/
+    └── eng/
+```
+
+The CLI version supports selecting the preferred question-bank language before starting the exam.
+
+English question banks are available for grades 1–6 and use the following naming convention:
+
+```text
+primary_question_bank_1.txt
+primary_question_bank_2.txt
+primary_question_bank_3.txt
+primary_question_bank_4.txt
+primary_question_bank_5.txt
+primary_question_bank_6.txt
+```
+
+The Indonesian question banks remain:
+
+```text
+bank_soal_sd_1.txt
+bank_soal_sd_2.txt
+bank_soal_sd_3.txt
+bank_soal_sd_4.txt
+bank_soal_sd_5.txt
+bank_soal_sd_6.txt
+```
+
+The language-specific paths are centralized in `config.py`:
+
+```python
+DIR_PATH_IDN = "./assets/question_bank/idn/bank_soal_sd"
+DIR_PATH_ENG = "./assets/question_bank/eng/primary_question_bank"
+```
+
+---
+
+## 📚 Question Bank Content
+
+The question banks cover elementary-school subjects and topics including:
+
+- Math
+- Indonesian Language
+- English
+- Science
+- Social Studies
+- General Knowledge
+- Indonesian History
+- IT / Computing
+
+The English question banks are designed for elementary students from Grade 1 through Grade 6, with increasing difficulty across grade levels.
 
 ---
 
@@ -37,16 +102,16 @@ The application supports **Bahasa Indonesia and English question banks**, automa
 ├── config.py                       # Shared application constants
 │
 ├── models/
-│   ├── soal_cli.py                 # Question domain model — CLI
-│   └── soal_app.py                 # Question domain model — Web
+│   ├── soal_cli.py                 # Question model — CLI
+│   └── soal_app.py                 # Question model — Web
 │
 ├── repositories/
-│   ├── bank_soal_cli.py            # Loads question banks — CLI
-│   └── bank_soal_app.py            # Loads question banks — Web
+│   ├── bank_soal_cli.py            # Question-bank repository — CLI
+│   └── bank_soal_app.py            # Question-bank repository — Web
 │
 ├── services/
-│   ├── ujian_siswa_cli.py          # Exam session logic — CLI
-│   ├── ujian_siswa_app.py          # Exam session logic — Web
+│   ├── ujian_siswa_cli.py          # Exam service — CLI
+│   ├── ujian_siswa_app.py          # Exam service — Web
 │   └── nilai.py                    # Shared scoring and feedback logic
 │
 ├── assets/
@@ -73,56 +138,19 @@ The application supports **Bahasa Indonesia and English question banks**, automa
 ├── Dockerfile_app                  # Web Docker image
 ├── .gitignore
 ├── .dockerignore
+├── .devcontainer/
+├── .vscode/
 └── README.md
 ```
 
-The project uses an OOP structure with separate implementations for the CLI and Web versions:
+The project follows an OOP-oriented structure:
 
-- `models/` — question/domain models
-- `repositories/` — question-bank loading and data access
+- `models/` — domain models for questions
+- `repositories/` — question-bank data access
 - `services/` — exam flow, scoring, and feedback
-- `config.py` — shared configuration and paths
+- `config.py` — shared configuration and question-bank paths
 
-The CLI and Web versions use separate `_cli` and `_app` modules so they can be developed and customized independently.
-
----
-
-## 🌐 Language Support
-
-The application currently provides two question-bank languages:
-
-| Language         | Directory                   | Filename pattern                    |
-| ---------------- | --------------------------- | ----------------------------------- |
-| Bahasa Indonesia | `assets/question_bank/idn/` | `bank_soal_sd_<grade>.txt`          |
-| English          | `assets/question_bank/eng/` | `primary_question_bank_<grade>.txt` |
-
-### English Question Banks
-
-The English question banks are designed around **Cambridge Primary-style learning progression** for elementary grades 1–6.
-
-The question banks cover subjects such as:
-
-- Math
-- Indonesian Language
-- English
-- Science
-- Social Studies
-- General Knowledge
-- Indonesian History
-- IT / Computing
-
-The English question banks are named according to the grade:
-
-```text
-primary_question_bank_1.txt
-primary_question_bank_2.txt
-primary_question_bank_3.txt
-primary_question_bank_4.txt
-primary_question_bank_5.txt
-primary_question_bank_6.txt
-```
-
-> The English question banks use English for the question text, while Indonesian Language and Indonesian History questions may test Indonesian-specific vocabulary, language, culture, and history.
+The CLI and Web implementations use separate classes so they can be developed and customized independently.
 
 ---
 
@@ -151,34 +179,27 @@ Run the application:
 python main.py
 ```
 
-The CLI will ask you to select:
+The CLI guides the user through the exam setup, including language and grade selection.
 
-1. Language
-2. Grade level
-
-For example:
+The available languages are:
 
 ```text
-Silakan pilih bahasa pengantar / Please select your preferred language:
-1. Bahasa Indonesia (ID)
-2. English (EN)
+1. Bahasa Indonesia
+2. English
+```
 
-Input: 2
+After selecting a language, choose a grade from:
 
-You selected English.
-
-Select questions for elementary school grade:
+```text
 1. Grade 1
 2. Grade 2
 3. Grade 3
 4. Grade 4
 5. Grade 5
 6. Grade 6
-
-Enter grade level: 3
 ```
 
-The application then loads the corresponding question bank.
+The application then loads the corresponding language- and grade-specific question bank.
 
 ---
 
@@ -222,16 +243,16 @@ The application will be available at:
 http://localhost:8501
 ```
 
-The Web version allows users to:
+The Web version allows students to:
 
 1. Select a grade level
 2. Start the quiz
 3. Answer multiple-choice questions
-4. Receive immediate answer feedback
-5. Continue through the remaining questions
-6. View the final score and feedback message
+4. Receive feedback after submitting an answer
+5. Continue to the next question
+6. View the final score
 
-The number of questions automatically adjusts to the number of available questions in the selected question bank.
+The Web version currently uses the Indonesian question-bank flow.
 
 ---
 
@@ -249,7 +270,7 @@ Run the container:
 docker run -p 8501:8501 --rm ujian-siswa-web
 ```
 
-Then open:
+Then access:
 
 ```text
 http://localhost:8501
@@ -263,14 +284,15 @@ http://localhost:8501
 2. Open Streamlit Community Cloud.
 3. Sign in with your GitHub account.
 4. Create a new app.
-5. Select this repository and the `main` branch.
-6. Set the main file to:
+5. Select this repository.
+6. Select the `main` branch.
+7. Set the main file to:
 
 ```text
 streamlit_app.py
 ```
 
-7. Deploy the application.
+8. Deploy the application.
 
 ---
 
@@ -294,7 +316,7 @@ The format consists of:
 Question | Correct Answer # Wrong Answer # Wrong Answer # Wrong Answer
 ```
 
-### Important
+### Correct Answer
 
 The **first answer after `|` is always treated as the correct answer**.
 
@@ -310,11 +332,21 @@ The correct answer is:
 8
 ```
 
-The application then shuffles all four answer choices before presenting them to the student.
+The application then shuffles all four answer choices before displaying them to the student.
 
-### Question Bank Naming
+---
 
-Indonesian:
+## 📁 Question Bank Naming Convention
+
+### Indonesian
+
+Location:
+
+```text
+assets/question_bank/idn/
+```
+
+Filename:
 
 ```text
 bank_soal_sd_<grade>.txt
@@ -325,9 +357,21 @@ Example:
 ```text
 bank_soal_sd_1.txt
 bank_soal_sd_2.txt
+bank_soal_sd_3.txt
+bank_soal_sd_4.txt
+bank_soal_sd_5.txt
+bank_soal_sd_6.txt
 ```
 
-English:
+### English
+
+Location:
+
+```text
+assets/question_bank/eng/
+```
+
+Filename:
 
 ```text
 primary_question_bank_<grade>.txt
@@ -338,110 +382,85 @@ Example:
 ```text
 primary_question_bank_1.txt
 primary_question_bank_2.txt
+primary_question_bank_3.txt
+primary_question_bank_4.txt
+primary_question_bank_5.txt
+primary_question_bank_6.txt
 ```
 
-Where `<grade>` is a number from `1` to `6`.
+The `<grade>` value represents the elementary-school grade from **1 to 6**.
 
 ---
 
 ## 📊 Question Selection and Scoring
 
-The default number of questions per session is configured in `config.py`:
+The default number of questions per exam session is configured in `config.py`:
 
 ```python
 JUMLAH_SOAL = 10
 ```
 
-The application does not require every question bank to contain exactly 10 questions.
-
-If a question bank contains fewer questions than the configured amount, the application automatically uses the number of questions actually available.
+The application automatically adjusts the number of questions based on the number of questions available in the selected question bank.
 
 For example:
 
 ```text
-JUMLAH_SOAL = 10
-Available questions = 7
-Actual questions = 7
+Configured questions: 10
+Available questions:   7
+Actual questions:      7
 ```
 
 If the selected question bank is empty, the application displays a warning instead of crashing.
 
+The final score is calculated automatically based on the number of correct answers.
+
 ---
 
-## 💻 Usage Example
+## 🔀 Randomization
 
-### CLI
+The application automatically randomizes:
+
+1. Question order
+2. Answer-choice order
+
+This means the correct answer is not always displayed in the same position.
+
+For example, a question stored as:
 
 ```text
-Silakan pilih bahasa pengantar / Please select your preferred language:
-1. Bahasa Indonesia (ID)
-2. English (EN)
-
-Input: 1
-
-Anda memilih Bahasa Indonesia.
-
-Pilih soal untuk siswa SD kelas:
-1. Kelas 1
-2. Kelas 2
-3. Kelas 3
-4. Kelas 4
-5. Kelas 5
-6. Kelas 6
-
-Masukkan tingkat kelas: 1
-
-Kamu mengerjakan soal kelas 1
+2 + 3 =|5#4#6#7
 ```
 
-A question is then presented with four shuffled choices:
+may be displayed as:
 
 ```text
-1. Soal: 2 + 3 = ?
-
-Pilihan Ganda:
 a. 6
 b. 5
-c. 4
-d. 7
-
-Jawabanmu: b
-
-Jawaban benar.
+c. 7
+d. 4
 ```
 
-Example final result:
-
-```text
-Jumlah jawaban benar : 9/10
-Nilai akhir kamu : 90
-
-Keren banget! Kamu pintar sekali! 🌟
-```
-
-The exact feedback message depends on the student's score and selected language.
+The original question-bank order does not determine the displayed answer position.
 
 ---
 
 ## ⚙️ Customization
 
-### Add or Edit Question Banks
+### Add or Edit Questions
 
-Question banks are stored under:
+Question banks can be edited directly as `.txt` files inside:
 
 ```text
 assets/question_bank/
 ```
 
-Separate them by language:
+Use the appropriate language directory:
 
 ```text
 assets/question_bank/
 ├── idn/
 └── eng/
 ```
-
-Add or edit the corresponding grade-level `.txt` file.
 
 ### Change the Number of Questions
 
@@ -451,11 +470,27 @@ Edit `JUMLAH_SOAL` in `config.py`:
 JUMLAH_SOAL = 10
 ```
 
-Both CLI and Web versions use this shared configuration.
+This configuration is shared by the application.
 
-### Add New Subjects or Topics
+### Add New Question Banks
 
-The question-bank format is intentionally simple, so it can be used for different subjects and topics, including:
+Follow the existing naming convention for the selected language and grade.
+
+Indonesian:
+
+```text
+bank_soal_sd_<grade>.txt
+```
+
+English:
+
+```text
+primary_question_bank_<grade>.txt
+```
+
+### Add Questions for Different Subjects
+
+The question-bank format can be used for various elementary-school subjects, including:
 
 - Math
 - Indonesian Language
@@ -470,27 +505,29 @@ The question-bank format is intentionally simple, so it can be used for differen
 
 ## 🛠️ Built With
 
-- Python
-- Streamlit
-- Colorama
-- Docker
+- **Python** — application development
+- **Streamlit** — Web interface
+- **Colorama** — CLI terminal styling
+- **Docker** — containerization
 
 ---
 
 ## 🎯 Project Goals
 
-This project was built as a Python learning project and gradually evolved from a simple command-line quiz into an OOP-based application with:
+This project started as a simple Python command-line quiz and gradually evolved into an OOP-based application with separate CLI and Web implementations.
 
-- CLI and Web versions
-- Multiple language support
-- Structured question-bank management
-- Randomized questions and answer choices
-- Automatic scoring
-- Localized feedback
-- Docker support
-- Separate application layers using models, repositories, and services
+The project focuses on practicing:
 
-The project is primarily intended for **learning, experimentation, and practicing Python application development**.
+- Python OOP
+- Classes and objects
+- Repository and service separation
+- File-based data management
+- Randomized multiple-choice questions
+- Automatic grading
+- Application configuration
+- Multilingual question-bank management
+- Streamlit application development
+- Docker containerization
 
 ---
 
@@ -498,6 +535,6 @@ The project is primarily intended for **learning, experimentation, and practicin
 
 **Mohamad Nouval Abdel A**
 
-Built as a Python practice project, evolving from a simple Command Line quiz application into an interactive Web application using Streamlit, with OOP architecture, multilingual question banks, and Docker support.
+Built as a Python learning and practice project, evolving from a simple Command Line quiz into an interactive Web application using Streamlit, with OOP architecture, multilingual question banks, automatic grading, and Docker support.
 
 Thanks for visiting. Hope it helps!
