@@ -229,7 +229,7 @@ The Web version allows users to:
 3. Answer multiple-choice questions
 4. Receive immediate answer feedback
 5. Continue through the remaining questions
-6. View the final score and answer review
+6. View the final score and feedback message
 
 The number of questions automatically adjusts to the number of available questions in the selected question bank.
 
