@@ -50,8 +50,8 @@ The past tense of "go" is|went#goed#goes#going
 An elephant is a|mammal#bird#fish#reptile
 Rata-rata dari 6, 8, 10, dan 12 adalah|9#8#10#11
 Volume kubus dengan sisi 6 cm adalah|216 cm³#36 cm³#108 cm³#144 cm³
-Luas lingkaran dengan jari-jari 7 cm (π = 22/7) adalah|154 cm²#144 cm²#164 cm²#147 cm²
-Keliling lingkaran dengan jari-jari 7 cm (π = 22/7) adalah|44 cm#42 cm#48 cm#49 cm
+Luas lingkaran dengan jari-jari 7 cm (pi = 22/7) adalah|154 cm²#144 cm²#164 cm²#147 cm²
+Keliling lingkaran dengan jari-jari 7 cm (pi = 22/7) adalah|44 cm#42 cm#48 cm#49 cm
 15% dari 400 adalah|60#40#50#80
 0,75 sama dengan pecahan|3/4#2/3#1/2#4/5
 3,25 X 10 =|32,5#3,25#325#30,25

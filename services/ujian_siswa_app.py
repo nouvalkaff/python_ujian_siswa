@@ -1,7 +1,6 @@
 import random
 import streamlit as st
 
-from services.ujian_siswa_cli import UjianSiswa
 from repositories.bank_soal_app import BankSoalApp
 from models.soal_app import SoalApp
 from config import JUMLAH_SOAL
@@ -16,9 +15,12 @@ class UjianSiswaApp:
         self.sudah_jawab = False
         self.jumlah_soal_real = JUMLAH_SOAL
 
-    def siapkan_sesi(self, tingkat: str):
+    def siapkan_sesi(self, tingkat: str) -> bool:
         bank_soal_app = BankSoalApp()
         raw = bank_soal_app.ambil_soal(tingkat)
+
+        if not raw:
+            return False
 
         random.shuffle(raw)
         self.jumlah_soal_real = min(self.jumlah_soal_real, len(raw))
@@ -42,6 +44,7 @@ class UjianSiswaApp:
         st.session_state.selesai = self.selesai
         st.session_state.sudah_jawab = self.sudah_jawab
         st.session_state.jumlah_soal_real = self.jumlah_soal_real
+        return True
 
     def _hitung_nilai(self) -> tuple[int, str]:
         nilai = int((self.jumlah_benar / self.jumlah_soal_real) * 100)
@@ -77,6 +80,14 @@ class UjianSiswaApp:
                     st.write(f"Jawaban benar: **{soal['jawaban_benar']}**")
 
         if st.button("Ulangi dari awal"):
-            for k in ["soal_list", "index", "jumlah_benar", "selesai", "sudah_jawab"]:
+            for k in [
+                "soal_list",
+                "index",
+                "jumlah_benar",
+                "selesai",
+                "sudah_jawab",
+                "jumlah_soal_real",
+                "feedback",
+            ]:
                 st.session_state.pop(k, None)
             st.rerun()

@@ -1,7 +1,5 @@
 import streamlit as st
 
-from repositories.bank_soal_cli import BankSoal
-from services.ujian_siswa_cli import UjianSiswa
 from services.ujian_siswa_app import UjianSiswaApp
 from config import TINGKAT_SD
 
@@ -11,12 +9,17 @@ def main():
 
     ujian_siswa_app = UjianSiswaApp()
 
+    if "jumlah_soal_real" in st.session_state:
+        ujian_siswa_app.jumlah_soal_real = st.session_state.jumlah_soal_real
+
     if "soal_list" not in st.session_state:
         st.write("Pilih tingkat kelas untuk mulai latihan soal.")
         tingkat = st.selectbox("Kelas", TINGKAT_SD, format_func=lambda t: f"Kelas {t}")
         if st.button("Mulai"):
-            ujian_siswa_app.siapkan_sesi(tingkat)
-            st.rerun()
+            if ujian_siswa_app.siapkan_sesi(tingkat):
+                st.rerun()
+            else:
+                st.warning("Bank soal untuk kelas ini kosong. Pilih kelas lain.")
 
     elif st.session_state.selesai:
         ujian_siswa_app.jumlah_benar = st.session_state.jumlah_benar

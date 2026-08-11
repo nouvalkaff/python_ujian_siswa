@@ -23,15 +23,18 @@ Multiple-choice practice quiz app for elementary school students (grades 1–6),
 
 ```text
 .
-├── main.py                  # CLI version entry point
+├── main.py                   # CLI version entry point
+├── main_app.py                # Web version entry point
+├── config.py                  # Shared constants (JUMLAH_SOAL, TINGKAT_SD, DIR_PATH, PILIHAN_GANDA)
 ├── models/
-│   └── soal.py               # Soal (question) domain model — CLI version
+│   ├── soal.py                 # Soal (question) domain model — CLI version
+│   └── soal_app.py             # Soal (question) domain model — Web version
 ├── repositories/
-│   └── bank_soal.py          # Loads question bank from disk — CLI version
+│   ├── bank_soal.py            # Loads question bank from disk — CLI version
+│   └── bank_soal_app.py        # Loads question bank from disk — Web version
 ├── services/
-│   └── ujian_siswa.py        # Exam session logic (scoring, flow) — CLI version
-├── streamlit_app.py         # Web version entry point
-├── functions_app.py         # Web version logic
+│   ├── ujian_siswa.py          # Exam session logic (scoring, flow) — CLI version
+│   └── ujian_siswa_app.py      # Exam session logic (scoring, flow) — Web version
 ├── assets/
 │   └── bank_soal/
 │       ├── bank_soal_sd_1.txt
@@ -40,16 +43,16 @@ Multiple-choice practice quiz app for elementary school students (grades 1–6),
 │       ├── bank_soal_sd_4.txt
 │       ├── bank_soal_sd_5.txt
 │       └── bank_soal_sd_6.txt
-├── requirements.txt         # CLI version dependencies
-├── requirements_app.txt     # Web version dependencies
-├── Dockerfile                # CLI version Docker image
-├── Dockerfile_app            # Web version Docker image
+├── requirements.txt          # CLI version dependencies
+├── requirements_app.txt      # Web version dependencies
+├── Dockerfile                 # CLI version Docker image
+├── Dockerfile_app             # Web version Docker image
 ├── .gitignore
 ├── .dockerignore
 └── README.md
 ```
 
-> CLI version uses an OOP structure (`models/`, `repositories/`, `services/`), while the Web version keeps its own separate logic in `functions_app.py` — so each can be developed/customized independently without affecting the other.
+> Both CLI and Web versions now use an OOP structure (`models/`, `repositories/`, `services/`), each with its own `_app`-suffixed classes for the Web version — so each can be developed/customized independently without affecting the other. Shared constants (question count, grade levels, file paths) live in `config.py`.
 
 ---
 
@@ -89,10 +92,10 @@ Interactive mode (`-it`) required — app relies on terminal input.
 
 ```bash
 pip install -r requirements_app.txt
-streamlit run streamlit_app.py
+streamlit run main_app.py
 ```
 
-Browser opens automatically to `http://localhost:8501`.
+Browser opens automatically to `http://localhost:8501`. Same fewer-than-10 and empty-bank handling as the CLI version applies here too.
 
 ### Docker
 
@@ -107,7 +110,7 @@ Access via `http://localhost:8501`.
 
 1. Push repository to GitHub
 2. Open [share.streamlit.io](https://share.streamlit.io), log in with GitHub account
-3. Click **New app** → select repo, branch `main`, main file `streamlit_app.py`
+3. Click **New app** → select repo, branch `main`, main file `main_app.py`
 4. Click **Deploy**
 
 ---
@@ -170,9 +173,9 @@ Keren banget! Kamu pintar sekali! 🌟
 
 ## ⚙️ Customization
 
-- Add new question banks for other grade levels (place in `assets/`)
+- Add new question banks for other grade levels (place in `assets/bank_soal/`)
 - Edit question text or answer choices
-- Adjust number of questions per session (`JUMLAH_SOAL` in `services/ujian_siswa.py` / `functions_app.py`)
+- Adjust number of questions per session (`JUMLAH_SOAL` in `config.py`, shared by both versions)
 - Build questions for other subjects or topics (Math, Indonesian, English, Science, Social Studies, etc.)
 
 Usage examples:
