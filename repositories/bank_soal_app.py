@@ -7,5 +7,5 @@ class BankSoalApp:
 
     def ambil_soal(self, tingkat: str) -> list[str]:
         with open(f"{DIR_PATH}_{tingkat}.txt", "r") as file:
-            self.daftar_soal = [soal.strip() for soal in file]
+            self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
         return self.daftar_soal

@@ -6,7 +6,7 @@ class SoalApp:
         self.baris = baris
         self.pertanyaan = ""
         self.jawaban_benar = ""
-        self.opsi = [""]
+        self.opsi = []
 
     def parse_soal(self) -> tuple[str, str]:
         soal = self.baris.split("|")

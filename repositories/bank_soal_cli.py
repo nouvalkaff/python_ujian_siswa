@@ -8,7 +8,7 @@ class BankSoal:
 
     def ambil_soal(self) -> None:
         with open(f"{DIR_PATH}_{BankSoal._ambil_tingkat()}.txt", "r") as file:
-            self.daftar_soal = [soal.strip() for soal in file]
+            self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
 
     @staticmethod
     def _ambil_tingkat() -> str:
