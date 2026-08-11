@@ -3,6 +3,7 @@ from random import shuffle
 
 from models.soal_cli import Soal
 from config import JUMLAH_SOAL, PILIHAN_GANDA
+from services.nilai import evaluasi_nilai
 
 
 class UjianSiswa:
@@ -34,29 +35,23 @@ class UjianSiswa:
 
         self._tampilkan_hasil(self.jawaban_benar, jumlah_soal)
 
+    @staticmethod
+    def _warna_untuk_nilai(nilai: int) -> str:
+        if nilai <= 50:
+            return Fore.RED
+        elif nilai <= 70:
+            return Fore.YELLOW
+        elif nilai <= 85:
+            return Fore.CYAN
+        elif nilai <= 96:
+            return Fore.GREEN
+        else:
+            return Fore.LIGHTGREEN_EX
+
     def _tampilkan_hasil(self, jumlah_benar: int, jumlah_soal: int):
         nilai = int((jumlah_benar / jumlah_soal) * 100)
-
-        if nilai <= 50:
-            warna = Fore.RED
-            pesan = "Ayo semangat belajar lagi ya! 💪"
-
-        elif nilai <= 70:
-            warna = Fore.YELLOW
-            pesan = "Lumayan! Sedikit lagi bisa lebih baik."
-
-        elif nilai <= 85:
-            warna = Fore.CYAN
-            pesan = "Bagus! Kamu sudah paham banyak nih."
-
-        elif nilai <= 95:
-            warna = Fore.GREEN
-            pesan = "Keren banget! Kamu pintar sekali! 🌟"
-
-        else:  # 96-100
-            warna = Fore.LIGHTGREEN_EX
-            pesan = "Luar biasa! Nilai sempurna, kamu juara! 🎉🏆"
-
+        pesan = evaluasi_nilai(nilai)
+        warna = self._warna_untuk_nilai(nilai)
         print(f"\nJumlah jawaban benar : {jumlah_benar}/{jumlah_soal}")
         print(f"{warna}Nilai akhir kamu : {nilai}{Style.RESET_ALL}")
         print(f"{warna}{pesan}{Style.RESET_ALL}")

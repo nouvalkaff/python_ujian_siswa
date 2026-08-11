@@ -4,6 +4,7 @@ import streamlit as st
 from repositories.bank_soal_app import BankSoalApp
 from models.soal_app import SoalApp
 from config import JUMLAH_SOAL
+from services.nilai import evaluasi_nilai
 
 
 class UjianSiswaApp:
@@ -48,18 +49,7 @@ class UjianSiswaApp:
 
     def _hitung_nilai(self) -> tuple[int, str]:
         nilai = int((self.jumlah_benar / self.jumlah_soal_real) * 100)
-
-        if nilai <= 50:
-            pesan = "Ayo semangat belajar lagi ya! 💪"
-        elif nilai <= 70:
-            pesan = "Lumayan! Sedikit lagi bisa lebih baik."
-        elif nilai <= 85:
-            pesan = "Bagus! Kamu sudah paham banyak nih."
-        elif nilai <= 95:
-            pesan = "Keren banget! Kamu pintar sekali! 🌟"
-        else:  # 96-100
-            pesan = "Luar biasa! Nilai sempurna, kamu juara! 🎉🏆"
-
+        pesan = evaluasi_nilai(nilai)
         return nilai, pesan
 
     def tampilkan_hasil_web(self):
