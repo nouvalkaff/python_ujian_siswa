@@ -20,47 +20,47 @@
 30 / 6 =|5#4#6#7
 Bilangan yang lebih besar dari 56 adalah|57#55#54#53
 Angka puluhan pada bilangan 48 adalah|4#8#48#0
-Bangun datar yang memiliki 4 sisi sama panjang adalah|persegi#segitiga#lingkaran#oval
-Bangun datar yang tidak memiliki sudut adalah|lingkaran#persegi#segitiga#persegi panjang
+Bangun datar yang memiliki 4 sisi sama panjang adalah|Persegi#Segitiga#Lingkaran#Oval
+Bangun datar yang tidak memiliki sudut adalah|Lingkaran#Persegi#Segitiga#Persegi panjang
 Satu minggu terdiri dari|7 hari#5 hari#6 hari#8 hari
-Lawan kata "rajin" adalah|malas#cepat#tinggi#bersih
-Sinonim kata "pandai" adalah|pintar#malas#tinggi#lapar
+Lawan kata "rajin" adalah|Malas#Cepat#Tinggi#Bersih
+Sinonim kata "pandai" adalah|Pintar#Malas#Tinggi#Lapar
 Kalimat yang benar adalah|Ibu memasak di dapur.#Dapur memasak ibu.#Memasak ibu dapur.#Di ibu memasak dapur.
-Tanda baca yang digunakan di akhir kalimat tanya adalah|?#!##.
-Huruf kapital digunakan pada awal|nama orang#nama hewan#warna#buah
-Kata yang termasuk nama hewan adalah|kelinci#meja#buku#pensil
-Antonim kata "bersih" adalah|kotor#rapi#harum#indah
-Kata "berlari" menunjukkan kegiatan|bergerak#warna#benda#tempat
+Tanda baca yang digunakan di akhir kalimat tanya adalah|?#!### .
+Huruf kapital digunakan pada awal|Nama orang#Nama hewan#Warna#Buah
+Kata yang termasuk nama hewan adalah|Kelinci#Meja#Buku#Pensil
+Antonim kata "bersih" adalah|Kotor#Rapi#Harum#Indah
+Kata "berlari" menunjukkan kegiatan|Bergerak#Warna#Benda#Tempat
 Kalimat "Adik minum susu." memiliki jumlah kata|3#2#4#5
-Buah yang memiliki banyak biji kecil di luar kulitnya adalah|stroberi#apel#pisang#jeruk
-Manusia bernapas menggunakan|paru-paru#hidung#telinga#mata
-Tumbuhan membuat makanan dengan bantuan|matahari#bulan#api#angin
-Air yang dipanaskan akan berubah menjadi|uap#es#batu#minyak
-Hewan yang berkembang biak dengan bertelur adalah|ayam#kucing#sapi#kelinci
-Pelangi biasanya muncul setelah|hujan#gempa#malam#kemarau
-Profesi yang mengajar di sekolah adalah|guru#dokter#petani#sopir
-Tempat membeli obat adalah|apotek#pasar#sekolah#terminal
-Jika matahari terbit, arahnya dari|timur#barat#utara#selatan
-Kita harus menghormati|orang tua#mainan#tembok#jalan
+Buah yang memiliki banyak biji kecil di luar kulitnya adalah|Stroberi#Apel#Pisang#Jeruk
+Manusia bernapas menggunakan|Paru-paru#Hidung#Telinga#Mata
+Tumbuhan membuat makanan dengan bantuan|Matahari#Bulan#Api#Angin
+Air yang dipanaskan akan berubah menjadi|Uap#Es#Batu#Minyak
+Hewan yang berkembang biak dengan bertelur adalah|Ayam#Kucing#Sapi#Kelinci
+Pelangi biasanya muncul setelah|Hujan#Gempa#Malam#Kemarau
+Profesi yang mengajar di sekolah adalah|Guru#Dokter#Petani#Sopir
+Tempat membeli obat adalah|Apotek#Pasar#Sekolah#Terminal
+Jika matahari terbit# arahnya dari|Timur#Barat#Utara#Selatan
+Kita harus menghormati|Orang tua#Mainan#Tembok#Jalan
 Sila pertama Pancasila berbunyi|Ketuhanan Yang Maha Esa#Kemanusiaan yang Adil dan Beradab#Persatuan Indonesia#Keadilan Sosial
-Lambang sila kedua adalah|rantai#bintang#pohon beringin#padi dan kapas
-Mouse komputer digunakan untuk|menggerakkan kursor#mencetak#mengetik#merekam suara
-Keyboard digunakan untuk|mengetik#menggambar#mencuci#mendengar
-Monitor berfungsi untuk|menampilkan gambar#menghidupkan komputer#mencetak#menyimpan data
-Apple dalam bahasa Indonesia adalah|apel#pisang#mangga#jeruk
-Banana berarti|pisang#apel#anggur#pepaya
-Cat berarti|kucing#anjing#burung#ikan
-Bird berarti|burung#kucing#sapi#ayam
-Red berarti|merah#biru#hijau#kuning
-Green berarti|hijau#merah#biru#hitam
-Three berarti|tiga#dua#empat#lima
-Eight berarti|delapan#enam#tujuh#sembilan
-Good night berarti|selamat malam#selamat pagi#sampai jumpa#terima kasih
-Thank you berarti|terima kasih#maaf#tolong#hai
+Lambang sila kedua adalah|Rantai#Bintang#Pohon beringin#Padi dan kapas
+Mouse komputer digunakan untuk|Menggerakkan kursor#Mencetak#Mengetik#Merekam suara
+Keyboard digunakan untuk|Mengetik#Menggambar#Mencuci#Mendengar
+Monitor berfungsi untuk|Menampilkan gambar#Menghidupkan komputer#Mencetak#Menyimpan data
+Apple dalam bahasa Indonesia adalah|Apel#Pisang#Mangga#Jeruk
+Banana berarti|Pisang#Apel#Anggur#Pepaya
+Cat berarti|Kucing#Anjing#Burung#Ikan
+Bird berarti|Burung#Kucing#Sapi#Ayam
+Red berarti|Merah#Biru#Hijau#Kuning
+Green berarti|Hijau#Merah#Biru#Hitam
+Three berarti|Tiga#Dua#Empat#Lima
+Eight berarti|Delapan#Enam#Tujuh#Sembilan
+Good night berarti|Selamat malam#Selamat pagi#Sampai jumpa#Terima kasih
+Thank you berarti|Terima kasih#Maaf#Tolong#Hai
 Presiden pertama Indonesia adalah|Soekarno#Soeharto#Habibie#Jokowi
-Bendera Indonesia berwarna|merah putih#biru putih#hijau putih#kuning merah
+Bendera Indonesia berwarna|Merah putih#Biru putih#Hijau putih#Kuning merah
 Indonesia merdeka pada tanggal|17 Agustus 1945#21 April 1945#10 November 1945#1 Juni 1945
-Ibu Fatmawati dikenal sebagai|penjahit bendera pusaka#guru#pelukis#dokter
+Ibu Fatmawati dikenal sebagai|Penjahit bendera pusaka#Guru#Pelukis#Dokter
 Monumen Nasional berada di|Jakarta#Bandung#Semarang#Surabaya
 45 + 24 =|69#68#70#71
 38 + 27 =|65#64#66#67
@@ -75,22 +75,22 @@ Monumen Nasional berada di|Jakarta#Bandung#Semarang#Surabaya
 Bilangan ganjil adalah|37#40#52#64
 Bilangan genap adalah|48#35#57#61
 Nilai satuan pada angka 73 adalah|3#7#73#0
-Bangun datar yang memiliki tiga sisi adalah|segitiga#persegi#lingkaran#oval
+Bangun datar yang memiliki tiga sisi adalah|Segitiga#Persegi#Lingkaran#Oval
 Jam memiliki|60 menit#30 menit#100 menit#24 menit
-Sinonim kata "senang" adalah|gembira#sedih#malas#marah
-Antonim kata "cepat" adalah|lambat#tinggi#pendek#besar
-Kalimat yang menggunakan huruf kapital dengan benar adalah|Budi pergi ke sekolah.#budi pergi ke sekolah.#budi Pergi ke sekolah.#Budi pergi Ke sekolah.
-Tanda baca di akhir kalimat perintah adalah|.#?#,#:
-Kata yang termasuk kata kerja adalah|menulis#meja#buku#sekolah
-Benda cair yang kita minum adalah|air#batu#kayu#kapas
-Hewan pemakan rumput disebut|herbivora#karnivora#omnivora#serangga
-Akar tumbuhan berfungsi untuk|menyerap air#menghasilkan bunga#melihat#mendengar
-Siang hari terasa lebih terang karena|matahari#bulan#bintang#lampu
-Angin adalah udara yang|bergerak#diam#membeku#mengeras
-Profesi yang memadamkan kebakaran adalah|pemadam kebakaran#guru#dokter#nelayan
-Tempat kita belajar adalah|sekolah#pasar#terminal#sawah
-Jika lampu lalu lintas berwarna merah, kita harus|berhenti#berjalan#berlari#belok
-Kita harus menjaga kebersihan|lingkungan#jalan orang lain#mainan teman tanpa izin#sampah
+Sinonim kata "senang" adalah|Gembira#Sedih#Malas#Marah
+Antonim kata "cepat" adalah|Lambat#Tinggi#Pendek#Besar
+Kalimat yang menggunakan huruf kapital dengan benar adalah|Budi pergi ke sekolah.#Budi pergi ke sekolah.#Budi Pergi ke sekolah.#Budi pergi Ke sekolah.
+Tanda baca di akhir kalimat perintah adalah|.#?#`#:`
+Kata yang termasuk kata kerja adalah|Menulis#Meja#Buku#Sekolah
+Benda cair yang kita minum adalah|Air#Batu#Kayu#Kapas
+Hewan pemakan rumput disebut|Herbivora#Karnivora#Omnivora#Serangga
+Akar tumbuhan berfungsi untuk|Menyerap air#Menghasilkan bunga#Melihat#Mendengar
+Siang hari terasa lebih terang karena|Matahari#Bulan#Bintang#Lampu
+Angin adalah udara yang|Bergerak#Diam#Membeku#Mengeras
+Profesi yang memadamkan kebakaran adalah|Pemadam kebakaran#Guru#Dokter#Nelayan
+Tempat kita belajar adalah|Sekolah#Pasar#Terminal#Sawah
+Jika lampu lalu lintas berwarna merah# kita harus|Berhenti#Berjalan#Berlari#Belok
+Kita harus menjaga kebersihan|Lingkungan#Jalan orang lain#Mainan teman tanpa izin#Sampah
 Sila ketiga Pancasila berbunyi|Persatuan Indonesia#Ketuhanan Yang Maha Esa#Kemanusiaan yang Adil dan Beradab#Keadilan Sosial
-Perangkat untuk mencetak dokumen adalah|printer#monitor#mouse#keyboard
-Internet dapat digunakan untuk|belajar#membuang sampah#tidur#berenang
+Perangkat untuk mencetak dokumen adalah|Printer#Monitor#Mouse#Keyboard
+Internet dapat digunakan untuk|Belajar#Membuang sampah#Tidur#Berenang

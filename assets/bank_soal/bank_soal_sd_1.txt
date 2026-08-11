@@ -23,62 +23,62 @@ Huruf pertama pada kata "Meja" adalah|M#J#E#A
 Huruf pertama pada kata "Ayam" adalah|A#Y#M#B
 Huruf terakhir pada kata "Sapi" adalah|I#A#P#S
 Huruf terakhir pada kata "Bola" adalah|A#O#L#B
-Lawan kata "besar" adalah|kecil#tinggi#panjang#berat
-Lawan kata "panas" adalah|dingin#hangat#besar#tinggi
-Lawan kata "siang" adalah|malam#pagi#sore#terang
-Buah yang berwarna merah adalah|apel#pisang#kelapa#jagung
-Hewan yang bisa terbang adalah|burung#kucing#sapi#kambing
-Mata digunakan untuk|melihat#mendengar#mencium#berjalan
-Telinga digunakan untuk|mendengar#melihat#makan#memegang
-Hidung digunakan untuk|mencium#melihat#mendengar#berlari
-Kita makan menggunakan|mulut#telinga#mata#hidung
+Lawan kata "besar" adalah|Kecil#Tinggi#Panjang#Berat
+Lawan kata "panas" adalah|Dingin#Hangat#Besar#Tinggi
+Lawan kata "siang" adalah|Malam#Pagi#Sore#Terang
+Buah yang berwarna merah adalah|Apel#Pisang#Kelapa#Jagung
+Hewan yang bisa terbang adalah|Burung#Kucing#Sapi#Kambing
+Mata digunakan untuk|Melihat#Mendengar#Mencium#Berjalan
+Telinga digunakan untuk|Mendengar#Melihat#Makan#Memegang
+Hidung digunakan untuk|Mencium#Melihat#Mendengar#Berlari
+Kita makan menggunakan|Mulut#Telinga#Mata#Hidung
 Jumlah kaki ayam adalah|2#4#6#8
 Jumlah kaki kucing adalah|4#2#6#8
-Benda yang mengeluarkan cahaya pada siang hari adalah|matahari#bulan#bintang#lampu
-Air jika dibekukan menjadi|es#uap#awan#api
-Tanaman membutuhkan|air#bensin#minyak#pasir
-Hewan yang hidup di air adalah|ikan#ayam#kucing#sapi
-Indonesia memiliki warna bendera|merah putih#biru putih#hijau putih#kuning merah
+Benda yang mengeluarkan cahaya pada siang hari adalah|Matahari#Bulan#Bintang#Lampu
+Air jika dibekukan menjadi|Es#Uap#Awan#Api
+Tanaman membutuhkan|Air#Bensin#Minyak#Pasir
+Hewan yang hidup di air adalah|Ikan#Ayam#Kucing#Sapi
+Indonesia memiliki warna bendera|Merah putih#Biru putih#Hijau putih#Kuning merah
 Lambang negara Indonesia adalah|Garuda#Pohon Beringin#Harimau#Bintang
-Kita harus menghormati|guru#mainan#batu#mobil
-Sebelum makan kita sebaiknya|berdoa#berlari#tidur#menangis
-Jika bertemu teman kita mengucapkan|halo#selamat tinggal#diam#marah
-Kita membuang sampah di|tempat sampah#jalan#sungai#kebun
-Rumah adalah tempat untuk|tinggal#berenang#sekolah#belanja
-Ayah bekerja untuk|mencari nafkah#bermain#tidur#sekolah
-Ibu biasanya memasak di|dapur#kamar mandi#garasi#teras
-Presiden adalah pemimpin|negara#sekolah#kelas#pasar
-Kita harus antre agar|tertib#berisik#bertengkar#terlambat
-Komputer digunakan untuk|belajar#makan#mandi#tidur
-Mouse komputer digunakan untuk|menggerakkan kursor#mencetak#merekam#mengisi tinta
-Keyboard digunakan untuk|mengetik#mendengar#melihat#mencuci
-Monitor berfungsi untuk|menampilkan gambar#mencetak#merekam#menghapus
-Tombol Enter digunakan untuk|memasukkan perintah#mematikan komputer#menggambar#membersihkan layar
-CPU adalah bagian dari|komputer#motor#sepeda#televisi
-Ikon pada komputer dapat|diklik#dimakan#diminum#dilempar
-Laptop adalah|komputer#televisi#kulkas#kipas
-Printer digunakan untuk|mencetak#mengetik#mendengar#memotret
-Komputer sebaiknya digunakan dengan|bijak#sembarangan#marah#berteriak
-Apple dalam bahasa Indonesia adalah|apel#mangga#pisang#jeruk
-Cat berarti|kucing#anjing#burung#ikan
-Dog berarti|anjing#kucing#sapi#ayam
-Red berarti|merah#biru#hijau#kuning
-Blue berarti|biru#merah#putih#hitam
-One berarti|satu#dua#tiga#empat
-Two berarti|dua#satu#empat#lima
-Book berarti|buku#pensil#meja#kursi
-School berarti|sekolah#rumah#pasar#kebun
-Good morning berarti|selamat pagi#selamat malam#sampai jumpa#terima kasih
+Kita harus menghormati|Guru#Mainan#Batu#Mobil
+Sebelum makan kita sebaiknya|Berdoa#Berlari#Tidur#Menangis
+Jika bertemu teman kita mengucapkan|Halo#Selamat tinggal#Diam#Marah
+Kita membuang sampah di|Tempat sampah#Jalan#Sungai#Kebun
+Rumah adalah tempat untuk|Tinggal#Berenang#Sekolah#Belanja
+Ayah bekerja untuk|Mencari nafkah#Bermain#Tidur#Sekolah
+Ibu biasanya memasak di|Dapur#Kamar mandi#Garasi#Teras
+Presiden adalah pemimpin|Negara#Sekolah#Kelas#Pasar
+Kita harus antre agar|Tertib#Berisik#Bertengkar#Terlambat
+Komputer digunakan untuk|Belajar#Makan#Mandi#Tidur
+Mouse komputer digunakan untuk|Menggerakkan kursor#Mencetak#Merekam#Mengisi tinta
+Keyboard digunakan untuk|Mengetik#Mendengar#Melihat#Mencuci
+Monitor berfungsi untuk|Menampilkan gambar#Mencetak#Merekam#Menghapus
+Tombol Enter digunakan untuk|Memasukkan perintah#Mematikan komputer#Menggambar#Membersihkan layar
+CPU adalah bagian dari|Komputer#Motor#Sepeda#Televisi
+Ikon pada komputer dapat|Diklik#Dimakan#Diminum#Dilempar
+Laptop adalah|Komputer#Televisi#Kulkas#Kipas
+Printer digunakan untuk|Mencetak#Mengetik#Mendengar#Memotret
+Komputer sebaiknya digunakan dengan|Bijak#Sembarangan#Marah#Berteriak
+Apple dalam bahasa Indonesia adalah|Apel#Mangga#Pisang#Jeruk
+Cat berarti|Kucing#Anjing#Burung#Ikan
+Dog berarti|Anjing#Kucing#Sapi#Ayam
+Red berarti|Merah#Biru#Hijau#Kuning
+Blue berarti|Biru#Merah#Putih#Hitam
+One berarti|Satu#Dua#Tiga#Empat
+Two berarti|Dua#Satu#Empat#Lima
+Book berarti|Buku#Pensil#Meja#Kursi
+School berarti|Sekolah#Rumah#Pasar#Kebun
+Good morning berarti|Selamat pagi#Selamat malam#Sampai jumpa#Terima kasih
 Siapa proklamator Indonesia?|Soekarno#Soeharto#Habibie#Gus Dur
 Indonesia merdeka pada tahun|1945#1944#1950#1960
 Bendera Indonesia dijahit oleh|Fatmawati#RA Kartini#Dewi Sartika#Cut Nyak Dien
 Hari Kemerdekaan Indonesia adalah|17 Agustus#1 Januari#21 April#10 November
-Pahlawan harus kita|teladani#dilupakan#dibenci#dijauhi
-RA Kartini dikenal sebagai pelopor|emansipasi wanita#olahraga#pertanian#perdagangan
-Lagu Indonesia Raya dinyanyikan saat|upacara#tidur#makan#bermain
+Pahlawan harus kita|Teladani#Dilupakan#Dibenci#Dijauhi
+RA Kartini dikenal sebagai pelopor|Emansipasi wanita#Olahraga#Pertanian#Perdagangan
+Lagu Indonesia Raya dinyanyikan saat|Upacara#Tidur#Makan#Bermain
 Garuda adalah lambang|Indonesia#Malaysia#Jepang#India
 Monas berada di|Jakarta#Bandung#Surabaya#Medan
-Bulan memiliki cahaya dari|matahari#bintang#api#lampu
+Bulan memiliki cahaya dari|Matahari#Bintang#Api#Lampu
 10 + 0 =|10#0#9#11
 9 + 1 =|10#9#8#11
 8 + 2 =|10#9#11#8

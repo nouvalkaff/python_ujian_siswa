@@ -25,7 +25,7 @@ Multiple-choice practice quiz app for elementary school students (grades 1–6),
 .
 ├── main.py                     # CLI version entry point
 ├── streamlit_app.py            # Web version entry point
-├── config.py                   # Shared constants (JUMLAH_SOAL, TINGKAT_SD, DIR_PATH, PILIHAN_GANDA)
+├── config.py                   # Shared constants (JUMLAH_SOAL, TINGKAT_SD, DIR_PATH_ID, PILIHAN_GANDA)
 ├── models/
 │   ├── soal_cli.py             # Soal (question) domain model — CLI version
 │   └── soal_app.py             # Soal (question) domain model — Web version

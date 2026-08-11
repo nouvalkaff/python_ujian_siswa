@@ -1,5 +1,5 @@
 from colorama import Fore, Style
-from config import TINGKAT_SD, DIR_PATH
+from config import TINGKAT_SD, DIR_PATH_ID
 
 
 class BankSoal:
@@ -7,7 +7,7 @@ class BankSoal:
         self.daftar_soal = []
 
     def ambil_soal(self) -> None:
-        with open(f"{DIR_PATH}_{BankSoal._ambil_tingkat()}.txt", "r") as file:
+        with open(f"{DIR_PATH_ID}_{BankSoal._ambil_tingkat()}.txt", "r") as file:
             self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
 
     @staticmethod

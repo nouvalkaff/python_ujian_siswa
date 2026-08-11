@@ -18,33 +18,33 @@ Rata-rata dari 60, 70, 80, 90, dan 100 adalah|80#75#85#90
 Median dari 2, 5, 7, 8, 10 adalah|7#5#8#10
 Modus dari 3, 5, 5, 6, 7 adalah|5#6#7#3
 Sudut penuh besarnya|360 derajat#180 derajat#90 derajat#270 derajat
-Ide pokok paragraf disebut juga|gagasan utama#judul#kesimpulan#pesan
+Ide pokok paragraf disebut juga|Gagasan utama#Judul#Kesimpulan#Pesan
 Kalimat efektif adalah|Siswa belajar dengan disiplin setiap hari.#Belajar siswa setiap hari dengan disiplin.#Dengan disiplin setiap belajar siswa hari.#Hari setiap siswa disiplin belajar dengan.
-Sinonim kata "objektif" adalah|netral#berpihak#emosional#berlebihan
-Antonim kata "optimis" adalah|pesimis#percaya diri#semangat#yakin
-Imbuhan pada kata "memperbaiki" adalah|memper- -i#me- -i#per- -i#mem- -kan
-Paragraf argumentasi bertujuan|meyakinkan pembaca#menceritakan pengalaman#menghibur pembaca#memberi petunjuk
-Makna konotatif adalah|makna kiasan#makna sebenarnya#makna kamus#makna harfiah
-Kalimat langsung ditandai dengan|tanda petik#tanda koma#tanda hubung#titik koma
-Organ tubuh yang menghasilkan insulin adalah|pankreas#jantung#ginjal#hati
-Bagian darah yang berfungsi melawan kuman adalah|sel darah putih#sel darah merah#trombosit#plasma
-Perubahan energi pada kipas angin adalah|listrik menjadi gerak#gerak menjadi listrik#panas menjadi listrik#cahaya menjadi panas
+Sinonim kata "objektif" adalah|Netral#Berpihak#Emosional#Berlebihan
+Antonim kata "optimis" adalah|Pesimis#Percaya diri#Semangat#Yakin
+Imbuhan pada kata "memperbaiki" adalah|Memper- -i#Me- -i#Per- -i#Mem- -kan
+Paragraf argumentasi bertujuan|Meyakinkan pembaca#Menceritakan pengalaman#Menghibur pembaca#Memberi petunjuk
+Makna konotatif adalah|Makna kiasan#Makna sebenarnya#Makna kamus#Makna harfiah
+Kalimat langsung ditandai dengan|Tanda petik#Tanda koma#Tanda hubung#Titik koma
+Organ tubuh yang menghasilkan insulin adalah|Pankreas#Jantung#Ginjal#Hati
+Bagian darah yang berfungsi melawan kuman adalah|Sel darah putih#Sel darah merah#Trombosit#Plasma
+Perubahan energi pada kipas angin adalah|Listrik menjadi gerak#Gerak menjadi listrik#Panas menjadi listrik#Cahaya menjadi panas
 Planet yang dijuluki Planet Merah adalah|Mars#Venus#Saturnus#Merkurius
-Lapisan ozon terdapat di|stratosfer#troposfer#mesosfer#termosfer
-Contoh energi alternatif adalah|energi surya#batu bara#minyak bumi#solar
-Hubungan saling menguntungkan disebut|mutualisme#parasitisme#komensalisme#predasi
+Lapisan ozon terdapat di|Stratosfer#Troposfer#Mesosfer#Termosfer
+Contoh energi alternatif adalah|Energi surya#Batu bara#Minyak bumi#Solar
+Hubungan saling menguntungkan disebut|Mutualisme#Parasitisme#Komensalisme#Predasi
 Ibukota Laos adalah|Vientiane#Hanoi#Bangkok#Phnom Penh
 Organisasi ASEAN didirikan di|Bangkok#Jakarta#Manila#Hanoi
-Kegiatan membeli barang dari luar negeri disebut|impor#ekspor#produksi#distribusi
-Pelaku ekonomi yang memakai barang disebut|konsumen#produsen#distributor#eksportir
+Kegiatan membeli barang dari luar negeri disebut|Impor#Ekspor#Produksi#Distribusi
+Pelaku ekonomi yang memakai barang disebut|Konsumen#Produsen#Distributor#Eksportir
 Bentuk negara Indonesia adalah|Negara Kesatuan Republik Indonesia#Kerajaan#Serikat#Monarki
 UUD 1945 terdiri atas|Pembukaan dan Batang Tubuh#Pembukaan saja#Batang Tubuh saja#Penjelasan saja
-Hak anak di sekolah adalah|mendapat pendidikan#merusak fasilitas#melanggar tata tertib#membolos
-Kewajiban warga negara adalah|menaati hukum#melanggar aturan#menghindari pajak#merusak lingkungan
+Hak anak di sekolah adalah|Mendapat pendidikan#Merusak fasilitas#Melanggar tata tertib#Membolos
+Kewajiban warga negara adalah|Menaati hukum#Melanggar aturan#Menghindari pajak#Merusak lingkungan
 CPU merupakan singkatan dari|Central Processing Unit#Central Program Unit#Computer Processing Utility#Computer Program Unit
 Perangkat lunak pengolah presentasi adalah|Microsoft PowerPoint#Microsoft Excel#Microsoft Word#Paint
-Firewall berfungsi untuk|melindungi jaringan#mencetak dokumen#mempercepat keyboard#menyalakan monitor
-Password yang kuat sebaiknya terdiri dari|huruf, angka, dan simbol#nama sendiri#12345678#tanggal lahir
+Firewall berfungsi untuk|Melindungi jaringan#Mencetak dokumen#Mempercepat keyboard#Menyalakan monitor
+Password yang kuat sebaiknya terdiri dari|Huruf# angka# dan simbol#Nama sendiri#12345678#Tanggal lahir
 Ctrl + Shift + Esc digunakan untuk membuka|Task Manager#File Explorer#Command Prompt#Recycle Bin
 Seorang pedagang membeli 20 buku dengan harga Rp15.000 per buku. Total harga pembelian adalah|Rp300.000#Rp250.000#Rp350.000#Rp200.000
 Harga sebuah tas Rp120.000 mendapat diskon 25%. Harga setelah diskon adalah|Rp90.000#Rp95.000#Rp100.000#Rp80.000
@@ -56,35 +56,35 @@ Jarak sebenarnya 15 km digambar pada peta menjadi 3 cm. Skalanya adalah|1 : 500.
 5/6 + 1/3 =|7/6#1#5/6#2/3
 2,4 / 0,6 =|4#3#5#6
 Keliling persegi dengan sisi 18 cm adalah|72 cm#36 cm#54 cm#64 cm
-Simpulan bacaan harus sesuai dengan|isi bacaan#judul saja#gambar saja#kalimat pertama
+Simpulan bacaan harus sesuai dengan|Isi bacaan#Judul saja#Gambar saja#Kalimat pertama
 Kalimat yang menggunakan kata baku adalah|Risiko itu harus dipertimbangkan.#Resiko itu harus dipertimbangkan.#Resikko itu harus dipertimbangkan.#Ressiko itu harus dipertimbangkan.
-Antonim kata "maksimal" adalah|minimal#optimal#besar#penuh
-Sinonim kata "solusi" adalah|penyelesaian#masalah#pertanyaan#jawaban
-Paragraf deskripsi bertujuan|menggambarkan objek#memberikan petunjuk#meyakinkan pembaca#menceritakan sejarah
-Kata "bertanggung jawab" menunjukkan sikap|positif#negatif#malas#egois
-Fungsi paru-paru adalah|pertukaran oksigen dan karbon dioksida#memompa darah#mencerna makanan#menyaring darah
-Tulang yang melindungi otak adalah|tulang tengkorak#tulang rusuk#tulang paha#tulang belakang
-Gerhana bulan terjadi ketika|bumi berada di antara matahari dan bulan#bulan berada di antara matahari dan bumi#matahari berada di antara bumi dan bulan#awan menutupi bulan
-Gaya yang menyebabkan benda tetap di permukaan bumi adalah|gravitasi#gesek#otot#magnet
-Contoh konduktor panas adalah|besi#kayu#karet#plastik
-Sumber energi yang tidak dapat diperbarui adalah|minyak bumi#angin#matahari#air
+Antonim kata "maksimal" adalah|Minimal#Optimal#Besar#Penuh
+Sinonim kata "solusi" adalah|Penyelesaian#Masalah#Pertanyaan#Jawaban
+Paragraf deskripsi bertujuan|Menggambarkan objek#Memberikan petunjuk#Meyakinkan pembaca#Menceritakan sejarah
+Kata "bertanggung jawab" menunjukkan sikap|Positif#Negatif#Malas#Egois
+Fungsi paru-paru adalah|Pertukaran oksigen dan karbon dioksida#Memompa darah#Mencerna makanan#Menyaring darah
+Tulang yang melindungi otak adalah|Tulang tengkorak#Tulang rusuk#Tulang paha#Tulang belakang
+Gerhana bulan terjadi ketika|Bumi berada di antara matahari dan bulan#Bulan berada di antara matahari dan bumi#Matahari berada di antara bumi dan bulan#Awan menutupi bulan
+Gaya yang menyebabkan benda tetap di permukaan bumi adalah|Gravitasi#Gesek#Otot#Magnet
+Contoh konduktor panas adalah|Besi#Kayu#Karet#Plastik
+Sumber energi yang tidak dapat diperbarui adalah|Minyak bumi#Angin#Matahari#Air
 Ibukota Kamboja adalah|Phnom Penh#Hanoi#Bangkok#Vientiane
-Contoh kegiatan distribusi adalah|mengirim barang ke toko#membuat roti#membeli makanan#menanam padi
+Contoh kegiatan distribusi adalah|Mengirim barang ke toko#Membuat roti#Membeli makanan#Menanam padi
 Indonesia berada di antara Benua Asia dan|Australia#Afrika#Eropa#Amerika
 Mata uang Singapura adalah|Dollar Singapura#Ringgit#Baht#Rupiah
 Semboyan negara Indonesia adalah|Bhinneka Tunggal Ika#Tut Wuri Handayani#Merdeka atau Mati#Ing Ngarsa Sung Tuladha
-Pemilihan ketua kelas sebaiknya dilakukan secara|musyawarah atau demokratis#paksa#acak#diam-diam
+Pemilihan ketua kelas sebaiknya dilakukan secara|Musyawarah atau demokratis#Paksa#Acak#Diam-diam
 Lembaga yang membuat undang-undang adalah|DPR#MPR#MA#BPK
-Norma yang mengatur kehidupan berbangsa adalah|norma hukum#norma mode#norma permainan#norma cuaca
+Norma yang mengatur kehidupan berbangsa adalah|Norma hukum#Norma mode#Norma permainan#Norma cuaca
 Browser yang sering digunakan untuk internet adalah|Google Chrome#Microsoft Word#Paint#Calculator
 Ekstensi file PDF adalah|.pdf#.docx#.xlsx#.pptx
-Data di internet harus dijaga agar tidak terjadi|kebocoran data#kecepatan internet#listrik padam#cetak dokumen
-Spam adalah|pesan yang tidak diinginkan#file musik#dokumen penting#program antivirus
+Data di internet harus dijaga agar tidak terjadi|Kebocoran data#Kecepatan internet#Listrik padam#Cetak dokumen
+Spam adalah|Pesan yang tidak diinginkan#File musik#Dokumen penting#Program antivirus
 Artificial Intelligence disingkat|AI#IT#CPU#RAM
-The opposite of "difficult" is|easy#hard#high#long
-My mother ___ delicious food every day.|cooks#cook#cooking#cooked
-They ___ to Bali last holiday.|went#go#goes#going
-There are ___ months in a year.|twelve#ten#eleven#thirteen
+The opposite of "difficult" is|Easy#Hard#High#Long
+My mother ___ delicious food every day.|Cooks#Cook#Cooking#Cooked
+They ___ to Bali last holiday.|Went#Go#Goes#Going
+There are ___ months in a year.|Twelve#Ten#Eleven#Thirteen
 The largest planet in our solar system is|Jupiter#Mars#Earth#Venus
 "Don't run in the classroom." berarti|Jangan berlari di dalam kelas.#Berlarilah di dalam kelas.#Masuklah ke dalam kelas.#Bersihkan ruang kelas.
 Indonesia declared independence on|17 August 1945#18 August 1945#1 June 1945#10 November 1945

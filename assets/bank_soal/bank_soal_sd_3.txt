@@ -21,40 +21,40 @@
 Nilai tempat ratusan pada bilangan 482 adalah|4#8#2#482
 Bilangan terbesar adalah|987#978#897#879
 1 meter sama dengan|100 cm#10 cm#1000 cm#1 cm
-Bangun datar yang memiliki 4 sudut siku-siku adalah|persegi panjang#segitiga#lingkaran#trapesium
-Keliling persegi dihitung dengan|4 × sisi#sisi × sisi#2 × sisi#sisi + 2
-Sinonim kata "indah" adalah|cantik#jelek#buruk#gelap
-Antonim kata "hemat" adalah|boros#rajin#pintar#baik
+Bangun datar yang memiliki 4 sudut siku-siku adalah|Persegi panjang#Segitiga#Lingkaran#Trapesium
+Keliling persegi dihitung dengan|4 × sisi#Sisi × sisi#2 × sisi#Sisi + 2
+Sinonim kata "indah" adalah|Cantik#Jelek#Buruk#Gelap
+Antonim kata "hemat" adalah|Boros#Rajin#Pintar#Baik
 Kalimat yang menggunakan tanda tanya adalah|Siapa nama gurumu?#Saya pergi ke sekolah.#Belajar itu penting.#Ayo bermain.
-Awalan pada kata "bermain" adalah|ber#main#bermain#mai
-Akhiran pada kata "makanan" adalah|an#kan#ma#maka
-Ide pokok adalah|gagasan utama#gambar#judul#bab
-Kata baku yang benar adalah|apotek#apotik#apotekk#apothik
-Tumbuhan hijau membuat makanan melalui|fotosintesis#bernapas#berjalan#berkembang biak
-Hewan yang mengalami metamorfosis sempurna adalah|kupu-kupu#kucing#sapi#ayam
-Organ tubuh yang memompa darah adalah|jantung#paru-paru#hati#lambung
+Awalan pada kata "bermain" adalah|Ber#Main#Bermain#Mai
+Akhiran pada kata "makanan" adalah|An#Kan#Ma#Maka
+Ide pokok adalah|Gagasan utama#Gambar#Judul#Bab
+Kata baku yang benar adalah|Apotek#Apotik#Apotekk#Apothik
+Tumbuhan hijau membuat makanan melalui|Fotosintesis#Bernapas#Berjalan#Berkembang biak
+Hewan yang mengalami metamorfosis sempurna adalah|Kupu-kupu#Kucing#Sapi#Ayam
+Organ tubuh yang memompa darah adalah|Jantung#Paru-paru#Hati#Lambung
 Planet tempat manusia tinggal adalah|Bumi#Mars#Yupiter#Venus
-Air menguap karena terkena|panas#dingin#angin#batu
-Sumber energi terbesar di bumi adalah|matahari#bulan#bintang#listrik
-Profesi yang menjaga keamanan adalah|polisi#guru#dokter#petani
-Kegiatan jual beli dilakukan di|pasar#sekolah#sawah#rumah sakit
-Gunung, sungai, dan danau termasuk|kenampakan alam#kenampakan buatan#alat transportasi#bangunan
+Air menguap karena terkena|Panas#Dingin#Angin#Batu
+Sumber energi terbesar di bumi adalah|Matahari#Bulan#Bintang#Listrik
+Profesi yang menjaga keamanan adalah|Polisi#Guru#Dokter#Petani
+Kegiatan jual beli dilakukan di|Pasar#Sekolah#Sawah#Rumah sakit
+Gunung# sungai# dan danau termasuk|Kenampakan alam#Kenampakan buatan#Alat transportasi#Bangunan
 Indonesia memiliki semboyan|Bhinneka Tunggal Ika#Tut Wuri Handayani#Merdeka atau Mati#Sekali Merdeka
-Hak anak di sekolah adalah|mendapat pendidikan#membuang sampah sembarangan#melanggar aturan#datang terlambat
-Kewajiban siswa adalah|belajar dengan rajin#merusak fasilitas#berkelahi#membolos
-Lambang sila ketiga Pancasila adalah|pohon beringin#rantai#bintang#kepala banteng
-CPU merupakan|otak komputer#layar komputer#alat cetak#pengeras suara
-File dapat disimpan di|hard disk#keyboard#mouse#monitor
+Hak anak di sekolah adalah|Mendapat pendidikan#Membuang sampah sembarangan#Melanggar aturan#Datang terlambat
+Kewajiban siswa adalah|Belajar dengan rajin#Merusak fasilitas#Berkelahi#Membolos
+Lambang sila ketiga Pancasila adalah|Pohon beringin#Rantai#Bintang#Kepala banteng
+CPU merupakan|Otak komputer#Layar komputer#Alat cetak#Pengeras suara
+File dapat disimpan di|Hard disk#Keyboard#Mouse#Monitor
 Ikon tempat menghapus file adalah|Recycle Bin#Paint#Word#Calculator
-Ctrl + C digunakan untuk|menyalin#memotong#menempel#mencetak
-Internet dapat dimanfaatkan untuk|mencari informasi#merusak komputer#membuat virus#menghapus data
-One hundred berarti|seratus#sepuluh#seribu#sembilan puluh
+Ctrl + C digunakan untuk|Menyalin#Memotong#Menempel#Mencetak
+Internet dapat dimanfaatkan untuk|Mencari informasi#Merusak komputer#Membuat virus#Menghapus data
+One hundred berarti|Seratus#Sepuluh#Seribu#Sembilan puluh
 Monday berarti|Senin#Minggu#Selasa#Rabu
-Teacher berarti|guru#dokter#petani#polisi
-Hospital berarti|rumah sakit#sekolah#pasar#terminal
-Beautiful berarti|indah#buruk#tinggi#cepat
-Hungry berarti|lapar#haus#senang#marah
-Twelve berarti|dua belas#dua puluh#sepuluh#sebelas
+Teacher berarti|Guru#Dokter#Petani#Polisi
+Hospital berarti|Rumah sakit#Sekolah#Pasar#Terminal
+Beautiful berarti|Indah#Buruk#Tinggi#Cepat
+Hungry berarti|Lapar#Haus#Senang#Marah
+Twelve berarti|Dua belas#Dua puluh#Sepuluh#Sebelas
 What is your name? berarti|Siapa namamu?#Di mana rumahmu?#Berapa umurmu?#Apa hobimu?
 Thank you very much berarti|Terima kasih banyak#Selamat pagi#Sampai jumpa#Tolong saya
 Good afternoon berarti|Selamat siang#Selamat pagi#Selamat malam#Selamat tidur
@@ -68,9 +68,9 @@ Ki Hajar Dewantara dikenal sebagai|Bapak Pendidikan Nasional#Bapak Proklamator#B
 3/5 dari 25 adalah|15#10#20#12
 Pecahan yang nilainya paling besar adalah|3/4#1/2#1/4#2/5
 2 jam sama dengan|120 menit#60 menit#90 menit#180 menit
-Pukul 07.00 disebut|jam tujuh pagi#jam tujuh malam#jam lima pagi#jam sembilan pagi
+Pukul 07.00 disebut|Jam tujuh pagi#Jam tujuh malam#Jam lima pagi#Jam sembilan pagi
 1 kilogram sama dengan|1000 gram#100 gram#10000 gram#10 gram
-Alat untuk mengukur panjang adalah|penggaris#timbangan#termometer#jam
+Alat untuk mengukur panjang adalah|Penggaris#Timbangan#Termometer#Jam
 Hasil dari 325 + 175 adalah|500#490#510#505
 Hasil dari 750 - 225 adalah|525#515#535#530
 15 × 6 =|90#80#95#96
@@ -78,22 +78,22 @@ Hasil dari 750 - 225 adalah|525#515#535#530
 Bilangan prima yang paling kecil adalah|2#1#3#5
 Sudut siku-siku besarnya|90 derajat#45 derajat#180 derajat#60 derajat
 Segitiga memiliki jumlah sisi|3#2#4#5
-Gagasan utama biasanya terdapat pada|kalimat utama#judul#gambar#penutup
-Paragraf yang baik terdiri atas beberapa|kalimat#huruf#angka#gambar
-Lawan kata "kuat" adalah|lemah#besar#tinggi#cepat
-Kata "bersepeda" memiliki awalan|ber#sepeda#be#da
-Kata yang termasuk kata sifat adalah|rajin#sekolah#berlari#buku
-Tanda koma digunakan untuk|memisahkan beberapa unsur#mengakhiri kalimat#mengawali dialog#mengganti titik
-Hewan yang bernapas dengan insang adalah|ikan#ayam#kucing#sapi
-Contoh benda padat adalah|batu#air#minyak#uap
-Gaya yang menyebabkan benda jatuh adalah|gaya gravitasi#gaya magnet#gaya listrik#gaya pegas
-Contoh sumber daya alam yang dapat diperbarui adalah|air#hutan besi#minyak bumi#batubara
-Pekerjaan yang menghasilkan padi adalah|petani#nelayan#dokter#guru
-Kegiatan ekonomi yang menjual barang disebut|perdagangan#pertanian#peternakan#perikanan
-Indonesia terdiri atas banyak|pulau#gunung#benua#planet
-Contoh alat transportasi laut adalah|kapal#kereta api#pesawat#sepeda
-Musyawarah dilakukan untuk mencapai|mufakat#pertengkaran#perlombaan#hukuman
-Sikap yang sesuai sila kedua Pancasila adalah|menolong teman#mengejek teman#berkelahi#berbohong
-Perangkat untuk memasukkan suara ke komputer adalah|mikrofon#monitor#printer#scanner
-Scanner digunakan untuk|memindai dokumen#mencetak dokumen#memutar musik#mengetik
-Kita tidak boleh membagikan password kepada|orang lain#guru#orang tua#sendiri
+Gagasan utama biasanya terdapat pada|Kalimat utama#Judul#Gambar#Penutup
+Paragraf yang baik terdiri atas beberapa|Kalimat#Huruf#Angka#Gambar
+Lawan kata "kuat" adalah|Lemah#Besar#Tinggi#Cepat
+Kata "bersepeda" memiliki awalan|Ber#Sepeda#Be#Da
+Kata yang termasuk kata sifat adalah|Rajin#Sekolah#Berlari#Buku
+Tanda koma digunakan untuk|Memisahkan beberapa unsur#Mengakhiri kalimat#Mengawali dialog#Mengganti titik
+Hewan yang bernapas dengan insang adalah|Ikan#Ayam#Kucing#Sapi
+Contoh benda padat adalah|Batu#Air#Minyak#Uap
+Gaya yang menyebabkan benda jatuh adalah|Gaya gravitasi#Gaya magnet#Gaya listrik#Gaya pegas
+Contoh sumber daya alam yang dapat diperbarui adalah|Air#Hutan besi#Minyak bumi#Batubara
+Pekerjaan yang menghasilkan padi adalah|Petani#Nelayan#Dokter#Guru
+Kegiatan ekonomi yang menjual barang disebut|Perdagangan#Pertanian#Peternakan#Perikanan
+Indonesia terdiri atas banyak|Pulau#Gunung#Benua#Planet
+Contoh alat transportasi laut adalah|Kapal#Kereta api#Pesawat#Sepeda
+Musyawarah dilakukan untuk mencapai|Mufakat#Pertengkaran#Perlombaan#Hukuman
+Sikap yang sesuai sila kedua Pancasila adalah|Menolong teman#Mengejek teman#Berkelahi#Berbohong
+Perangkat untuk memasukkan suara ke komputer adalah|Mikrofon#Monitor#Printer#Scanner
+Scanner digunakan untuk|Memindai dokumen#Mencetak dokumen#Memutar musik#Mengetik
+Kita tidak boleh membagikan password kepada|Orang lain#Guru#Orang tua#Sendiri
