@@ -4,7 +4,7 @@ import streamlit as st
 from repositories.bank_soal_app import BankSoalApp
 from models.soal_app import SoalApp
 from config import JUMLAH_SOAL
-from services.nilai import evaluasi_nilai
+from services.nilai import evaluasi_nilai, evaluate_score
 
 
 class UjianSiswaApp:
@@ -15,10 +15,12 @@ class UjianSiswaApp:
         self.selesai = False
         self.sudah_jawab = False
         self.jumlah_soal_real = JUMLAH_SOAL
+        self.bahasa = "id"
 
-    def siapkan_sesi(self, tingkat: str) -> bool:
+    def siapkan_sesi(self, tingkat: str, bahasa: str) -> bool:
+        self.bahasa = bahasa
         bank_soal_app = BankSoalApp()
-        raw = bank_soal_app.ambil_soal(tingkat)
+        raw = bank_soal_app.ambil_soal(tingkat, bahasa)
 
         if not raw:
             return False
@@ -30,6 +32,7 @@ class UjianSiswaApp:
         for baris in dipilih:
             soal_obj = SoalApp(baris)
             pertanyaan, jawaban_benar = soal_obj.parse_soal()
+
             self.soal_list.append(
                 {
                     "pertanyaan": pertanyaan,
@@ -45,31 +48,62 @@ class UjianSiswaApp:
         st.session_state.selesai = self.selesai
         st.session_state.sudah_jawab = self.sudah_jawab
         st.session_state.jumlah_soal_real = self.jumlah_soal_real
+        st.session_state.bahasa = self.bahasa
+
         return True
 
     def _hitung_nilai(self) -> tuple[int, str]:
         nilai = int((self.jumlah_benar / self.jumlah_soal_real) * 100)
-        pesan = evaluasi_nilai(nilai)
+
+        if self.bahasa == "id":
+            pesan = evaluasi_nilai(nilai)
+        else:
+            pesan = evaluate_score(nilai)
+
         return nilai, pesan
 
     def tampilkan_hasil_web(self):
         nilai, pesan = self._hitung_nilai()
 
-        st.subheader(f"Nilai akhir: {nilai}")
-        st.write(f"Jawaban benar: {self.jumlah_benar}/{self.jumlah_soal_real}")
-        st.success(pesan)
+        if self.bahasa == "id":
+            st.subheader(f"Nilai akhir: {nilai}")
+            st.write(f"Jawaban benar: " f"{self.jumlah_benar}/{self.jumlah_soal_real}")
+            st.success(pesan)
 
-        st.divider()
-        st.subheader("Review Jawaban")
-        for i, soal in enumerate(st.session_state.soal_list):
-            benar = soal["jawaban_user"] == soal["jawaban_benar"]
-            ikon = "✅" if benar else "❌"
-            with st.expander(f"{ikon} Soal {i + 1}: {soal['pertanyaan']}"):
-                st.write(f"Jawabanmu: **{soal['jawaban_user']}**")
-                if not benar:
-                    st.write(f"Jawaban benar: **{soal['jawaban_benar']}**")
+            st.divider()
+            st.subheader("Review Jawaban")
 
-        if st.button("Ulangi dari awal"):
+            for i, soal in enumerate(st.session_state.soal_list):
+                benar = soal["jawaban_user"] == soal["jawaban_benar"]
+                ikon = "✅" if benar else "❌"
+
+                with st.expander(f"{ikon} Soal {i + 1}: {soal['pertanyaan']}"):
+                    st.write(f"Jawabanmu: **{soal['jawaban_user']}**")
+
+                    if not benar:
+                        st.write(f"Jawaban benar: **{soal['jawaban_benar']}**")
+
+        else:
+            st.subheader(f"Final Score: {nilai}")
+            st.write(
+                f"Correct answers: " f"{self.jumlah_benar}/{self.jumlah_soal_real}"
+            )
+            st.success(pesan)
+
+            st.divider()
+            st.subheader("Answer Review")
+
+            for i, soal in enumerate(st.session_state.soal_list):
+                benar = soal["jawaban_user"] == soal["jawaban_benar"]
+                ikon = "✅" if benar else "❌"
+
+                with st.expander(f"{ikon} Question {i + 1}: {soal['pertanyaan']}"):
+                    st.write(f"Your answer: **{soal['jawaban_user']}**")
+
+                    if not benar:
+                        st.write(f"Correct answer: **{soal['jawaban_benar']}**")
+
+        if st.button("Ulangi dari awal" if self.bahasa == "id" else "Start Again"):
             for k in [
                 "soal_list",
                 "index",
@@ -78,6 +112,8 @@ class UjianSiswaApp:
                 "sudah_jawab",
                 "jumlah_soal_real",
                 "feedback",
+                "bahasa",
             ]:
                 st.session_state.pop(k, None)
+
             st.rerun()
