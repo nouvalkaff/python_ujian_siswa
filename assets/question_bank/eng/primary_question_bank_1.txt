@@ -1,0 +1,98 @@
+What is 5 + 3?|8#7#9#6
+What is 9 - 4?|5#4#6#3
+Which number comes after 12?|13#11#14#10
+Which number is smaller?|6#9#12#15
+How many sides does a triangle have?|3#4#5#6
+What shape has four equal sides?|Square#Circle#Triangle#Oval
+What is 2 + 6?|8#7#9#6
+What is 10 - 3?|7#6#8#5
+Which number comes before 20?|19#18#21#17
+How many fingers are on one hand?|5#4#6#10
+Which number is greater: 7 or 4?|7#4#3#5
+What is 4 + 5?|9#8#10#7
+What is 8 - 2?|6#5#7#4
+Which shape is round?|Circle#Square#Triangle#Rectangle
+How many legs does a pair of shoes have?|2#4#6#8
+What is 10 + 5?|15#14#16#13
+Which number is between 6 and 8?|7#5#9#10
+How many sides does a rectangle have?|4#3#5#6
+What is 7 - 5?|2#1#3#4
+Which number is the largest?|10#7#8#9
+What is the first letter of "cat"?|C#A#T#D
+Which word rhymes with "sun"?|Fun#Dog#Cat#Tree
+Which word is a name of a person?|Aisyah#Table#Blue#Run
+Which sentence starts with a capital letter?|My name is Ali.#my name is Ali.#MY name is ali.#my Name is Ali.
+What is the opposite of "big"?|Small#Tall#Long#Fast
+Which word means more than one cat?|Cats#Cat#Catted#Cat's
+Which word is a verb?|Run#Blue#Chair#Happy
+Which word describes a flower?|Beautiful#Jump#Table#Eat
+Which punctuation mark ends a question?|Question mark#Full stop#Comma#Colon
+Which word begins with the letter B?|Ball#Cat#Dog#Fish
+What is the Indonesian word for "book"?|Buku#Meja#Kursi#Pintu
+What is the Indonesian word for "water"?|Air#Api#Tanah#Angin
+Which Indonesian word means "mother"?|Ibu#Ayah#Kakak#Adik
+Which word is a greeting in Indonesian?|Halo#Makan#Tidur#Lari
+What is the Indonesian word for "school"?|Sekolah#Rumah#Pasar#Taman
+Which Indonesian word means "red"?|Merah#Biru#Hijau#Kuning
+What is the Indonesian word for "cat" as an animal?|Kucing#Anjing#Burung#Ikan
+Which word means "thank you" in Indonesian?|Terima kasih#Selamat pagi#Sampai jumpa#Permisi
+What is the Indonesian word for "father"?|Ayah#Ibu#Adik#Teman
+Which word means "good morning" in Indonesian?|Selamat pagi#Selamat malam#Terima kasih#Sampai jumpa
+What sound does a cat make?|Meow#Woof#Moo#Roar
+Which animal has wings?|Bird#Fish#Dog#Cat
+What do plants need to grow?|Water#Candy#Toys#Shoes
+Which part of a plant is usually under the ground?|Root#Flower#Leaf#Fruit
+What do we use to see?|Eyes#Ears#Nose#Hands
+What do we use to hear?|Ears#Eyes#Mouth#Feet
+Which animal lives in water?|Fish#Lion#Horse#Chicken
+What gives Earth light during the day?|Sun#Moon#Star#Cloud
+Which one is a living thing?|Tree#Rock#Chair#Ball
+What should we drink when we are thirsty?|Water#Sand#Paper#Oil
+Which animal has four legs?|Dog#Bird#Fish#Snake
+What do humans use to breathe?|Lungs#Teeth#Hair#Nails
+Which is usually hot?|Fire#Ice#Snow#Rain
+Where do fish live?|Water#Trees#Deserts#Clouds
+What do we use to smell?|Nose#Eyes#Ears#Hands
+Who helps children learn at school?|Teacher#Farmer#Pilot#Chef
+Where do students usually learn?|School#Hospital#Airport#Market
+Who helps sick people?|Doctor#Teacher#Driver#Farmer
+What do we use to travel on a road?|Car#Boat#Submarine#Plane
+Who drives a bus?|Bus driver#Doctor#Teacher#Chef
+Where can we buy food?|Market#Library#Hospital#School
+What do we call the place where we live?|Home#Airport#Zoo#Factory
+Who grows crops?|Farmer#Pilot#Doctor#Teacher
+What should we do when a traffic light is red?|Stop#Run#Jump#Dance
+Which vehicle travels on water?|Boat#Bus#Car#Train
+Which vehicle flies in the sky?|Airplane#Bicycle#Bus#Train
+What is the capital city of Indonesia?|Jakarta#Bandung#Surabaya#Medan
+What is the national language of Indonesia?|Indonesian#English#Japanese#French
+What is the Indonesian flag called?|Merah Putih#Garuda#Pancasila#Nusantara
+What two colours are on the Indonesian flag?|Red and white#Blue and white#Green and yellow#Red and blue
+What is Indonesia made up of many of?|Islands#Deserts#Mountains only#Rivers only
+Who was Indonesia's first president?|Soekarno#Soeharto#Joko Widodo#B. J. Habibie
+Who was Indonesia's first vice president?|Mohammad Hatta#Soekarno#Sultan Hasanuddin#Ki Hajar Dewantara
+What date is Indonesia's Independence Day?|17 August#1 June#10 November#28 October
+What is the symbol of Indonesia?|Garuda Pancasila#Komodo#Merpati#Tiger
+Which national hero is famous for education?|Ki Hajar Dewantara#R. A. Kartini#Cut Nyak Dien#Diponegoro
+What device can we use to type letters?|Keyboard#Speaker#Monitor#Mouse
+Which device shows pictures and text?|Monitor#Keyboard#Mouse#Printer
+Which device is used to move the pointer?|Mouse#Keyboard#Speaker#Printer
+What should we do before using a computer?|Turn it on safely#Hit the screen#Pull the cables#Pour water on it
+Which device can print words on paper?|Printer#Mouse#Monitor#Keyboard
+What do we use to listen to computer sounds?|Speakers#Keyboard#Printer#Mouse
+Which part of a computer can show videos?|Screen#Keyboard#Mouse#Printer
+What should we do with our hands before using a shared computer?|Keep them clean#Make them wet#Cover them with food#Put them on the screen
+Which button can turn a computer on?|Power button#Space bar#Shift key#Enter key
+What should you do if a computer cable looks damaged?|Tell an adult#Touch the wires#Pull it hard#Cut it
+Which one is a digital device?|Tablet#Pencil#Book#Chair
+What can a camera take?|Pictures#Water#Food#Shoes
+How many days are in one week?|7#5#6#8
+Which day comes after Monday?|Tuesday#Sunday#Wednesday#Friday
+Which season is usually cold in many countries?|Winter#Summer#Spring#Autumn
+What do we use to tell the time?|Clock#Plate#Spoon#Bag
+Which comes after morning?|Afternoon#Night#Midnight#Yesterday
+Which sense helps us taste food?|Taste#Sight#Hearing#Touch
+Which material is usually hard?|Stone#Water#Air#Milk
+Which object can float on water?|Boat#Rock#Coin#Key
+Why do we wash our hands?|To remove germs#To make them dirty#To paint them#To make them heavy
+Which action helps keep Earth clean?|Recycling#Littering#Wasting water#Dropping rubbish

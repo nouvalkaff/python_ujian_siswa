@@ -1,0 +1,104 @@
+What is 3,456 + 2,789?|6,245#6,145#6,345#5,245
+What is 8,000 - 3,475?|4,525#4,425#4,625#5,525
+What is 24 × 6?|144#124#134#154
+What is 156 ÷ 12?|13#12#14#16
+What is the value of 7 in 5,728?|700#70#7#7,000
+Which fraction is equivalent to 3/4?|6/8#3/8#4/6#9/16
+What is 2/5 + 1/5?|3/5#3/10#2/10#4/5
+What is 7/8 - 3/8?|1/2#3/8#4/8#5/8
+What is 25% of 80?|20#15#25#30
+A rectangle is 12 cm long and 5 cm wide. What is its area?|60 cm²#34 cm²#17 cm²#50 cm²
+A square has sides of 9 cm. What is its perimeter?|36 cm#18 cm#27 cm#81 cm
+What is 3.5 + 2.7?|6.2#5.2#6.1#6.3
+What is 10 - 4.65?|5.35#5.45#6.35#4.35
+Which number is a prime number?|29#21#27#33
+What is the next multiple of 8 after 40?|48#46#50#56
+What is 15 × 20?|300#200#250#350
+What is 960 ÷ 8?|120#110#130#140
+Which angle is greater than 90° but less than 180°?|Obtuse angle#Acute angle#Right angle#Straight angle
+A train leaves at 8:30 and arrives at 10:15. How long is the journey?|1 hour 45 minutes#1 hour 30 minutes#2 hours 15 minutes#2 hours
+What is 3/4 written as a decimal?|0.75#0.34#0.43#0.25
+Which word is a noun?|Mountain#Quickly#Beautiful#Running
+Which word is an adverb?|Carefully#Careful#Care#Caring
+Which sentence uses the correct subject-verb agreement?|The children are playing.#The children is playing.#The child are playing.#The children am playing.
+What is the past tense of "write"?|Wrote#Written#Writing#Writes
+Which word is closest in meaning to "enormous"?|Huge#Tiny#Narrow#Short
+Which word is the opposite of "ancient"?|Modern#Historic#Old#Traditional
+What is the plural of "knife"?|Knives#Knifes#Knifees#Knivies
+Which sentence contains a simile?|The clouds were like cotton.#The clouds moved.#The clouds were white.#The clouds covered the sky.
+What is the main idea of a paragraph?|The most important point#The longest sentence#The first word#The final punctuation mark
+Which word is spelled correctly?|Necessary#Neccessary#Necesary#Necessery
+Which Indonesian word means "environment"?|Lingkungan#Masyarakat#Perjalanan#Kebudayaan
+Which Indonesian word means "responsibility"?|Tanggung jawab#Kerja sama#Persahabatan#Peraturan
+What is the opposite of "rajin" in Indonesian?|Malas#Cepat#Pintar#Berani
+Which Indonesian word is a verb?|Menyapu#Kebersihan#Rumah#Indah
+Which Indonesian word is an adjective?|Cerdas#Belajar#Sekolah#Buku
+What is the correct plural form of "buku" in Indonesian?|Buku-buku#Bukus#Bukues#Pembuku
+Which sentence is written correctly?|Ibu memasak nasi di dapur.#ibu memasak nasi di dapur.#Ibu memasak nasi di Dapur.#ibu Memasak nasi di dapur.
+What does "gotong royong" mean?|Working together to help one another#Working alone#Travelling together#Studying silently
+Which Indonesian word means "decision"?|Keputusan#Pertanyaan#Jawaban#Perjalanan
+What is the purpose of a paragraph in a text?|To develop an idea or information#To decorate the page#To replace the title#To show the page number
+Which organ pumps blood throughout the human body?|Heart#Lungs#Brain#Kidneys
+What is the main function of the lungs?|To exchange gases during breathing#To digest food#To pump blood#To control movement
+Which part of a plant absorbs water and minerals?|Roots#Leaves#Flowers#Fruit
+What is photosynthesis?|The process plants use to make food using light#The movement of animals#The digestion of food#The freezing of water
+Which material is the best conductor of electricity?|Copper#Plastic#Wood#Rubber
+Why does a shadow change size during the day?|The position of the Sun changes relative to the object#The object changes colour#The ground moves closer#The air becomes heavier
+What force pulls objects toward Earth?|Gravity#Friction#Magnetism#Electricity
+Which simple machine is a ramp?|Inclined plane#Lever#Pulley#Wheel
+What happens when water reaches 100°C at normal pressure?|It boils#It freezes#It becomes solid#It disappears
+Which state of matter has no fixed shape or volume?|Gas#Solid#Liquid#Ice
+What is the role of the skeleton?|To support the body and protect organs#To digest food#To pump blood#To produce sound
+Which planet is closest to the Sun?|Mercury#Venus#Earth#Mars
+Why does the Moon appear to have different shapes during a month?|We see different amounts of its sunlit side#The Moon changes its shape#The Moon produces different amounts of light#Clouds change the Moon
+What is a food chain?|A sequence showing how energy passes between living things#A list of foods in a shop#A cooking recipe#A list of animals in a zoo
+Which animal is a vertebrate?|Eagle#Butterfly#Worm#Jellyfish
+What is an ecosystem?|Living things interacting with each other and their environment#A single animal#A type of weather#A group of buildings
+What is a renewable resource?|A resource that can be naturally replaced#A resource that can never be used again#A type of plastic#A manufactured product
+Why are forests important?|They provide habitats and help absorb carbon dioxide#They produce plastic#They stop all rain#They remove oxygen
+What is a population in geography?|The number of people living in a place#The size of a building#The number of roads#The amount of rainfall
+Why do people move from one place to another?|For reasons such as work, education, or safety#Because maps require it#Because roads disappear#Because everyone must move
+What is a community?|A group of people living or working in the same area#A single person#A type of building#A natural resource
+What does a government provide for citizens?|Public services and laws#Only entertainment#Only food#Only transport
+Why are rules important in a community?|They help maintain safety and order#They stop people from communicating#They prevent learning#They make everyone identical
+What is trade?|The buying and selling or exchanging of goods and services#A type of weather#A school activity#A form of exercise
+Which geographical feature is a large body of salt water?|Ocean#Valley#Hill#Desert
+Which line divides Earth into the Northern and Southern Hemispheres?|Equator#Prime Meridian#Tropic of Cancer#Arctic Circle
+What is the capital city of Indonesia?|Jakarta#Bandung#Surabaya#Semarang
+When was Indonesia's independence proclaimed?|17 August 1945#10 November 1945#28 October 1928#1 June 1945
+Who proclaimed Indonesian independence together with Mohammad Hatta?|Soekarno#Sutan Sjahrir#Ki Hajar Dewantara#Diponegoro
+What was the Youth Pledge of 1928 called?|Sumpah Pemuda#Proklamasi#Pancasila#Budi Utomo
+What did the Youth Pledge promote?|Unity among Indonesian youth#Independence from Japan#Economic development#Modern technology
+Who founded Taman Siswa?|Ki Hajar Dewantara#Soekarno#Mohammad Hatta#Pattimura
+Which Indonesian heroine is strongly associated with women's education?|R. A. Kartini#Cut Nyak Dien#Dewi Sartika#Martha Christina Tiahahu
+What is the national motto of Indonesia?|Bhinneka Tunggal Ika#Tut Wuri Handayani#Indonesia Raya#Merah Putih
+What does Bhinneka Tunggal Ika express?|Unity in diversity#One ethnic group#One language#One island
+Which event is commemorated on 10 November in Indonesia?|Heroes' Day#Independence Day#Youth Pledge Day#Education Day
+Which Indonesian hero is associated with the resistance in Java against the Dutch?|Prince Diponegoro#Pattimura#Sultan Hasanuddin#Bung Tomo
+What is Pancasila?|The foundation of the Indonesian state#A historical battle#A traditional instrument#A national language
+Which device is primarily used to enter text into a computer?|Keyboard#Monitor#Speaker#Projector
+What is the main function of a CPU?|To process instructions and data#To display images#To print documents#To produce sound
+What does RAM help a computer do?|Temporarily store data being used#Permanently store all files#Print documents#Connect to a television
+Which device is used to store files for a long time?|Hard drive#Monitor#Keyboard#Speaker
+What is an operating system?|Software that manages a computer's hardware and applications#A type of computer cable#A search engine#A computer game
+Which of these is an example of an operating system?|Windows#Google#YouTube#Bluetooth
+What is a URL?|The address of a resource on the Internet#A computer password#A type of keyboard#A file extension
+What should you do before downloading an unknown file?|Check that the source is trustworthy#Download it immediately#Share it with friends#Disable security software
+Why should passwords be kept private?|To protect accounts and personal information#To make typing faster#To increase screen brightness#To improve Internet speed
+What is phishing?|An attempt to trick people into giving away sensitive information#A type of computer monitor#A method of printing#A programming language
+What is an algorithm?|A step-by-step procedure for completing a task#A computer screen#A storage device#An Internet connection
+What is debugging?|Finding and fixing errors in a program#Deleting all files#Turning off a computer#Changing a password
+Which programming concept repeats instructions?|Loop#Variable#Monitor#Folder
+What is a variable in programming?|A named place for storing a value#A computer screen#A keyboard key#An Internet cable
+Which file extension is commonly associated with a text file?|.txt#.jpg#.mp3#.png
+What is cloud storage?|Storing data on remote servers accessed through the Internet#Saving files only on paper#A type of weather system#A computer fan
+How many planets are in the Solar System?|8#7#9#10
+Which is the largest planet in our Solar System?|Jupiter#Saturn#Earth#Neptune
+Which organ is responsible for thinking and controlling many body functions?|Brain#Heart#Liver#Lungs
+What is the boiling point of water at sea level?|100°C#50°C#90°C#120°C
+Which instrument measures air pressure?|Barometer#Thermometer#Ruler#Compass
+What is the largest ocean on Earth?|Pacific Ocean#Atlantic Ocean#Indian Ocean#Arctic Ocean
+Which continent is Indonesia part of?|Asia#Europe#Africa#South America
+How many sides does an octagon have?|8#6#7#10
+Which gas is most abundant in Earth's atmosphere?|Nitrogen#Oxygen#Carbon dioxide#Hydrogen
+Why should people conserve electricity?|To reduce energy use and protect resources#To make devices slower#To increase pollution#To waste more energy

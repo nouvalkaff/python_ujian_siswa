@@ -1,0 +1,97 @@
+What is 24 + 15?|39#38#40#29
+What is 50 - 27?|23#22#24#33
+What is 6 × 4?|24#20#18#28
+What is 20 ÷ 5?|4#5#10#15
+Which number is even?|36#35#37#39
+What is 7 × 3?|21#20#24#18
+What is 45 + 28?|73#72#74#63
+What is 80 - 36?|44#43#46#54
+Which number is greater?|67#57#76#60
+What is half of 18?|9#8#10#6
+What is 5 × 5?|25#20#15#30
+What is 36 ÷ 6?|6#5#7#8
+How many sides does a pentagon have?|5#4#6#7
+Which shape has four equal sides?|Square#Rectangle#Triangle#Circle
+What is 100 - 45?|55#65#45#50
+What number comes after 199?|200#198#201#209
+What is 3 × 8?|24#21#18#32
+Which fraction means one half?|1/2#1/3#1/4#2/3
+How many centimetres are in one metre?|100#10#50#1000
+What is 14 + 19?|33#32#34#31
+Which word is a noun?|Garden#Quickly#Jump#Beautiful
+Which word is a verb?|Swim#Blue#Happy#Table
+Which word is an adjective?|Bright#Run#School#Sing
+What is the plural of "child"?|Children#Childs#Childes#Childrens
+Which sentence is correct?|She is reading a book.#She are reading a book.#She reading a book.#She am reading a book.
+What is the opposite of "early"?|Late#Fast#Slow#Young
+Which word rhymes with "light"?|Night#Book#Tree#House
+Which word has the same meaning as "small"?|Little#Huge#Tall#Long
+What punctuation mark ends a statement?|Full stop#Question mark#Comma#Exclamation mark
+Which word is spelled correctly?|Because#Becaus#Becouse#Becausse
+What is the Indonesian word for "school"?|Sekolah#Rumah#Pasar#Kantor
+What is the Indonesian word for "teacher"?|Guru#Dokter#Petani#Polisi
+Which Indonesian word means "book"?|Buku#Meja#Pintu#Kursi
+What is the opposite of "besar" in Indonesian?|Kecil#Panjang#Tinggi#Cepat
+Which Indonesian word means "water"?|Air#Api#Tanah#Angin
+Which word is a noun in Indonesian?|Meja#Berlari#Indah#Cepat
+Which word is a verb in Indonesian?|Makan#Rumah#Merah#Besar
+What is the Indonesian word for "friend"?|Teman#Guru#Adik#Ibu
+Which sentence is written correctly in Indonesian?|Saya pergi ke sekolah.#saya pergi ke sekolah#Saya pergi Ke Sekolah.#saya Pergi ke sekolah.
+Which word means "happy" in Indonesian?|Senang#Sedih#Marah#Takut
+What do plants need to make food?|Sunlight#Shoes#Toys#Books
+Which part of a plant absorbs water from the soil?|Root#Flower#Leaf#Fruit
+What gas do humans need to breathe?|Oxygen#Smoke#Carbon dioxide#Steam
+Which organ pumps blood around the body?|Heart#Lung#Brain#Stomach
+Which material is transparent?|Glass#Wood#Stone#Metal
+What happens to ice when it gets warm?|It melts#It freezes#It grows#It disappears
+Which animal is a mammal?|Cat#Frog#Fish#Chicken
+Which animal begins life as a tadpole?|Frog#Cat#Dog#Butterfly
+What force pulls objects toward Earth?|Gravity#Light#Sound#Heat
+Which object is attracted to a magnet?|Iron nail#Plastic cup#Wooden spoon#Glass bottle
+What is the main source of light during the day?|Sun#Moon#Cloud#Star
+Which state of water is ice?|Solid#Liquid#Gas#Steam
+Why do we need a balanced diet?|To stay healthy#To become sleepy#To grow shorter#To avoid exercise
+Which body part helps us think?|Brain#Heart#Hand#Foot
+Who makes laws for a country?|Government#Farmer#Shopkeeper#Driver
+What is a community?|People living and working together#A single house#A type of food#A school subject
+Which place is used to borrow books?|Library#Hospital#Airport#Market
+What does a map help us find?|Places#Food#Weather only#Songs
+Which person helps put out fires?|Firefighter#Teacher#Farmer#Pilot
+Which vehicle usually travels on railway tracks?|Train#Bus#Boat#Airplane
+What should people do at a red traffic light?|Stop#Run#Turn around#Dance
+Which place is used to treat sick people?|Hospital#Library#Museum#Market
+What is a citizen?|A member of a country or community#A type of animal#A school bag#A vehicle
+Why do people have rules?|To keep people safe and organised#To make everyone late#To stop learning#To waste time
+What is the capital city of Indonesia?|Jakarta#Bandung#Surabaya#Medan
+What is the Indonesian national language?|Indonesian#English#Javanese#Malay
+What are the colours of the Indonesian flag?|Red and white#Blue and white#Red and blue#Green and white
+When is Indonesia's Independence Day?|17 August#10 November#1 June#28 October
+Who was the first President of Indonesia?|Soekarno#Soeharto#B. J. Habibie#Joko Widodo
+Who was the first Vice President of Indonesia?|Mohammad Hatta#Soekarno#Diponegoro#Ki Hajar Dewantara
+What is the name of Indonesia's national motto?|Bhinneka Tunggal Ika#Tut Wuri Handayani#Garuda Indonesia#Indonesia Raya
+What does "Bhinneka Tunggal Ika" mean?|Unity in diversity#One language only#Many islands#A national song
+Who is known as a pioneer of education in Indonesia?|Ki Hajar Dewantara#Soekarno#Mohammad Hatta#Sultan Hasanuddin
+Which hero fought against the Dutch in Aceh?|Cut Nyak Dien#R. A. Kartini#Ki Hajar Dewantara#Pattimura
+What is the name of Indonesia's national emblem?|Garuda Pancasila#Komodo#Merah Putih#Indonesia Raya
+What is Pancasila?|Indonesia's national foundation#A traditional dance#A type of food#A city
+Which Indonesian national hero is associated with women's education?|R. A. Kartini#Diponegoro#Pattimura#Sisingamangaraja
+What does a keyboard help us do?|Type text#Print paper#Take photos#Play sound
+What device displays pictures and text from a computer?|Monitor#Keyboard#Mouse#Printer
+What device is used to move the pointer on a computer?|Mouse#Speaker#Printer#Monitor
+Which device can print a document?|Printer#Mouse#Keyboard#Speaker
+What should you do before opening an unknown file?|Ask a trusted adult#Open it quickly#Share it online#Delete the computer
+Which password is safer?|Blue7Tree!#123456#password#qwerty
+What is the Internet used for?|Sharing information and communicating#Washing clothes#Cooking food#Growing plants
+Which device can take digital photos?|Camera#Keyboard#Printer#Speaker
+What should you do if someone online asks for your home address?|Tell a trusted adult#Send the address#Post it publicly#Ask for their address
+What is an algorithm?|A set of steps to solve a problem#A computer screen#A type of keyboard#A computer cable
+Which one is an input device?|Keyboard#Monitor#Speaker#Printer
+Which file is most likely an image?|photo.jpg#song.mp3#book.pdf#program.exe
+Which action helps protect the environment?|Recycling#Littering#Wasting water#Leaving lights on
+Why should we save water?|Water is a valuable resource#Water is unlimited#Water is always dirty#Water cannot be used
+Which day comes after Wednesday?|Thursday#Tuesday#Friday#Monday
+How many days are in a week?|7#6#8#10
+How many months are in a year?|12#10#11#13
+Which season is usually the hottest in many places?|Summer#Winter#Autumn#Spring
+Which tool can help us measure temperature?|Thermometer#Ruler#Clock#Compass
+What should you do when you see rubbish on the ground?|Put it in the correct bin#Kick it away#Hide it#Throw more rubbish

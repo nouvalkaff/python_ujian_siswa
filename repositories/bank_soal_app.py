@@ -1,4 +1,4 @@
-from config import DIR_PATH_ID
+from config import DIR_PATH_IDN
 
 
 class BankSoalApp:
@@ -6,6 +6,6 @@ class BankSoalApp:
         self.daftar_soal = []
 
     def ambil_soal(self, tingkat: str) -> list[str]:
-        with open(f"{DIR_PATH_ID}_{tingkat}.txt", "r") as file:
+        with open(f"{DIR_PATH_IDN}_{tingkat}.txt", "r") as file:
             self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
         return self.daftar_soal

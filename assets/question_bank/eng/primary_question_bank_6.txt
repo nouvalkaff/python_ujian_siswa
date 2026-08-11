@@ -1,0 +1,115 @@
+What is 7,845 + 6,279?|14,124#13,124#14,024#14,224
+What is 15,000 - 7,856?|7,144#7,244#8,144#6,144
+What is 48 × 25?|1,200#1,000#1,100#1,250
+What is 1,728 ÷ 24?|72#62#82#74
+What is 35% of 240?|84#72#80#96
+What is 0.625 as a fraction in its simplest form?|5/8#3/5#5/6#1/2
+What is 3/4 + 2/5?|23/20#17/20#11/20#19/20
+What is 5/6 - 1/4?|7/12#4/12#3/12#5/12
+What is 2 1/3 + 1 1/6?|3 1/2#3 1/3#3 2/3#2 1/2
+What is 4.8 × 0.5?|2.4#2.2#2.8#24
+What is 7.2 ÷ 0.8?|9#8#10#7
+What is the highest common factor of 18 and 24?|6#4#8#12
+What is the lowest common multiple of 8 and 12?|24#16#32#48
+Which number is both a square number and a multiple of 3?|36#24#30#42
+What is 2³ × 3?|24#18#12#36
+A shirt costs $80 and is reduced by 25%. What is the sale price?|$60#$55#$65#$70
+A rectangle has an area of 96 cm² and a width of 8 cm. What is its length?|12 cm#10 cm#14 cm#16 cm
+A triangle has angles of 45° and 65°. What is the third angle?|70°#60°#80°#75°
+What is the perimeter of a rectangle measuring 15 cm by 7 cm?|44 cm#42 cm#40 cm#46 cm
+What is the mean of 12, 15, 18, 21 and 24?|18#17#19#20
+What is the probability of rolling an even number on a fair six-sided die?|1/2#1/3#2/3#1/6
+Which graph is most suitable for showing change over time?|Line graph#Pie chart#Bar chart#Pictogram
+What is 3.75 written as a percentage?|375%#37.5%#3.75%#35.75%
+If 5 pens cost $7.50, how much does one pen cost?|$1.50#$1.25#$2.00#$1.75
+What is the ratio of 12 boys to 18 girls in its simplest form?|2:3#3:2#4:5#6:9
+Which word is a conjunction?|Although#Quickly#Beautiful#Mountain
+Which sentence is in the present perfect tense?|She has finished her homework.#She finished her homework.#She is finishing her homework.#She will finish her homework.
+Which word is closest in meaning to "reluctant"?|Unwilling#Excited#Confident#Certain
+Which word is the opposite of "scarce"?|Abundant#Rare#Limited#Small
+What is the purpose of a conclusion in an argument?|To summarise the main points and support the final idea#To introduce a new topic#To ask unrelated questions#To provide a title
+Which sentence contains personification?|The wind whispered through the trees.#The wind was strong.#The trees were tall.#The leaves were green.
+What is a metaphor?|A comparison that describes one thing as another#A question with no answer#A repeated sound#A list of facts
+Which sentence uses a semicolon correctly?|I finished my work; then I went outside.#I finished; my work then I went outside.#I; finished my work then I went outside.#I finished my work then; I went outside.
+What is an inference based on?|Evidence and reasoning#Guessing without clues#The title only#The number of paragraphs
+Which feature helps organise information in a non-fiction text?|Headings#Rhyming words#Characters#Dialogue
+Which Indonesian word means "development"?|Perkembangan#Perjalanan#Perdagangan#Perbedaan
+What is the Indonesian word for "achievement"?|Pencapaian#Kegagalan#Perubahan#Kebiasaan
+Which Indonesian word is a conjunction?|Meskipun#Cepat#Rumah#Membaca
+What is the opposite of "optimis" in Indonesian?|Pesimis#Aktif#Kreatif#Produktif
+Which sentence uses effective formal Indonesian?|Pemerintah perlu meningkatkan kualitas pendidikan.#Pemerintah kudu bikin sekolah keren.#Aku mau sekolahnya bagus banget.#Sekolah itu enak banget.
+What does "keberagaman" mean?|Variety or diversity#Competition#Agreement#Movement
+What is the purpose of an argumentative text?|To present reasons supporting a viewpoint#To describe a fictional character#To tell a fairy tale#To list vocabulary
+Which word is a synonym for "cermat"?|Teliti#Lambat#Kasar#Lemah
+Which Indonesian text type explains how to do something?|Teks prosedur#Teks narasi#Teks puisi#Teks deskripsi
+What is the main purpose of a conclusion in an Indonesian report?|To summarise the information presented#To introduce the topic#To add an unrelated story#To list characters
+Which organ is mainly responsible for filtering waste from the blood?|Kidneys#Heart#Lungs#Stomach
+What is the function of red blood cells?|Transport oxygen#Fight all diseases#Digest food#Produce hormones
+What is the function of white blood cells?|Defend the body against pathogens#Carry oxygen#Pump blood#Digest fats
+What is the difference between a physical and chemical change?|A chemical change forms new substances#A physical change always forms a new substance#They are exactly the same#Neither can be reversed
+Which process changes a liquid into a gas?|Evaporation#Condensation#Freezing#Melting
+Which process changes a gas into a liquid?|Condensation#Evaporation#Sublimation#Freezing
+Why does the Earth experience day and night?|Earth rotates on its axis#Earth revolves around the Moon#The Sun revolves around Earth#The Moon blocks sunlight every night
+Approximately how long does Earth take to orbit the Sun?|365 days#24 hours#30 days#12 hours
+What causes the phases of the Moon?|The changing position of the Moon relative to Earth and the Sun#The Moon changing shape#Clouds covering the Moon#Earth changing size
+Which force keeps planets in orbit around the Sun?|Gravity#Friction#Magnetism#Electricity
+What happens to a shadow when an object moves closer to a light source?|It usually becomes larger#It disappears#It becomes colder#It changes into a reflection
+Which material is generally a good electrical conductor?|Copper#Rubber#Plastic#Glass
+What is a circuit?|A complete path through which electric current can flow#A type of battery#A source of light only#A piece of wire without connections
+What happens if a circuit is open?|Current cannot flow continuously#The current becomes stronger#The battery becomes larger#The bulb always gets brighter
+What is adaptation in biology?|A feature that helps an organism survive in its environment#A temporary change in weather#A type of food#A human-made machine
+Why are decomposers important in an ecosystem?|They return nutrients to the environment#They stop plants growing#They produce sunlight#They remove all oxygen
+What is biodiversity?|The variety of living organisms in an area#The number of buildings in a city#The amount of rainfall#The temperature of a habitat
+What is an ecosystem?|A community of organisms interacting with their environment#A single species only#A type of weather system#A geographical map
+What is population density?|The number of people per unit area#The total number of countries#The number of buildings only#The amount of rainfall
+What is urbanisation?|The growth of towns and cities#The movement of planets#The growth of forests#The reduction of population
+Why do people migrate?|For reasons such as work, education, family or safety#Because maps require movement#Because everyone must leave their country#Because cities cannot grow
+What is a primary source in history?|Evidence created during the period being studied#A modern summary written later#A fictional novel#A recent opinion article
+What is a secondary source?|An interpretation or account created after the event#An original historical document#A photograph taken during an event#An object from an archaeological site
+What is an economy?|A system involving the production, distribution and consumption of goods and services#A type of government building#A natural ecosystem#A weather pattern
+What is international trade?|The exchange of goods and services between countries#Travel between cities only#A local school activity#The exchange of historical documents
+Why are taxes collected by governments?|To fund public services and infrastructure#To stop all businesses#To prevent people from working#To remove public services
+What is sustainable development?|Development that meets present needs without seriously harming future generations#Building as quickly as possible#Using all natural resources immediately#Stopping all economic activity
+What is Indonesia's Proclamation of Independence?|A declaration announcing Indonesia's independence#A traditional ceremony#A trade agreement#A school regulation
+On what date was Indonesian independence proclaimed?|17 August 1945#10 November 1945#28 October 1928#1 June 1945
+Who signed the Proclamation of Indonesian Independence?|Soekarno and Mohammad Hatta#Soekarno and Ki Hajar Dewantara#Mohammad Hatta and Diponegoro#Bung Tomo and Soekarno
+What was the Sumpah Pemuda?|A declaration of youth unity in 1928#A declaration of independence#A military agreement#A national holiday
+What important idea was promoted by the Sumpah Pemuda?|Unity as one nation, one people and one language#Regional independence#Economic competition#Colonial government
+Who founded Taman Siswa?|Ki Hajar Dewantara#Soekarno#Mohammad Hatta#Bung Tomo
+What was Ki Hajar Dewantara's major contribution?|Education in Indonesia#Military technology#International trade#Architecture
+Which Indonesian heroine is associated with women's education and emancipation?|R. A. Kartini#Cut Nyak Dien#Martha Christina Tiahahu#Dewi Sartika
+What happened on 10 November 1945 in Surabaya?|A major battle occurred during the struggle for independence#Indonesia proclaimed independence#The Youth Pledge was made#Pancasila was created
+Who became a well-known figure during the Battle of Surabaya?|Bung Tomo#Ki Hajar Dewantara#R. A. Kartini#Mohammad Hatta
+What does Bhinneka Tunggal Ika emphasise?|Unity in diversity#One culture only#One ethnic group#One island
+What is Pancasila?|The philosophical foundation of the Indonesian state#A historical battle#A traditional musical instrument#A political party
+Which organisation is associated with the beginning of the Indonesian National Awakening in 1908?|Budi Utomo#Sumpah Pemuda#Taman Siswa#BPUPKI
+What is the main function of an operating system?|To manage computer hardware and software resources#To provide electricity#To print documents only#To connect a mouse only
+Which component performs most of the computer's processing?|CPU#Monitor#Keyboard#Speaker
+What does RAM provide?|Temporary storage for data and programs in use#Permanent paper storage#Internet access only#Power for the computer
+What is secondary storage used for?|Keeping data and programs for long-term use#Displaying images#Typing text#Producing sound
+What is a database?|An organised collection of data#A computer screen#A programming cable#A type of keyboard
+What is a search engine?|A service used to find information on the Internet#A computer processor#A file format#A type of printer
+What is an IP address?|An address used to identify a device or interface on a network#A password#A file name#A programming language
+What is encryption?|Transforming information so it is difficult for unauthorised people to read#Deleting information#Printing information#Increasing screen brightness
+What is phishing?|A fraudulent attempt to obtain sensitive information#A programming method#A type of computer hardware#A search engine
+What should you do if you receive a suspicious link?|Do not click it and report or ask a trusted adult#Click it immediately#Forward it to everyone#Enter your password
+What is two-factor authentication?|A security method requiring two forms of verification#Two computers connected together#Two passwords shared publicly#A type of software update
+What is an algorithm?|A sequence of clear steps used to solve a problem#A computer virus#A type of monitor#A storage device
+What is a conditional statement in programming?|An instruction that performs an action depending on a condition#A command that always repeats#A computer cable#A type of database
+What is a loop in programming?|A structure that repeats instructions#A way to delete files#A type of computer screen#A network address
+What is debugging?|Identifying and correcting errors in a program#Creating a password#Installing hardware#Downloading a picture
+What is a variable?|A named storage location whose value can change#A fixed image#A computer monitor#A network cable
+What does a spreadsheet cell contain?|A value or formula#Only a picture#Only a password#Only a webpage
+Which formula calculates the total of cells A1 to A5?|=SUM(A1:A5)#=TOTAL(A1-A5)#=ADD(A1:A5)#=PLUS(A1:A5)
+What is cloud computing?|Using remote computing resources over a network such as the Internet#Using a computer only during cloudy weather#Saving data only on paper#Using a computer without electricity
+Which device connects a computer to a wireless network?|Wireless adapter#Printer#Monitor#Keyboard
+Which planet is the largest in our Solar System?|Jupiter#Saturn#Earth#Neptune
+Which planet is famous for its prominent ring system?|Saturn#Mars#Venus#Mercury
+What is the largest ocean on Earth?|Pacific Ocean#Atlantic Ocean#Indian Ocean#Arctic Ocean
+Which continent has the largest population?|Asia#Africa#Europe#Australia
+What is the chemical symbol for sodium?|Na#So#S#Sd
+What is the smallest unit of life?|Cell#Organ#Tissue#Organism
+Which blood component helps blood clot?|Platelets#Red blood cells#White blood cells#Plasma
+What is the approximate speed of light?|300,000 km/s#3,000 km/s#30,000 km/s#3,000,000 km/s
+Which instrument measures atmospheric pressure?|Barometer#Thermometer#Anemometer#Seismometer
+What is the main gas in Earth's atmosphere?|Nitrogen#Oxygen#Carbon dioxide#Hydrogen
