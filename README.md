@@ -24,16 +24,22 @@ Multiple-choice practice quiz app for elementary school students (grades 1–6),
 ```text
 .
 ├── main.py                  # CLI version entry point
-├── functions.py             # CLI version logic
+├── models/
+│   └── soal.py               # Soal (question) domain model — CLI version
+├── repositories/
+│   └── bank_soal.py          # Loads question bank from disk — CLI version
+├── services/
+│   └── ujian_siswa.py        # Exam session logic (scoring, flow) — CLI version
 ├── streamlit_app.py         # Web version entry point
 ├── functions_app.py         # Web version logic
 ├── assets/
-│   ├── bank_soal_sd_1.txt
-│   ├── bank_soal_sd_2.txt
-│   ├── bank_soal_sd_3.txt
-│   ├── bank_soal_sd_4.txt
-│   ├── bank_soal_sd_5.txt
-│   └── bank_soal_sd_6.txt
+│   └── bank_soal/
+│       ├── bank_soal_sd_1.txt
+│       ├── bank_soal_sd_2.txt
+│       ├── bank_soal_sd_3.txt
+│       ├── bank_soal_sd_4.txt
+│       ├── bank_soal_sd_5.txt
+│       └── bank_soal_sd_6.txt
 ├── requirements.txt         # CLI version dependencies
 ├── requirements_app.txt     # Web version dependencies
 ├── Dockerfile                # CLI version Docker image
@@ -43,7 +49,7 @@ Multiple-choice practice quiz app for elementary school students (grades 1–6),
 └── README.md
 ```
 
-> CLI and Web versions deliberately kept in separate files (including `functions.py` vs `functions_app.py`) so each can be developed/customized independently without affecting the other.
+> CLI version uses an OOP structure (`models/`, `repositories/`, `services/`), while the Web version keeps its own separate logic in `functions_app.py` — so each can be developed/customized independently without affecting the other.
 
 ---
 
@@ -64,7 +70,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Pick a grade level (1–6), then answer 10 auto-shuffled multiple-choice questions.
+Pick a grade level (1–6), then answer up to 10 auto-shuffled multiple-choice questions. If a question bank has fewer than 10 questions, the session automatically adjusts to the available amount instead of erroring out. If the question bank is empty, the CLI shows a warning and exits instead of crashing.
 
 ### Docker
 
@@ -111,13 +117,13 @@ Access via `http://localhost:8501`.
 Each question is written on one line using this format:
 
 ```text
-Question|Correct Answer,Wrong Answer,Wrong Answer,Wrong Answer
+Question|Correct Answer#Wrong Answer#Wrong Answer#Wrong Answer
 ```
 
 Example:
 
 ```text
-2 + 3 =|5,4,6,7
+2 + 3 =|5#4#6#7
 ```
 
 > **Note:**
@@ -166,7 +172,7 @@ Keren banget! Kamu pintar sekali! 🌟
 
 - Add new question banks for other grade levels (place in `assets/`)
 - Edit question text or answer choices
-- Adjust number of questions per session (`JUMLAH_SOAL` in `functions.py` / `functions_app.py`)
+- Adjust number of questions per session (`JUMLAH_SOAL` in `services/ujian_siswa.py` / `functions_app.py`)
 - Build questions for other subjects or topics (Math, Indonesian, English, Science, Social Studies, etc.)
 
 Usage examples:
