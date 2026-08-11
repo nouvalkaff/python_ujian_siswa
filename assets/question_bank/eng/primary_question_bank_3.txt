@@ -1,102 +1,102 @@
-What is 125 + 234?|359#349#369#359
-What is 500 - 275?|225#215#235#325
-What is 7 × 8?|56#54#64#48
-What is 72 ÷ 9?|8#7#9#6
-What is 345 rounded to the nearest ten?|350#340#300#400
-Which fraction is equal to one half?|2/4#1/3#3/4#2/3
-What is 3/4 of 20?|15#12#16#10
-How many minutes are in 2 hours?|120#100#60#180
-What is the perimeter of a square with sides of 5 cm?|20 cm#15 cm#25 cm#10 cm
-Which number is a multiple of 6?|24#25#27#29
-What is 450 + 175?|625#615#635#525
-What is 900 - 456?|444#454#434#544
-What is 9 × 6?|54#45#63#48
-What is 81 ÷ 9?|9#8#10#7
-Which angle is a right angle?|90°#45°#180°#60°
-What is the value of the digit 7 in 374?|70#7#700#17
-Which is the smallest fraction?|1/4#1/2#3/4#2/3
-A rectangle is 8 cm long and 3 cm wide. What is its perimeter?|22 cm#24 cm#11 cm#16 cm
-What is 1000 - 325?|675#665#685#725
-If one pencil costs 4 dollars, how much do 6 pencils cost?|24 dollars#20 dollars#28 dollars#18 dollars
-Which word is an adjective?|Careful#Run#Teacher#Quickly
-Which word is an adverb?|Slowly#Beautiful#House#Jump
-What is the past tense of "go"?|Went#Goed#Gone#Going
-Which sentence uses the correct punctuation?|Where are you going?#Where are you going.#Where are you going,!#Where are you going,
-Which word is a synonym for "happy"?|Joyful#Angry#Tired#Quiet
-Which word is an antonym of "ancient"?|Modern#Old#Historic#Early
-What is the plural form of "mouse"?|Mice#Mouses#Mousees#Mices
-Which sentence is written in the past tense?|She visited her grandmother.#She visits her grandmother.#She is visiting her grandmother.#She will visit her grandmother.
-What is the main purpose of a title in a text?|To tell the reader what the text is about#To end the story#To list every word#To show the page number
-Which word contains the "sh" sound?|Ship#Chip#Thin#Sing
-Which Indonesian word means "library"?|Perpustakaan#Sekolah#Rumah#Pasar
-What is the Indonesian word for "beautiful"?|Indah#Cepat#Kecil#Panjang
-Which Indonesian word is a verb?|Menulis#Buku#Merah#Sekolah
-What is the opposite of "tinggi" in Indonesian?|Rendah#Panjang#Besar#Cepat
-Which sentence is correct in Indonesian?|Mereka bermain di taman.#Mereka bermain di taman?#mereka Bermain di Taman.#Mereka bermain di taman,
-What is the Indonesian word for "breakfast"?|Sarapan#Makan malam#Tidur#Belanja
-Which word means "library" in Indonesian?|Perpustakaan#Rumah sakit#Kantor pos#Pasar
-Which Indonesian word describes a colour?|Hijau#Berlari#Makan#Sekolah
-What is the Indonesian word for "mountain"?|Gunung#Laut#Sungai#Danau
-Which part of a plant carries water from the roots to the leaves?|Stem#Flower#Fruit#Seed
-What is the process by which plants make their own food using sunlight?|Photosynthesis#Digestion#Respiration#Germination
-Which organ helps humans breathe?|Lungs#Heart#Brain#Stomach
-What happens when water is heated to boiling point?|It changes into water vapour#It becomes ice#It becomes soil#It disappears
-Which material is a good conductor of electricity?|Copper#Wood#Plastic#Rubber
-Why do shadows form?|An object blocks light#The object produces water#The air becomes cold#The Sun stops moving
-Which force slows down a moving bicycle when the brakes are used?|Friction#Gravity#Magnetism#Light
-Which animal is an invertebrate?|Butterfly#Dog#Fish#Frog
-What is the main function of the skeleton?|To support and protect the body#To digest food#To pump blood#To make food
-Which state of matter has a fixed shape?|Solid#Liquid#Gas#Vapour
-What happens to most metals when they are heated?|They expand#They freeze#They disappear#They become water
-Which planet is known as the Red Planet?|Mars#Venus#Jupiter#Mercury
-What is the Earth’s natural satellite?|Moon#Sun#Mars#Venus
-What is a map key used for?|To explain map symbols#To measure temperature#To tell the time#To show photographs
-Which direction is opposite to north?|South#East#West#Up
-Why do people form communities?|To live, work and help one another#To avoid communication#To stop travelling#To remove all rules
-Which person is most likely to work on a farm?|Farmer#Pilot#Dentist#Librarian
-What is a natural resource?|Something from nature that people use#A computer game#A school rule#A type of building
-Which activity can help protect the environment?|Planting trees#Burning rubbish#Wasting water#Littering
-What does a government do?|Makes and manages laws and public services#Sells only toys#Builds every house#Teaches every child
-Why are roads and bridges important?|They help people and goods travel#They make rivers disappear#They stop all traffic#They create mountains
-Which place would you visit to learn about historical objects?|Museum#Supermarket#Airport#Restaurant
-What is the capital city of Indonesia?|Jakarta#Bandung#Surabaya#Yogyakarta
-When did Indonesia proclaim its independence?|17 August 1945#10 November 1945#1 June 1945#28 October 1928
-Who read the Indonesian Proclamation of Independence?|Soekarno#Mohammad Hatta#Ki Hajar Dewantara#Sultan Hasanuddin
-Who was Indonesia's first Vice President?|Mohammad Hatta#Soekarno#Soeharto#B. J. Habibie
-What is the name of Indonesia's national flag?|Merah Putih#Garuda Biru#Nusantara Raya#Sang Saka Hijau
-What does Bhinneka Tunggal Ika mean?|Unity in diversity#One island forever#One language only#Many countries together
-Who is known for establishing Taman Siswa?|Ki Hajar Dewantara#Soekarno#Diponegoro#Pattimura
-Which Indonesian heroine is famous for advocating women's education?|R. A. Kartini#Cut Nyak Dien#Martha Christina Tiahahu#Dewi Sartika
-Which historical event happened on 28 October 1928?|Youth Pledge#Proclamation of Independence#Battle of Surabaya#Pancasila Day
-What is the Youth Pledge known as in Indonesian?|Sumpah Pemuda#Proklamasi#Pancasila#Budi Utomo
-Which hero is strongly associated with the struggle in East Java during the Battle of Surabaya?|Bung Tomo#Diponegoro#Pattimura#Sultan Agung
-What is Pancasila?|The foundation of the Indonesian state#A traditional dance#A historical building#A national sport
-Which device is mainly used to type letters and numbers?|Keyboard#Monitor#Speaker#Printer
-Which device displays text, images and videos?|Monitor#Mouse#Keyboard#Microphone
-What is a web browser used for?|Accessing websites#Printing paper#Charging a battery#Drawing with a pencil
-Which of these is a search engine?|Google#Keyboard#Windows#Bluetooth
-What should you do with a strong password?|Keep it private#Share it with everyone#Post it online#Write it on a public wall
-What is an algorithm in computing?|A sequence of steps to solve a problem#A type of computer screen#A computer virus#A keyboard button
-Which device can record sound?|Microphone#Monitor#Printer#Mouse
-What is a computer file?|A collection of stored digital information#A computer chair#A power cable#A screen protector
-Which action is safest when receiving a suspicious message?|Tell a trusted adult#Click every link#Send your password#Reply with personal information
-What is a computer network?|Connected devices that can share information#A type of keyboard#A single computer screen#A printed document
-Which file extension is commonly used for an image?|.jpg#.mp3#.txt#.exe
-What does "download" mean?|Copy data from the Internet to a device#Delete a file#Turn off a computer#Print a webpage
-Which technology can help identify your location?|GPS#Keyboard#Printer#Speaker
-How many continents are there on Earth?|7#5#6#8
-Which is the largest ocean?|Pacific Ocean#Atlantic Ocean#Indian Ocean#Arctic Ocean
-Which country is famous for the Great Wall?|China#India#Japan#Egypt
-What is the largest land animal?|Elephant#Giraffe#Tiger#Horse
-How many sides does a hexagon have?|6#5#7#8
-What instrument is used to measure temperature?|Thermometer#Barometer#Ruler#Compass
-Which gas do humans breathe in to survive?|Oxygen#Carbon dioxide#Hydrogen#Helium
-How many days are there in a leap year?|366#365#364#360
-Which natural event is caused by shaking of the Earth's crust?|Earthquake#Rainbow#Eclipse#Drought
-Which renewable energy source uses sunlight?|Solar energy#Coal#Oil#Natural gas
-What should you do before crossing a road?|Look both ways and check for traffic#Run without looking#Use your phone#Close your eyes
-Why is recycling useful?|It helps reduce waste#It creates more rubbish#It wastes resources#It pollutes rivers
-Which source is most useful for finding information about the past?|Historical documents#A calculator#A toy#A television remote
-If two people have different opinions, what is a good response?|Listen respectfully to both views#Shout at the other person#Ignore everyone#Refuse to listen
-Which action shows good teamwork?|Sharing tasks and helping others#Doing nothing#Taking all the work#Ignoring teammates
-What should you do if information online seems unreliable?|Check it with trusted sources#Share it immediately#Believe it automatically#Delete the Internet
+What is 125 + 234|359#349#369#359
+What is 500 - 275|225#215#235#325
+What is 7 × 8|56#54#64#48
+What is 72 ÷ 9|8#7#9#6
+What is 345 rounded to the nearest ten|350#340#300#400
+Which fraction is equal to one half|2/4#1/3#3/4#2/3
+What is 3/4 of 20|15#12#16#10
+How many minutes are in 2 hours|120#100#60#180
+What is the perimeter of a square with sides of 5 cm|20 cm#15 cm#25 cm#10 cm
+Which number is a multiple of 6|24#25#27#29
+What is 450 + 175|625#615#635#525
+What is 900 - 456|444#454#434#544
+What is 9 × 6|54#45#63#48
+What is 81 ÷ 9|9#8#10#7
+Which angle is a right angle|90°#45°#180°#60°
+What is the value of the digit 7 in 374|70#7#700#17
+Which is the smallest fraction|1/4#1/2#3/4#2/3
+A rectangle is 8 cm long and 3 cm wide. What is its perimeter|22 cm#24 cm#11 cm#16 cm
+What is 1000 - 325|675#665#685#725
+If one pencil costs 4 dollars, how much do 6 pencils cost|24 dollars#20 dollars#28 dollars#18 dollars
+Which word is an adjective|Careful#Run#Teacher#Quickly
+Which word is an adverb|Slowly#Beautiful#House#Jump
+What is the past tense of "go"|Went#Goed#Gone#Going
+Which sentence uses the correct punctuation|Where are you going?#Where are you going.#Where are you going,!#Where are you going,
+Which word is a synonym for "happy"|Joyful#Angry#Tired#Quiet
+Which word is an antonym of "ancient"|Modern#Old#Historic#Early
+What is the plural form of "mouse"|Mice#Mouses#Mousees#Mices
+Which sentence is written in the past tense|She visited her grandmother.#She visits her grandmother.#She is visiting her grandmother.#She will visit her grandmother.
+What is the main purpose of a title in a text|To tell the reader what the text is about#To end the story#To list every word#To show the page number
+Which word contains the "sh" sound|Ship#Chip#Thin#Sing
+Which Indonesian word means "library"|Perpustakaan#Sekolah#Rumah#Pasar
+What is the Indonesian word for "beautiful"|Indah#Cepat#Kecil#Panjang
+Which Indonesian word is a verb|Menulis#Buku#Merah#Sekolah
+What is the opposite of "tinggi" in Indonesian|Rendah#Panjang#Besar#Cepat
+Which sentence is correct in Indonesian|Mereka bermain di taman.#Mereka bermain di taman?#mereka Bermain di Taman.#Mereka bermain di taman,
+What is the Indonesian word for "breakfast"|Sarapan#Makan malam#Tidur#Belanja
+Which word means "library" in Indonesian|Perpustakaan#Rumah sakit#Kantor pos#Pasar
+Which Indonesian word describes a colour|Hijau#Berlari#Makan#Sekolah
+What is the Indonesian word for "mountain"|Gunung#Laut#Sungai#Danau
+Which part of a plant carries water from the roots to the leaves|Stem#Flower#Fruit#Seed
+What is the process by which plants make their own food using sunlight|Photosynthesis#Digestion#Respiration#Germination
+Which organ helps humans breathe|Lungs#Heart#Brain#Stomach
+What happens when water is heated to boiling point|It changes into water vapour#It becomes ice#It becomes soil#It disappears
+Which material is a good conductor of electricity|Copper#Wood#Plastic#Rubber
+Why do shadows form|An object blocks light#The object produces water#The air becomes cold#The Sun stops moving
+Which force slows down a moving bicycle when the brakes are used|Friction#Gravity#Magnetism#Light
+Which animal is an invertebrate|Butterfly#Dog#Fish#Frog
+What is the main function of the skeleton|To support and protect the body#To digest food#To pump blood#To make food
+Which state of matter has a fixed shape|Solid#Liquid#Gas#Vapour
+What happens to most metals when they are heated|They expand#They freeze#They disappear#They become water
+Which planet is known as the Red Planet|Mars#Venus#Jupiter#Mercury
+What is the Earth’s natural satellite|Moon#Sun#Mars#Venus
+What is a map key used for|To explain map symbols#To measure temperature#To tell the time#To show photographs
+Which direction is opposite to north|South#East#West#Up
+Why do people form communities|To live, work and help one another#To avoid communication#To stop travelling#To remove all rules
+Which person is most likely to work on a farm|Farmer#Pilot#Dentist#Librarian
+What is a natural resource|Something from nature that people use#A computer game#A school rule#A type of building
+Which activity can help protect the environment|Planting trees#Burning rubbish#Wasting water#Littering
+What does a government do|Makes and manages laws and public services#Sells only toys#Builds every house#Teaches every child
+Why are roads and bridges important|They help people and goods travel#They make rivers disappear#They stop all traffic#They create mountains
+Which place would you visit to learn about historical objects|Museum#Supermarket#Airport#Restaurant
+What is the capital city of Indonesia|Jakarta#Bandung#Surabaya#Yogyakarta
+When did Indonesia proclaim its independence|17 August 1945#10 November 1945#1 June 1945#28 October 1928
+Who read the Indonesian Proclamation of Independence|Soekarno#Mohammad Hatta#Ki Hajar Dewantara#Sultan Hasanuddin
+Who was Indonesia's first Vice President|Mohammad Hatta#Soekarno#Soeharto#B. J. Habibie
+What is the name of Indonesia's national flag|Merah Putih#Garuda Biru#Nusantara Raya#Sang Saka Hijau
+What does Bhinneka Tunggal Ika mean|Unity in diversity#One island forever#One language only#Many countries together
+Who is known for establishing Taman Siswa|Ki Hajar Dewantara#Soekarno#Diponegoro#Pattimura
+Which Indonesian heroine is famous for advocating women's education|R. A. Kartini#Cut Nyak Dien#Martha Christina Tiahahu#Dewi Sartika
+Which historical event happened on 28 October 1928|Youth Pledge#Proclamation of Independence#Battle of Surabaya#Pancasila Day
+What is the Youth Pledge known as in Indonesian|Sumpah Pemuda#Proklamasi#Pancasila#Budi Utomo
+Which hero is strongly associated with the struggle in East Java during the Battle of Surabaya|Bung Tomo#Diponegoro#Pattimura#Sultan Agung
+What is Pancasila|The foundation of the Indonesian state#A traditional dance#A historical building#A national sport
+Which device is mainly used to type letters and numbers|Keyboard#Monitor#Speaker#Printer
+Which device displays text, images and videos|Monitor#Mouse#Keyboard#Microphone
+What is a web browser used for|Accessing websites#Printing paper#Charging a battery#Drawing with a pencil
+Which of these is a search engine|Google#Keyboard#Windows#Bluetooth
+What should you do with a strong password|Keep it private#Share it with everyone#Post it online#Write it on a public wall
+What is an algorithm in computing|A sequence of steps to solve a problem#A type of computer screen#A computer virus#A keyboard button
+Which device can record sound|Microphone#Monitor#Printer#Mouse
+What is a computer file|A collection of stored digital information#A computer chair#A power cable#A screen protector
+Which action is safest when receiving a suspicious message|Tell a trusted adult#Click every link#Send your password#Reply with personal information
+What is a computer network|Connected devices that can share information#A type of keyboard#A single computer screen#A printed document
+Which file extension is commonly used for an image|.jpg#.mp3#.txt#.exe
+What does "download" mean|Copy data from the Internet to a device#Delete a file#Turn off a computer#Print a webpage
+Which technology can help identify your location|GPS#Keyboard#Printer#Speaker
+How many continents are there on Earth|7#5#6#8
+Which is the largest ocean|Pacific Ocean#Atlantic Ocean#Indian Ocean#Arctic Ocean
+Which country is famous for the Great Wall|China#India#Japan#Egypt
+What is the largest land animal|Elephant#Giraffe#Tiger#Horse
+How many sides does a hexagon have|6#5#7#8
+What instrument is used to measure temperature|Thermometer#Barometer#Ruler#Compass
+Which gas do humans breathe in to survive|Oxygen#Carbon dioxide#Hydrogen#Helium
+How many days are there in a leap year|366#365#364#360
+Which natural event is caused by shaking of the Earth's crust|Earthquake#Rainbow#Eclipse#Drought
+Which renewable energy source uses sunlight|Solar energy#Coal#Oil#Natural gas
+What should you do before crossing a road|Look both ways and check for traffic#Run without looking#Use your phone#Close your eyes
+Why is recycling useful|It helps reduce waste#It creates more rubbish#It wastes resources#It pollutes rivers
+Which source is most useful for finding information about the past|Historical documents#A calculator#A toy#A television remote
+If two people have different opinions, what is a good response|Listen respectfully to both views#Shout at the other person#Ignore everyone#Refuse to listen
+Which action shows good teamwork|Sharing tasks and helping others#Doing nothing#Taking all the work#Ignoring teammates
+What should you do if information online seems unreliable|Check it with trusted sources#Share it immediately#Believe it automatically#Delete the Internet

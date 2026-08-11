@@ -1,110 +1,110 @@
-What is 4,275 + 3,689?|7,964#7,864#8,964#7,954
-What is 9,000 - 4,675?|4,325#4,225#4,425#5,325
-What is 36 × 24?|864#824#844#964
-What is 1,248 ÷ 12?|104#102#114#124
-What is the value of the digit 6 in 56,284?|6,000#600#60#6
-Which fraction is equivalent to 3/5?|9/15#6/15#3/10#12/25
-What is 2/3 + 1/6?|5/6#3/9#1/2#4/6
-What is 7/8 - 1/4?|5/8#6/8#3/8#4/8
-What is 35% of 200?|70#60#75#80
-Which decimal is equal to 3/4?|0.75#0.34#0.43#0.25
-What is 4.75 + 2.6?|7.35#6.35#7.25#7.45
-What is 9.2 - 3.85?|5.35#5.45#6.35#5.25
-What is the lowest common multiple of 4 and 6?|12#10#18#24
-Which number is a factor of 48?|6#7#10#14
-What is 15% of 80?|12#10#15#16
-A rectangle is 14 cm long and 6 cm wide. What is its area?|84 cm²#40 cm²#80 cm²#96 cm²
-A rectangle has a perimeter of 30 cm and a length of 10 cm. What is its width?|5 cm#10 cm#15 cm#20 cm
-What is 2.5 metres in centimetres?|250 cm#25 cm#205 cm#2,500 cm
-A journey starts at 09:45 and lasts 2 hours 35 minutes. When does it end?|12:20#11:20#12:10#12:30
-What is the mean of 6, 8, 10 and 12?|9#8#10#12
-Which angle measures exactly 90 degrees?|Right angle#Acute angle#Obtuse angle#Straight angle
-How many lines of symmetry does a square have?|4#2#3#6
-What is the probability of getting heads when a fair coin is tossed?|1/2#1/4#1/3#1
-Which graph is best for comparing different categories?|Bar chart#Line graph#Map#Timetable
-What is 5/10 in its simplest form?|1/2#1/5#2/5#5/10
-Which word is a pronoun?|They#Beautiful#Quickly#Garden
-Which word is an adverb?|Carefully#Careful#Careless#Care
-What is the past participle of "break"?|Broken#Breaked#Breaking#Breaks
-Which sentence is written in the passive voice?|The cake was baked by Mia.#Mia baked the cake.#Mia is baking the cake.#Mia will bake the cake.
-Which word is closest in meaning to "fortunate"?|Lucky#Angry#Careless#Lonely
-Which word is the opposite of "expand"?|Contract#Increase#Stretch#Grow
-What is the purpose of a paragraph's topic sentence?|To introduce its main idea#To end the whole text#To list every detail#To provide a page number
-Which sentence uses a metaphor?|The classroom was a zoo.#The classroom was noisy.#The students entered the classroom.#The classroom has twenty desks.
-Which punctuation mark is commonly used to show possession?|Apostrophe#Comma#Colon#Hyphen
-What is an inference?|A conclusion based on evidence and clues#A direct quotation#A title of a story#A spelling rule
-Which Indonesian word means "environmental pollution"?|Pencemaran lingkungan#Kebersihan lingkungan#Perubahan cuaca#Kegiatan ekonomi
-What is the Indonesian word for "achievement"?|Prestasi#Perjalanan#Peraturan#Persahabatan
-Which Indonesian word is an adjective?|Bijaksana#Membaca#Sekolah#Pelajaran
-Which Indonesian word is a conjunction?|Karena#Rumah#Berjalan#Merah
-What is the opposite of "boros" in Indonesian?|Hemat#Malas#Lambat#Berani
-Which sentence uses the correct capitalization?|Indonesia is a beautiful country.#indonesia is a beautiful country.#Indonesia is a Beautiful Country.#indonesia Is a beautiful country.
-What does "musyawarah" mean?|Discussion to reach an agreement#Working alone#Travelling together#Competing against others
-What does "gotong royong" encourage?|Cooperation#Competition#Isolation#Disagreement
-Which Indonesian word means "responsibility"?|Tanggung jawab#Keberanian#Kebersihan#Kemenangan
-What is the purpose of an Indonesian explanatory text?|To explain how or why something happens#To entertain with a fictional story#To list shopping items#To give a greeting
-Which organ filters waste from the blood and produces urine?|Kidneys#Heart#Lungs#Stomach
-What is the main function of red blood cells?|Carry oxygen#Digest food#Fight gravity#Produce bones
-Which organ is mainly responsible for digestion?|Stomach#Heart#Lungs#Brain
-What is evaporation?|A liquid changing into a gas#A gas changing into a liquid#A solid changing into a liquid#A liquid changing into a solid
-What is condensation?|A gas changing into a liquid#A liquid changing into a gas#A solid changing into a gas#A liquid changing into a solid
-Why does the Earth have day and night?|Earth rotates on its axis#Earth moves around the Moon#The Sun moves around Earth#The Moon blocks the Sun every day
-What causes the seasons on Earth?|Earth's tilted axis and its orbit around the Sun#The Moon's rotation#Daily rainfall#Ocean tides
-Which force opposes motion between two surfaces?|Friction#Gravity#Magnetism#Light
-Which material is an electrical insulator?|Rubber#Copper#Aluminium#Iron
-What happens to the pitch of a sound when its frequency increases?|It becomes higher#It becomes lower#It becomes silent#It becomes slower
-Which part of a plant carries water from roots to leaves?|Stem#Flower#Fruit#Seed
-Why are leaves usually green?|They contain chlorophyll#They contain water only#They contain soil#They reflect all colours
-What is a habitat?|A place where an organism lives#A type of food#A weather instrument#A type of rock
-Which organism is a producer in a food chain?|Grass#Rabbit#Fox#Eagle
-Why are decomposers important in ecosystems?|They recycle nutrients from dead organisms#They produce sunlight#They stop plants growing#They remove all water
-What is population density?|The number of people living in a given area#The total number of buildings#The amount of rainfall#The length of roads
-What is a renewable energy source?|Wind energy#Coal#Oil#Natural gas
-Why are rivers important to human settlements?|They provide water and support activities such as farming and transport#They always prevent flooding#They create deserts#They stop people travelling
-What is an urban area?|A place with many buildings and people#A remote forest#An uninhabited desert#A mountain peak
-What is migration?|The movement of people from one place to another#The growth of plants#The movement of clouds only#The exchange of goods
-Why do people trade with other countries?|To obtain goods or services they need or want#To stop communication#To prevent transportation#To reduce all production
-What is an economic resource?|Something used to produce goods or services#A type of weather#A historical monument#A school timetable
-What is a primary source in history?|Evidence created during the time being studied#A modern textbook only#A fictional story#A future prediction
-What is the purpose of a map scale?|To show the relationship between map distance and real distance#To show temperature#To identify languages#To measure population
-Which line of longitude passes through Greenwich, England?|Prime Meridian#Equator#Tropic of Cancer#International Date Line
-What is Indonesia's official independence date?|17 August 1945#28 October 1928#10 November 1945#1 June 1945
-Who proclaimed Indonesian independence together with Mohammad Hatta?|Soekarno#Ki Hajar Dewantara#Sutan Sjahrir#Bung Tomo
-What document declared Indonesia's independence?|Proclamation of Independence#Youth Pledge#Jakarta Charter#Pancasila
-What was the Youth Pledge made in 1928 called?|Sumpah Pemuda#Proklamasi#Budi Utomo#Pancasila
-What was an important idea of the Youth Pledge?|Unity among Indonesian youth#Building more factories#Creating new provinces#Starting international trade
-Who is closely associated with the educational movement Taman Siswa?|Ki Hajar Dewantara#Soekarno#Mohammad Hatta#Diponegoro
-Which Indonesian heroine is famous for advocating women's education?|R. A. Kartini#Cut Nyak Dien#Martha Christina Tiahahu#Dewi Sartika
-What is celebrated in Indonesia on 10 November?|Heroes' Day#Independence Day#Education Day#Youth Pledge Day
-Who was a famous commander during the Battle of Surabaya in 1945?|Bung Tomo#Diponegoro#Sultan Hasanuddin#Pattimura
-What does Bhinneka Tunggal Ika mean?|Unity in diversity#One language for everyone#One island only#Many countries together
-Which historical organization was founded in 1908 and is often associated with the beginning of the Indonesian national awakening?|Budi Utomo#Sumpah Pemuda#Pancasila#Taman Siswa
-What is Pancasila?|The philosophical foundation of the Indonesian state#A traditional dance#A historical battle#A national language
-Which Indonesian national symbol features a Garuda bird?|Garuda Pancasila#Merah Putih#Indonesia Raya#Sang Saka
-What is the main function of a CPU?|To process instructions and data#To display pictures#To print documents#To produce sound
-What is RAM used for?|Temporarily storing data and programs in use#Permanently printing documents#Displaying websites#Connecting headphones
-What is an operating system?|Software that manages computer hardware and applications#A type of cable#A search engine#A computer game
-Which of these is an example of an operating system?|Linux#Google#YouTube#Bluetooth
-What is a computer network?|A group of connected devices that can communicate#A single keyboard#A printed document#A computer screen
-What does an IP address identify?|A device or network interface on a network#A printer's ink level#A keyboard key#A file's colour
-What is a spreadsheet mainly used for?|Organising and calculating data#Editing photographs only#Playing music#Drawing cartoons only
-Which formula would add the values in cells A1 and A2?|=A1+A2#A1+A2#ADD A1 A2#SUM=A1-A2
-What is an algorithm?|A precise sequence of steps for solving a problem#A type of computer monitor#A storage cable#A web browser
-What is debugging?|Finding and fixing errors in a program#Deleting a program#Installing a keyboard#Changing a screen
-What is a loop in programming?|Instructions that repeat#A type of computer virus#A storage device#A network cable
-What is a variable in programming?|A named storage location for a value#A computer screen#A keyboard button#A printer
-What is phishing?|A trick used to steal personal or sensitive information#A type of programming language#A computer game#A search engine
-What should you do if an unknown person asks for your password online?|Do not share it and tell a trusted adult#Send it privately#Post it publicly#Use the same password everywhere
-What is two-factor authentication used for?|Adding an extra layer of account security#Making a screen brighter#Increasing storage space#Printing faster
-Which file extension is commonly used for a spreadsheet?|.xlsx#.jpg#.mp3#.txt
-What does "upload" mean?|Send data from your device to another system or service#Delete data permanently#Turn off a computer#Print a file
-How many continents are there?|7#6#8#5
-Which is the largest continent by land area?|Asia#Africa#Europe#Australia
-Which is the deepest ocean on Earth?|Pacific Ocean#Atlantic Ocean#Indian Ocean#Arctic Ocean
-What is the largest internal organ in the human body?|Liver#Heart#Brain#Lung
-Which blood cells help fight infections?|White blood cells#Red blood cells#Platelets#Plasma
-What is the chemical symbol for oxygen?|O#Ox#O2 only#Og
-Which planet has the most famous ring system?|Saturn#Mars#Mercury#Venus
-What is a leap year?|A year with 366 days#A year with 365 days#A year with 360 days#A year with 364 days
-Which instrument is used to measure earthquakes?|Seismograph#Thermometer#Barometer#Compass
-What is the largest mammal on Earth?|Blue whale#Elephant#Giraffe#Great white shark
+What is 4,275 + 3,689|7,964#7,864#8,964#7,954
+What is 9,000 - 4,675|4,325#4,225#4,425#5,325
+What is 36 × 24|864#824#844#964
+What is 1,248 ÷ 12|104#102#114#124
+What is the value of the digit 6 in 56,284|6,000#600#60#6
+Which fraction is equivalent to 3/5|9/15#6/15#3/10#12/25
+What is 2/3 + 1/6|5/6#3/9#1/2#4/6
+What is 7/8 - 1/4|5/8#6/8#3/8#4/8
+What is 35% of 200|70#60#75#80
+Which decimal is equal to 3/4|0.75#0.34#0.43#0.25
+What is 4.75 + 2.6|7.35#6.35#7.25#7.45
+What is 9.2 - 3.85|5.35#5.45#6.35#5.25
+What is the lowest common multiple of 4 and 6|12#10#18#24
+Which number is a factor of 48|6#7#10#14
+What is 15% of 80|12#10#15#16
+A rectangle is 14 cm long and 6 cm wide. What is its area|84 cm²#40 cm²#80 cm²#96 cm²
+A rectangle has a perimeter of 30 cm and a length of 10 cm. What is its width|5 cm#10 cm#15 cm#20 cm
+What is 2.5 metres in centimetres|250 cm#25 cm#205 cm#2,500 cm
+A journey starts at 09:45 and lasts 2 hours 35 minutes. When does it end|12:20#11:20#12:10#12:30
+What is the mean of 6, 8, 10 and 12|9#8#10#12
+Which angle measures exactly 90 degrees|Right angle#Acute angle#Obtuse angle#Straight angle
+How many lines of symmetry does a square have|4#2#3#6
+What is the probability of getting heads when a fair coin is tossed|1/2#1/4#1/3#1
+Which graph is best for comparing different categories|Bar chart#Line graph#Map#Timetable
+What is 5/10 in its simplest form|1/2#1/5#2/5#5/10
+Which word is a pronoun|They#Beautiful#Quickly#Garden
+Which word is an adverb|Carefully#Careful#Careless#Care
+What is the past participle of "break"|Broken#Breaked#Breaking#Breaks
+Which sentence is written in the passive voice|The cake was baked by Mia.#Mia baked the cake.#Mia is baking the cake.#Mia will bake the cake.
+Which word is closest in meaning to "fortunate"|Lucky#Angry#Careless#Lonely
+Which word is the opposite of "expand"|Contract#Increase#Stretch#Grow
+What is the purpose of a paragraph's topic sentence|To introduce its main idea#To end the whole text#To list every detail#To provide a page number
+Which sentence uses a metaphor|The classroom was a zoo.#The classroom was noisy.#The students entered the classroom.#The classroom has twenty desks.
+Which punctuation mark is commonly used to show possession|Apostrophe#Comma#Colon#Hyphen
+What is an inference|A conclusion based on evidence and clues#A direct quotation#A title of a story#A spelling rule
+Which Indonesian word means "environmental pollution"|Pencemaran lingkungan#Kebersihan lingkungan#Perubahan cuaca#Kegiatan ekonomi
+What is the Indonesian word for "achievement"|Prestasi#Perjalanan#Peraturan#Persahabatan
+Which Indonesian word is an adjective|Bijaksana#Membaca#Sekolah#Pelajaran
+Which Indonesian word is a conjunction|Karena#Rumah#Berjalan#Merah
+What is the opposite of "boros" in Indonesian|Hemat#Malas#Lambat#Berani
+Which sentence uses the correct capitalization|Indonesia is a beautiful country.#indonesia is a beautiful country.#Indonesia is a Beautiful Country.#indonesia Is a beautiful country.
+What does "musyawarah" mean|Discussion to reach an agreement#Working alone#Travelling together#Competing against others
+What does "gotong royong" encourage|Cooperation#Competition#Isolation#Disagreement
+Which Indonesian word means "responsibility"|Tanggung jawab#Keberanian#Kebersihan#Kemenangan
+What is the purpose of an Indonesian explanatory text|To explain how or why something happens#To entertain with a fictional story#To list shopping items#To give a greeting
+Which organ filters waste from the blood and produces urine|Kidneys#Heart#Lungs#Stomach
+What is the main function of red blood cells|Carry oxygen#Digest food#Fight gravity#Produce bones
+Which organ is mainly responsible for digestion|Stomach#Heart#Lungs#Brain
+What is evaporation|A liquid changing into a gas#A gas changing into a liquid#A solid changing into a liquid#A liquid changing into a solid
+What is condensation|A gas changing into a liquid#A liquid changing into a gas#A solid changing into a gas#A liquid changing into a solid
+Why does the Earth have day and night|Earth rotates on its axis#Earth moves around the Moon#The Sun moves around Earth#The Moon blocks the Sun every day
+What causes the seasons on Earth|Earth's tilted axis and its orbit around the Sun#The Moon's rotation#Daily rainfall#Ocean tides
+Which force opposes motion between two surfaces|Friction#Gravity#Magnetism#Light
+Which material is an electrical insulator|Rubber#Copper#Aluminium#Iron
+What happens to the pitch of a sound when its frequency increases|It becomes higher#It becomes lower#It becomes silent#It becomes slower
+Which part of a plant carries water from roots to leaves|Stem#Flower#Fruit#Seed
+Why are leaves usually green|They contain chlorophyll#They contain water only#They contain soil#They reflect all colours
+What is a habitat|A place where an organism lives#A type of food#A weather instrument#A type of rock
+Which organism is a producer in a food chain|Grass#Rabbit#Fox#Eagle
+Why are decomposers important in ecosystems|They recycle nutrients from dead organisms#They produce sunlight#They stop plants growing#They remove all water
+What is population density|The number of people living in a given area#The total number of buildings#The amount of rainfall#The length of roads
+What is a renewable energy source|Wind energy#Coal#Oil#Natural gas
+Why are rivers important to human settlements|They provide water and support activities such as farming and transport#They always prevent flooding#They create deserts#They stop people travelling
+What is an urban area|A place with many buildings and people#A remote forest#An uninhabited desert#A mountain peak
+What is migration|The movement of people from one place to another#The growth of plants#The movement of clouds only#The exchange of goods
+Why do people trade with other countries|To obtain goods or services they need or want#To stop communication#To prevent transportation#To reduce all production
+What is an economic resource|Something used to produce goods or services#A type of weather#A historical monument#A school timetable
+What is a primary source in history|Evidence created during the time being studied#A modern textbook only#A fictional story#A future prediction
+What is the purpose of a map scale|To show the relationship between map distance and real distance#To show temperature#To identify languages#To measure population
+Which line of longitude passes through Greenwich, England|Prime Meridian#Equator#Tropic of Cancer#International Date Line
+What is Indonesia's official independence date|17 August 1945#28 October 1928#10 November 1945#1 June 1945
+Who proclaimed Indonesian independence together with Mohammad Hatta|Soekarno#Ki Hajar Dewantara#Sutan Sjahrir#Bung Tomo
+What document declared Indonesia's independence|Proclamation of Independence#Youth Pledge#Jakarta Charter#Pancasila
+What was the Youth Pledge made in 1928 called|Sumpah Pemuda#Proklamasi#Budi Utomo#Pancasila
+What was an important idea of the Youth Pledge|Unity among Indonesian youth#Building more factories#Creating new provinces#Starting international trade
+Who is closely associated with the educational movement Taman Siswa|Ki Hajar Dewantara#Soekarno#Mohammad Hatta#Diponegoro
+Which Indonesian heroine is famous for advocating women's education|R. A. Kartini#Cut Nyak Dien#Martha Christina Tiahahu#Dewi Sartika
+What is celebrated in Indonesia on 10 November|Heroes' Day#Independence Day#Education Day#Youth Pledge Day
+Who was a famous commander during the Battle of Surabaya in 1945|Bung Tomo#Diponegoro#Sultan Hasanuddin#Pattimura
+What does Bhinneka Tunggal Ika mean|Unity in diversity#One language for everyone#One island only#Many countries together
+Which historical organization was founded in 1908 and is often associated with the beginning of the Indonesian national awakening|Budi Utomo#Sumpah Pemuda#Pancasila#Taman Siswa
+What is Pancasila|The philosophical foundation of the Indonesian state#A traditional dance#A historical battle#A national language
+Which Indonesian national symbol features a Garuda bird|Garuda Pancasila#Merah Putih#Indonesia Raya#Sang Saka
+What is the main function of a CPU|To process instructions and data#To display pictures#To print documents#To produce sound
+What is RAM used for|Temporarily storing data and programs in use#Permanently printing documents#Displaying websites#Connecting headphones
+What is an operating system|Software that manages computer hardware and applications#A type of cable#A search engine#A computer game
+Which of these is an example of an operating system|Linux#Google#YouTube#Bluetooth
+What is a computer network|A group of connected devices that can communicate#A single keyboard#A printed document#A computer screen
+What does an IP address identify|A device or network interface on a network#A printer's ink level#A keyboard key#A file's colour
+What is a spreadsheet mainly used for|Organising and calculating data#Editing photographs only#Playing music#Drawing cartoons only
+Which formula would add the values in cells A1 and A2|=A1+A2#A1+A2#ADD A1 A2#SUM=A1-A2
+What is an algorithm|A precise sequence of steps for solving a problem#A type of computer monitor#A storage cable#A web browser
+What is debugging|Finding and fixing errors in a program#Deleting a program#Installing a keyboard#Changing a screen
+What is a loop in programming|Instructions that repeat#A type of computer virus#A storage device#A network cable
+What is a variable in programming|A named storage location for a value#A computer screen#A keyboard button#A printer
+What is phishing|A trick used to steal personal or sensitive information#A type of programming language#A computer game#A search engine
+What should you do if an unknown person asks for your password online|Do not share it and tell a trusted adult#Send it privately#Post it publicly#Use the same password everywhere
+What is two-factor authentication used for|Adding an extra layer of account security#Making a screen brighter#Increasing storage space#Printing faster
+Which file extension is commonly used for a spreadsheet|.xlsx#.jpg#.mp3#.txt
+What does "upload" mean|Send data from your device to another system or service#Delete data permanently#Turn off a computer#Print a file
+How many continents are there|7#6#8#5
+Which is the largest continent by land area|Asia#Africa#Europe#Australia
+Which is the deepest ocean on Earth|Pacific Ocean#Atlantic Ocean#Indian Ocean#Arctic Ocean
+What is the largest internal organ in the human body|Liver#Heart#Brain#Lung
+Which blood cells help fight infections|White blood cells#Red blood cells#Platelets#Plasma
+What is the chemical symbol for oxygen|O#Ox#O2 only#Og
+Which planet has the most famous ring system|Saturn#Mars#Mercury#Venus
+What is a leap year|A year with 366 days#A year with 365 days#A year with 360 days#A year with 364 days
+Which instrument is used to measure earthquakes|Seismograph#Thermometer#Barometer#Compass
+What is the largest mammal on Earth|Blue whale#Elephant#Giraffe#Great white shark

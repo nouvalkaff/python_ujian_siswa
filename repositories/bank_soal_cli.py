@@ -1,14 +1,41 @@
 from colorama import Fore, Style
-from config import TINGKAT_SD, DIR_PATH_IDN
+from config import TINGKAT_SD, DIR_PATH_IDN, PILIHAN_BAHASA, DIR_PATH_ENG
 
 
 class BankSoal:
     def __init__(self) -> None:
         self.daftar_soal = []
+        self.pilihan_bahasa = ""
+
+    def _pilih_bahasa(self) -> str:
+        print("Silakan pilih bahasa pengantar / Please select your preferred language:")
+        print("1. Bahasa Indonesia (ID)")
+        print("2. English (EN)")
+        while True:
+            pilihan_bahasa = input("Input: ")
+            if pilihan_bahasa not in PILIHAN_BAHASA:
+                print(
+                    f"{Fore.YELLOW}Input tidak valid! Pilih 1 atau 2 / Invalid input! Choose 1 or 2.{Style.RESET_ALL}"
+                )
+                continue
+
+            if pilihan_bahasa == "1":
+                print("\nAnda memilih Bahasa Indonesia.")
+            else:
+                print("\nYou selected English.")
+
+            self.pilihan_bahasa = "ind" if pilihan_bahasa == "1" else "eng"
+            return pilihan_bahasa
 
     def ambil_soal(self) -> None:
-        with open(f"{DIR_PATH_IDN}_{BankSoal._ambil_tingkat()}.txt", "r") as file:
-            self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
+        bahasa = self._pilih_bahasa()
+
+        if bahasa == "1":
+            with open(f"{DIR_PATH_IDN}_{self._ambil_tingkat()}.txt", "r") as file:
+                self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
+        else:
+            with open(f"{DIR_PATH_ENG}_{self._ambil_tingkat_eng()}.txt", "r") as file:
+                self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
 
     @staticmethod
     def _ambil_tingkat() -> str:
@@ -31,6 +58,31 @@ class BankSoal:
 
             print(
                 f"{Fore.CYAN}Kamu mengerjakan soal kelas {tingkat_dipilih}{Style.RESET_ALL}\n"
+            )
+
+            return tingkat_dipilih
+
+    @staticmethod
+    def _ambil_tingkat_eng() -> str:
+        print("Select questions for elementary school grade:")
+        print("1. Grade 1")
+        print("2. Grade 2")
+        print("3. Grade 3")
+        print("4. Grade 4")
+        print("5. Grade 5")
+        print("6. Grade 6")
+
+        while True:
+            tingkat_dipilih = input("\nEnter grade level: ")
+
+            if tingkat_dipilih not in TINGKAT_SD:
+                print(
+                    f"{Fore.YELLOW}Invalid grade level. Choose one: 1, 2, 3, 4, 5, or 6.{Style.RESET_ALL}"
+                )
+                continue
+
+            print(
+                f"{Fore.CYAN}You are working on grade {tingkat_dipilih} questions.{Style.RESET_ALL}\n"
             )
 
             return tingkat_dipilih
