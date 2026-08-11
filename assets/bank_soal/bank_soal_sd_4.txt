@@ -1,4 +1,3 @@
-soal|jawaban benar#jawaban salah#jawaban salah#jawaban salah
 458 + 367 =|825#815#835#824
 726 + 189 =|915#905#925#914
 845 - 276 =|569#559#579#568

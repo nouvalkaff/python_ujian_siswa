@@ -1,4 +1,3 @@
-soal|jawaban benar#jawaban salah#jawaban salah#jawaban salah
 125 + 36 =|161#151#162#171
 243 + 57 =|300#290#310#301
 187 + 94 =|281#271#291#280

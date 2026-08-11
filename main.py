@@ -1,14 +1,16 @@
 # Practice app 3: Ujian Siswa v1.1
 from colorama import Fore, Style
 
-from functions import ambil_soal, proses_soal, ambil_tingkat
+from repositories.bank_soal import BankSoal
+from services.ujian_siswa import UjianSiswa
 
 
 def main():
     try:
-        tingkat_kelas = ambil_tingkat()
-        soal = ambil_soal(tingkat_kelas)
-        proses_soal(soal)
+        bank_soal = BankSoal()
+        bank_soal.ambil_soal()
+        ujian_siswa = UjianSiswa(bank_soal.daftar_soal)
+        ujian_siswa.proses_soal()
     except KeyboardInterrupt:
         print(f"\n{Fore.RED}Program dihentikan oleh pengguna!{Style.RESET_ALL}")
     except Exception as e:

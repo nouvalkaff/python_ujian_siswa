@@ -1,4 +1,3 @@
-soal|jawaban benar#jawaban salah#jawaban salah#jawaban salah
 12 + 15 =|27#26#28#25
 24 + 13 =|37#36#38#35
 35 + 14 =|49#48#50#47
