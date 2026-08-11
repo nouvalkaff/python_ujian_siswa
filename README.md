@@ -23,9 +23,9 @@ Multiple-choice practice quiz app for elementary school students (grades 1–6),
 
 ```text
 .
-├── main.py                   # CLI version entry point
-├── streamlit_app.py                # Web version entry point
-├── config.py                  # Shared constants (JUMLAH_SOAL, TINGKAT_SD, DIR_PATH, PILIHAN_GANDA)
+├── main.py                     # CLI version entry point
+├── streamlit_app.py            # Web version entry point
+├── config.py                   # Shared constants (JUMLAH_SOAL, TINGKAT_SD, DIR_PATH, PILIHAN_GANDA)
 ├── models/
 │   ├── soal_cli.py             # Soal (question) domain model — CLI version
 │   └── soal_app.py             # Soal (question) domain model — Web version
@@ -44,8 +44,8 @@ Multiple-choice practice quiz app for elementary school students (grades 1–6),
 │       ├── bank_soal_sd_4.txt
 │       ├── bank_soal_sd_5.txt
 │       └── bank_soal_sd_6.txt
-├── requirements.txt          # CLI version dependencies
-├── requirements_app.txt      # Web version dependencies
+├── requirements.txt           # CLI version dependencies
+├── requirements_app.txt       # Web version dependencies
 ├── Dockerfile                 # CLI version Docker image
 ├── Dockerfile_app             # Web version Docker image
 ├── .gitignore
