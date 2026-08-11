@@ -14,7 +14,7 @@ TEXT = {
         "submit": "Jawab",
         "next": "Lanjut",
         "correct": "Jawaban benar! 🎉",
-        "wrong": "Jawaban salah. Jawaban yang benar:",
+        "wrong": "Jawaban salah.",
         "empty": "Bank soal untuk kelas ini kosong. Pilih kelas lain.",
     },
     "2": {
@@ -27,7 +27,7 @@ TEXT = {
         "submit": "Submit",
         "next": "Next",
         "correct": "Correct answer! 🎉",
-        "wrong": "Incorrect answer. The correct answer is:",
+        "wrong": "Incorrect answer.",
         "empty": "The question bank for this grade is empty. Choose another grade.",
     },
 }
@@ -35,15 +35,30 @@ TEXT = {
 
 def main():
     try:
+        # Step 1: Language selection — standalone page
         if "bahasa" not in st.session_state:
-            bahasa = st.selectbox(
+            st.title("🌐 Bahasa / Language")
+            st.write("Pilih bahasa pengantar / Select your preferred language")
+
+            bahasa_dipilih = st.selectbox(
                 "Bahasa / Language",
                 PILIHAN_BAHASA,
                 format_func=lambda x: ("Bahasa Indonesia" if x == "1" else "English"),
             )
 
-            text = TEXT[bahasa]
+            lanjut = "Lanjut" if bahasa_dipilih == "1" else "Next"
 
+            if st.button(lanjut):
+                st.session_state.bahasa = bahasa_dipilih
+                st.rerun()
+
+            return
+
+        bahasa = st.session_state.bahasa
+        text = TEXT[bahasa]
+
+        # Step 2: Grade selection — separate page, shown after language is confirmed
+        if "soal_list" not in st.session_state:
             st.title(text["title"])
             st.write(text["instruction"])
 
@@ -62,9 +77,6 @@ def main():
                     st.warning(text["empty"])
 
         else:
-            bahasa = st.session_state.bahasa
-            text = TEXT[bahasa]
-
             ujian_siswa_app = UjianSiswaApp()
 
             if "jumlah_soal_real" in st.session_state:
@@ -120,12 +132,12 @@ def main():
                         st.rerun()
 
                 else:
-                    status, jawaban_benar = st.session_state.feedback
+                    status, _ = st.session_state.feedback
 
                     if status == "benar":
                         st.success(text["correct"])
                     else:
-                        st.error(f"{text['wrong']} " f"**{jawaban_benar}**")
+                        st.error(text["wrong"])
 
                     if st.button(text["next"]):
                         st.session_state.index += 1
