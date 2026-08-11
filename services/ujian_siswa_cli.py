@@ -1,12 +1,11 @@
 from colorama import Fore, Style
 from random import shuffle
 
-from models.soal import Soal
+from models.soal_cli import Soal
+from config import JUMLAH_SOAL, PILIHAN_GANDA
 
 
 class UjianSiswa:
-    JUMLAH_SOAL = 10
-
     def __init__(self, soal_raw: list[str]):
         self.soal_raw = soal_raw
         self.jawaban_benar = 0
@@ -14,7 +13,7 @@ class UjianSiswa:
     def proses_soal(self):
         shuffle(self.soal_raw)
 
-        jumlah_soal = min(self.JUMLAH_SOAL, len(self.soal_raw))
+        jumlah_soal = min(JUMLAH_SOAL, len(self.soal_raw))
         if jumlah_soal == 0:
             print(
                 f"{Fore.RED}Bank soal kosong, tidak bisa memulai ujian.{Style.RESET_ALL}"
@@ -66,7 +65,7 @@ class UjianSiswa:
         while True:
             jawaban_user = input("\nJawabanmu: ").strip().lower()
 
-            if jawaban_user not in Soal.PILIHAN_GANDA:
+            if jawaban_user not in PILIHAN_GANDA:
                 print(
                     f"{Fore.YELLOW}Jawaban tidak valid! Ketik salah satu huruf: a, b, c, atau d.{Style.RESET_ALL}"
                 )

@@ -1,8 +1,8 @@
 # Practice app 3: Ujian Siswa v1.1
 from colorama import Fore, Style
 
-from repositories.bank_soal import BankSoal
-from services.ujian_siswa import UjianSiswa
+from repositories.bank_soal_cli import BankSoal
+from services.ujian_siswa_cli import UjianSiswa
 
 
 def main():

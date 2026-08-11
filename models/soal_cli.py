@@ -1,9 +1,8 @@
 from random import shuffle
+from config import PILIHAN_GANDA
 
 
 class Soal:
-    PILIHAN_GANDA = ["a", "b", "c", "d"]
-
     def __init__(self, teks_soal: str, kumpulan_jawaban: list[str]) -> None:
         self.teks_soal = teks_soal
         self.jawaban_benar = kumpulan_jawaban[0]
@@ -14,7 +13,7 @@ class Soal:
         shuffle(self.kumpulan_jawaban)
         self.map_pg = {}
 
-        huruf_isi = zip(self.PILIHAN_GANDA, self.kumpulan_jawaban)
+        huruf_isi = zip(PILIHAN_GANDA, self.kumpulan_jawaban)
         for huruf, isi in huruf_isi:
             self.map_pg[huruf] = isi
             print(f"{huruf}. {isi}")

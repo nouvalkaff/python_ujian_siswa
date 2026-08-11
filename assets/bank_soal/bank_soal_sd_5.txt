@@ -1,7 +1,7 @@
 2456 + 3789 =|6245#6235#6255#6246
 8000 - 3567 =|4433#4423#4443#4432
-325 × 24 =|7800#7700#7900#7750
-864 ÷ 24 =|36#34#38#35
+325 X 24 =|7800#7700#7900#7750
+864 / 24 =|36#34#38#35
 2,5 + 3,75 =|6,25#6,15#6,5#5,25
 8,4 - 2,75 =|5,65#5,75#5,55#5,45
 25% dari 200 adalah|50#40#25#75
@@ -11,8 +11,8 @@
 FPB dari 24 dan 36 adalah|12#6#18#24
 KPK dari 15 dan 20 adalah|60#40#30#120
 Skala 1 : 100 berarti|1 cm mewakili 100 cm#1 cm mewakili 10 cm#100 cm mewakili 1 cm#10 cm mewakili 100 cm
-Volume balok =|panjang × lebar × tinggi#sisi × sisi × sisi#panjang × lebar#2 × (p+l)
-Luas segitiga =|1/2 × alas × tinggi#alas × tinggi#sisi × sisi#2 × alas
+Volume balok =|panjang X lebar X tinggi#sisi X sisi X sisi#panjang X lebar#2 X (p+l)
+Luas segitiga =|1/2 X alas X tinggi#alas X tinggi#sisi X sisi#2 X alas
 Kalimat utama merupakan|gagasan pokok paragraf#judul cerita#penutup bacaan#contoh kalimat
 Sinonim kata "abadi" adalah|kekal#sementara#sebentar#baru
 Antonim kata "modern" adalah|tradisional#maju#baru#canggih
@@ -54,8 +54,8 @@ Luas lingkaran dengan jari-jari 7 cm (π = 22/7) adalah|154 cm²#144 cm²#164 cm
 Keliling lingkaran dengan jari-jari 7 cm (π = 22/7) adalah|44 cm#42 cm#48 cm#49 cm
 15% dari 400 adalah|60#40#50#80
 0,75 sama dengan pecahan|3/4#2/3#1/2#4/5
-3,25 × 10 =|32,5#3,25#325#30,25
-4800 ÷ 100 =|48#4,8#480#40
+3,25 X 10 =|32,5#3,25#325#30,25
+4800 / 100 =|48#4,8#480#40
 Jika harga sebuah buku Rp20.000 dan membeli 3 buku, maka total harganya|Rp60.000#Rp50.000#Rp70.000#Rp80.000
 Jarak pada peta 5 cm dengan skala 1 : 200.000 adalah|10 km#5 km#20 km#1 km
 Paragraf eksposisi bertujuan|memberikan informasi#menghibur#mengajak#menceritakan pengalaman
