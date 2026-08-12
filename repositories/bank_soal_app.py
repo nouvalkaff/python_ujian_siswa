@@ -11,7 +11,10 @@ class BankSoalApp:
             "2": DIR_PATH_ENG,
         }
 
-        with open(f"{path_soal[bahasa]}_{tingkat}.txt", "r") as file:
-            self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
+        try:
+            with open(f"{path_soal[bahasa]}_{tingkat}.txt", "r") as file:
+                self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
+        except FileNotFoundError:
+            self.daftar_soal = []
 
         return self.daftar_soal

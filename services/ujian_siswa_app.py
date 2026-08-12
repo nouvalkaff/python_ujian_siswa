@@ -15,7 +15,7 @@ class UjianSiswaApp:
         self.selesai = False
         self.sudah_jawab = False
         self.jumlah_soal_real = JUMLAH_SOAL
-        self.bahasa = "id"
+        self.bahasa = "1"
 
     def siapkan_sesi(self, tingkat: str, bahasa: str) -> bool:
         self.bahasa = bahasa
@@ -55,7 +55,7 @@ class UjianSiswaApp:
     def _hitung_nilai(self) -> tuple[int, str]:
         nilai = int((self.jumlah_benar / self.jumlah_soal_real) * 100)
 
-        if self.bahasa == "id":
+        if self.bahasa == "1":
             pesan = evaluasi_nilai(nilai)
         else:
             pesan = evaluate_score(nilai)
@@ -65,7 +65,7 @@ class UjianSiswaApp:
     def tampilkan_hasil_web(self):
         nilai, pesan = self._hitung_nilai()
 
-        if self.bahasa == "id":
+        if self.bahasa == "1":
             st.subheader(f"Nilai akhir: {nilai}")
             st.write(f"Jawaban benar: " f"{self.jumlah_benar}/{self.jumlah_soal_real}")
             st.success(pesan)
@@ -103,7 +103,7 @@ class UjianSiswaApp:
                     if not benar:
                         st.write(f"Correct answer: **{soal['jawaban_benar']}**")
 
-        if st.button("Ulangi dari awal" if self.bahasa == "id" else "Start Again"):
+        if st.button("Ulangi dari awal" if self.bahasa == "1" else "Start Again"):
             for k in [
                 "soal_list",
                 "index",

@@ -39,7 +39,7 @@ Question banks are now separated by language:
 ```text
 assets/
 └── question_bank/
-    ├── idn/
+    ├── ind/
     └── eng/
 ```
 
@@ -70,7 +70,7 @@ bank_soal_sd_6.txt
 The language-specific paths are centralized in `config.py`:
 
 ```python
-DIR_PATH_IDN = "./assets/question_bank/idn/bank_soal_sd"
+DIR_PATH_IDN = "./assets/question_bank/ind/bank_soal_sd"
 DIR_PATH_ENG = "./assets/question_bank/eng/primary_question_bank"
 ```
 
@@ -116,7 +116,7 @@ The English question banks are designed for elementary students from Grade 1 thr
 │
 ├── assets/
 │   └── question_bank/
-│       ├── idn/
+│       ├── ind/
 │       │   ├── bank_soal_sd_1.txt
 │       │   ├── bank_soal_sd_2.txt
 │       │   ├── bank_soal_sd_3.txt
@@ -245,14 +245,15 @@ http://localhost:8501
 
 The Web version allows students to:
 
-1. Select a grade level
-2. Start the quiz
-3. Answer multiple-choice questions
-4. Receive feedback after submitting an answer
-5. Continue to the next question
-6. View the final score
+1. Select a preferred language (Bahasa Indonesia / English)
+2. Select a grade level
+3. Start the quiz
+4. Answer multiple-choice questions
+5. Receive feedback after submitting an answer
+6. Continue to the next question
+7. View the final score
 
-The Web version currently uses the Indonesian question-bank flow.
+Like the CLI version, the Web version supports both Bahasa Indonesia and English question banks.
 
 ---
 
@@ -343,7 +344,7 @@ The application then shuffles all four answer choices before displaying them to 
 Location:
 
 ```text
-assets/question_bank/idn/
+assets/question_bank/ind/
 ```
 
 Filename:
@@ -458,7 +459,7 @@ Use the appropriate language directory:
 
 ```text
 assets/question_bank/
-├── idn/
+├── ind/
 └── eng/
 ```
 
@@ -528,8 +529,6 @@ The project focuses on practicing:
 - Multilingual question-bank management
 - Streamlit application development
 - Docker containerization
-
----
 
 ## 👨‍💻 Developer
 

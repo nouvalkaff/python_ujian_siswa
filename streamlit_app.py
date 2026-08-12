@@ -135,14 +135,15 @@ def main():
 
                 st.subheader(soal["pertanyaan"])
 
-                pilihan = st.radio(
+                pilihan_idx = st.radio(
                     text["answer"],
-                    soal["opsi"],
+                    range(len(soal["opsi"])),
                     index=None,
                     key=f"pilihan_{i}",
                     disabled=st.session_state.sudah_jawab,
-                    format_func=lambda opt: f"{chr(65 + soal['opsi'].index(opt))}. {opt}",
+                    format_func=lambda idx: f"{chr(65 + idx)}. {soal['opsi'][idx]}",
                 )
+                pilihan = soal["opsi"][pilihan_idx] if pilihan_idx is not None else None
 
                 if not st.session_state.sudah_jawab:
                     if st.button(

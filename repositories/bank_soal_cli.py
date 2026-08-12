@@ -30,12 +30,23 @@ class BankSoal:
     def ambil_soal(self) -> None:
         bahasa = self._pilih_bahasa()
 
-        if bahasa == "ind":
-            with open(f"{DIR_PATH_IDN}_{self._ambil_tingkat()}.txt", "r") as file:
-                self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
-        else:
-            with open(f"{DIR_PATH_ENG}_{self._ambil_tingkat_eng()}.txt", "r") as file:
-                self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
+        try:
+            if bahasa == "ind":
+                with open(f"{DIR_PATH_IDN}_{self._ambil_tingkat()}.txt", "r") as file:
+                    self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
+            else:
+                with open(
+                    f"{DIR_PATH_ENG}_{self._ambil_tingkat_eng()}.txt", "r"
+                ) as file:
+                    self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
+        except FileNotFoundError:
+            msg = (
+                "Bank soal untuk tingkat ini tidak tersedia."
+                if bahasa == "ind"
+                else "The question bank for this grade is not available."
+            )
+            print(f"{Fore.YELLOW}{msg}{Style.RESET_ALL}")
+            self.daftar_soal = []
 
     @staticmethod
     def _ambil_tingkat() -> str:
