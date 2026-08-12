@@ -3,6 +3,39 @@ import streamlit as st
 from services.ujian_siswa_app import UjianSiswaApp
 from config import TINGKAT_SD, PILIHAN_BAHASA
 
+RADIO_CSS = """
+    <style>
+    div[data-testid="stRadio"] > div[role="radiogroup"] {
+        gap: 8px;
+    }
+    div[data-testid="stRadio"] label[data-baseweb="radio"] {
+        background-color: #1c1f26;
+        border: 1px solid #3a3f4b;
+        border-radius: 8px;
+        padding: 10px 14px;
+        width: 100%;
+        transition: border-color 0.15s ease, background-color 0.15s ease;
+    }
+    div[data-testid="stRadio"] label[data-baseweb="radio"]:hover {
+        border-color: #7a8194;
+        background-color: #22262e;
+    }
+    div[data-testid="stRadio"] label[data-baseweb="radio"] > div:first-child {
+        background-color: #2a2e37 !important;
+        border: 2px solid #7a8194 !important;
+        width: 20px !important;
+        height: 20px !important;
+    }
+    div[data-testid="stRadio"] label[data-baseweb="radio"] div[aria-checked="true"] > div:first-child,
+    div[data-testid="stRadio"] input:checked + div {
+        border-color: #e63946 !important;
+    }
+    div[data-testid="stRadio"] label[data-baseweb="radio"] > div:first-child > div {
+        background-color: #e63946 !important;
+    }
+    </style>
+"""
+
 TEXT = {
     "1": {
         "title": "📝 Ujian Siswa SD",
@@ -34,6 +67,7 @@ TEXT = {
 
 
 def main():
+    st.markdown(RADIO_CSS, unsafe_allow_html=True)
     try:
         # Step 1: Language selection — standalone page
         if "bahasa" not in st.session_state:
@@ -107,6 +141,7 @@ def main():
                     index=None,
                     key=f"pilihan_{i}",
                     disabled=st.session_state.sudah_jawab,
+                    format_func=lambda opt: f"{chr(65 + soal['opsi'].index(opt))}. {opt}",
                 )
 
                 if not st.session_state.sudah_jawab:
