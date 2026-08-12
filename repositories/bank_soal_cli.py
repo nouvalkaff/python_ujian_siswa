@@ -12,25 +12,25 @@ class BankSoal:
         print("1. Bahasa Indonesia (ID)")
         print("2. English (EN)")
         while True:
-            pilihan_bahasa = input("Input: ")
-            if pilihan_bahasa not in PILIHAN_BAHASA:
+            input_bahasa = input("Input: ")
+            if input_bahasa not in PILIHAN_BAHASA:
                 print(
                     f"{Fore.YELLOW}Input tidak valid! Pilih 1 atau 2 / Invalid input! Choose 1 or 2.{Style.RESET_ALL}"
                 )
                 continue
 
-            if pilihan_bahasa == "1":
+            if input_bahasa == "1":
                 print("\nAnda memilih Bahasa Indonesia.")
             else:
                 print("\nYou selected English.")
 
-            self.pilihan_bahasa = "ind" if pilihan_bahasa == "1" else "eng"
-            return pilihan_bahasa
+            self.pilihan_bahasa = "ind" if input_bahasa == "1" else "eng"
+            return self.pilihan_bahasa
 
     def ambil_soal(self) -> None:
         bahasa = self._pilih_bahasa()
 
-        if bahasa == "1":
+        if bahasa == "ind":
             with open(f"{DIR_PATH_IDN}_{self._ambil_tingkat()}.txt", "r") as file:
                 self.daftar_soal = [soal.strip() for soal in file if soal.strip()]
         else:

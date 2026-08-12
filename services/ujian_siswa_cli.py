@@ -20,7 +20,7 @@ class UjianSiswa:
         if jumlah_soal == 0:
             message = (
                 "Bank soal kosong, tidak bisa memulai ujian."
-                if self.bahasa == "idn"
+                if self.bahasa == "ind"
                 else "Question bank is empty, cannot start the exam."
             )
             print(f"{Fore.RED}{message}{Style.RESET_ALL}")
@@ -31,7 +31,7 @@ class UjianSiswa:
             soal_mentah = soal_jawaban[0]
             kumpulan_jawaban = soal_jawaban[1].split("#")
 
-            is_bahasa_idn = self.bahasa == "idn"
+            is_bahasa_idn = self.bahasa == "ind"
 
             msg_1 = "Soal:" if is_bahasa_idn else "Question:"
             msg_1 = f"{i+1}. {msg_1} {soal_mentah} ?"

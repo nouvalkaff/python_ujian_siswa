@@ -13,10 +13,10 @@ def main():
         ujian_siswa = UjianSiswa(bank_soal.daftar_soal, bank_soal.pilihan_bahasa)
         ujian_siswa.proses_soal()
     except KeyboardInterrupt:
-        bahasa = getattr(bank_soal, "pilihan_bahasa", "idn")
+        bahasa = getattr(bank_soal, "pilihan_bahasa", "ind")
         msg = (
             "Program dihentikan oleh pengguna!"
-            if bahasa == "idn"
+            if bahasa == "ind"
             else "Program stopped by user!"
         )
         print(f"\n{Fore.RED}{msg}{Style.RESET_ALL}")
